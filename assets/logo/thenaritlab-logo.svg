@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160" width="640" height="160" role="img" aria-label="The Narit Lab">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A73E8"/>
+      <stop offset="1" stop-color="#12B5A0"/>
+    </linearGradient>
+  </defs>
+  <!-- flask -->
+  <g transform="translate(20,16)">
+    <path d="M48 8h32v10h-4v34l30 52c6 10-1 24-13 24H35c-12 0-19-14-13-24l30-52V18h-4z" fill="none" stroke="url(#g)" stroke-width="7" stroke-linejoin="round"/>
+    <path d="M40 92h48l-18-30h-12z" fill="url(#g)" opacity="0.25"/>
+    <!-- data nodes inside flask -->
+    <circle cx="52" cy="98" r="6" fill="#1A73E8"/>
+    <circle cx="76" cy="84" r="6" fill="#12B5A0"/>
+    <circle cx="66" cy="112" r="6" fill="#1A73E8"/>
+    <path d="M52 98L76 84M52 98L66 112M76 84L66 112" stroke="#0F5AA6" stroke-width="3"/>
+  </g>
+  <!-- wordmark -->
+  <text x="180" y="78" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700" fill="#1F2937">The Narit Lab</text>
+  <text x="182" y="116" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="500" fill="#6B7280" letter-spacing="4">DATA · BI · AI</text>
+</svg>

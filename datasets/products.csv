@@ -1,0 +1,61 @@
+product_id,product_name,category,sub_category,brand,unit_price,unit_cost,status
+P0001,Siam Tech Headphones,Electronics,Headphones,Siam Tech,5156.72,2553.02,Active
+P0002,Isan Works Headphones,Electronics,Headphones,Isan Works,5627.44,2720.47,Active
+P0003,Siam Tech Keyboard,Electronics,Keyboard,Siam Tech,3896.65,2203.31,Active
+P0004,Isan Works Keyboard,Electronics,Keyboard,Isan Works,4559.99,3472.87,Active
+P0005,Isan Works Monitor,Electronics,Monitor,Isan Works,1154.82,853.04,Active
+P0006,Narita Monitor,Electronics,Monitor,Narita,1961.48,1184.14,Active
+P0007,Narita Webcam,Electronics,Webcam,Narita,3056.43,1664.13,Active
+P0008,Andaman Co Webcam,Electronics,Webcam,Andaman Co,2251.16,1404.34,Active
+P0009,Siam Tech Power Bank,Electronics,Power Bank,Siam Tech,731.22,419.81,Active
+P0010,Chao Phraya Power Bank,Electronics,Power Bank,Chao Phraya,3668.18,1841.88,Discontinued
+P0011,Siam Tech Smart Speaker,Electronics,Smart Speaker,Siam Tech,1857.44,1424.51,Active
+P0012,Isan Works Smart Speaker,Electronics,Smart Speaker,Isan Works,6081.18,3237.05,Active
+P0013,Chao Phraya Desk Lamp,Office,Desk Lamp,Chao Phraya,951.59,689.4,Active
+P0014,Isan Works Desk Lamp,Office,Desk Lamp,Isan Works,3738.19,2752.22,Discontinued
+P0015,Chao Phraya Notebook,Office,Notebook,Chao Phraya,1756.87,1218.74,Active
+P0016,Andaman Co Notebook,Office,Notebook,Andaman Co,9284.71,5241.46,Active
+P0017,Isan Works Pen Set,Office,Pen Set,Isan Works,6305.48,3691.79,Active
+P0018,Narita Pen Set,Office,Pen Set,Narita,5708.01,3842.35,Active
+P0019,Andaman Co Standing Desk,Office,Standing Desk,Andaman Co,2314.07,1081.77,Discontinued
+P0020,Chao Phraya Standing Desk,Office,Standing Desk,Chao Phraya,3344.65,1824.4,Active
+P0021,Narita Ergonomic Chair,Office,Ergonomic Chair,Narita,8337.14,3902.39,Discontinued
+P0022,Chao Phraya Ergonomic Chair,Office,Ergonomic Chair,Chao Phraya,7381.54,4233.9,Active
+P0023,Siam Tech Whiteboard,Office,Whiteboard,Siam Tech,4144.95,2250.56,Active
+P0024,Chao Phraya Whiteboard,Office,Whiteboard,Chao Phraya,7277.41,3922.11,Active
+P0025,Andaman Co Air Purifier,Home & Living,Air Purifier,Andaman Co,12260.15,5871.62,Active
+P0026,Siam Tech Air Purifier,Home & Living,Air Purifier,Siam Tech,9740.44,5440.22,Active
+P0027,Lanna Goods Coffee Maker,Home & Living,Coffee Maker,Lanna Goods,1568.2,1126.15,Active
+P0028,Narita Coffee Maker,Home & Living,Coffee Maker,Narita,6888.25,3890.92,Active
+P0029,Isan Works Rice Cooker,Home & Living,Rice Cooker,Isan Works,9842.19,4834.33,Active
+P0030,Andaman Co Rice Cooker,Home & Living,Rice Cooker,Andaman Co,342.53,257.07,Active
+P0031,Lanna Goods Blender,Home & Living,Blender,Lanna Goods,3523.21,1931.15,Discontinued
+P0032,Andaman Co Blender,Home & Living,Blender,Andaman Co,5237.53,2493.95,Discontinued
+P0033,Lanna Goods Vacuum,Home & Living,Vacuum,Lanna Goods,6400.14,4462.03,Active
+P0034,Siam Tech Vacuum,Home & Living,Vacuum,Siam Tech,5674.95,3356.11,Active
+P0035,Isan Works Fan,Home & Living,Fan,Isan Works,6101.81,4192.78,Active
+P0036,Chao Phraya Fan,Home & Living,Fan,Chao Phraya,11964.76,5972.79,Active
+P0037,Lanna Goods Yoga Mat,Sports,Yoga Mat,Lanna Goods,1155.47,549.75,Discontinued
+P0038,Narita Yoga Mat,Sports,Yoga Mat,Narita,7332.43,4557.54,Discontinued
+P0039,Isan Works Running Shoes,Sports,Running Shoes,Isan Works,3316.19,1898.51,Discontinued
+P0040,Andaman Co Running Shoes,Sports,Running Shoes,Andaman Co,3716.07,1858.29,Active
+P0041,Lanna Goods Dumbbell Set,Sports,Dumbbell Set,Lanna Goods,6964.31,4745.29,Active
+P0042,Andaman Co Dumbbell Set,Sports,Dumbbell Set,Andaman Co,3499.17,2147.31,Discontinued
+P0043,Andaman Co Water Bottle,Sports,Water Bottle,Andaman Co,4062.61,2139.05,Active
+P0044,Chao Phraya Water Bottle,Sports,Water Bottle,Chao Phraya,6151.1,4101.61,Active
+P0045,Lanna Goods Cycling Helmet,Sports,Cycling Helmet,Lanna Goods,6524.01,3842.27,Active
+P0046,Siam Tech Cycling Helmet,Sports,Cycling Helmet,Siam Tech,3112.92,1445.22,Active
+P0047,Narita Jump Rope,Sports,Jump Rope,Narita,2396.3,1169.77,Active
+P0048,Lanna Goods Jump Rope,Sports,Jump Rope,Lanna Goods,6484.47,3708.24,Active
+P0049,Lanna Goods Sunscreen,Beauty,Sunscreen,Lanna Goods,7844.05,4963.18,Active
+P0050,Chao Phraya Sunscreen,Beauty,Sunscreen,Chao Phraya,1070.16,616.84,Active
+P0051,Isan Works Serum,Beauty,Serum,Isan Works,6235.15,3488.34,Active
+P0052,Lanna Goods Serum,Beauty,Serum,Lanna Goods,2299.6,1447.25,Active
+P0053,Andaman Co Shampoo,Beauty,Shampoo,Andaman Co,3731.52,2372.15,Active
+P0054,Siam Tech Shampoo,Beauty,Shampoo,Siam Tech,2515.37,1690.73,Active
+P0055,Chao Phraya Face Mask,Beauty,Face Mask,Chao Phraya,2340.98,1159.15,Active
+P0056,Isan Works Face Mask,Beauty,Face Mask,Isan Works,7329.34,4759.91,Active
+P0057,Chao Phraya Hair Dryer,Beauty,Hair Dryer,Chao Phraya,5299.84,3273.8,Active
+P0058,Andaman Co Hair Dryer,Beauty,Hair Dryer,Andaman Co,2139.32,1166.26,Active
+P0059,Siam Tech Lip Balm,Beauty,Lip Balm,Siam Tech,8973.93,5053.24,Active
+P0060,Narita Lip Balm,Beauty,Lip Balm,Narita,1288.75,812.83,Active

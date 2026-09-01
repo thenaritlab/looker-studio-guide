@@ -1,0 +1,2001 @@
+customer_id,customer_name,segment,region,province,signup_date,gender,age_group,loyalty_member
+C00001,Sofia R.,SMB,North,Chiang Mai,2022-09-14,Male,55+,No
+C00002,Noon W.,Corporate,Bangkok,Nonthaburi,2022-08-16,Female,55+,No
+C00003,Wichai S.,SMB,Northeast,Nakhon Ratchasima,2023-10-20,Male,55+,No
+C00004,Tanawat J.,Consumer,Bangkok,Pathum Thani,2021-12-25,Male,25-34,Yes
+C00005,Ploy D.,Consumer,Northeast,Udon Thani,2023-04-04,Prefer not to say,35-44,Yes
+C00006,Noon H.,SMB,South,Krabi,2023-10-06,Male,18-24,No
+C00007,Ahmed J.,Consumer,Bangkok,Samut Prakan,2022-06-03,Prefer not to say,45-54,No
+C00008,Anan G.,Consumer,Central,Chonburi,2021-07-25,Female,25-34,No
+C00009,Bee S.,SMB,Bangkok,Nonthaburi,2023-01-24,Female,35-44,No
+C00010,Wei S.,SMB,South,Surat Thani,2023-03-06,Prefer not to say,18-24,No
+C00011,Mei S.,SMB,South,Phuket,2023-03-27,Prefer not to say,35-44,Yes
+C00012,Fah F.,Consumer,Northeast,Udon Thani,2023-01-03,Female,45-54,No
+C00013,James M.,SMB,Central,Nakhon Pathom,2023-10-03,Male,25-34,Yes
+C00014,Anan J.,SMB,South,Songkhla,2023-03-02,Prefer not to say,55+,No
+C00015,Kanya A.,Consumer,South,Songkhla,2022-01-17,Prefer not to say,55+,Yes
+C00016,Suda V.,SMB,Northeast,Nakhon Ratchasima,2021-12-04,Female,35-44,Yes
+C00017,Somchai K.,Consumer,Northeast,Ubon Ratchathani,2021-11-19,Female,45-54,Yes
+C00018,Ploy F.,Consumer,South,Songkhla,2022-06-12,Male,18-24,Yes
+C00019,Ahmed J.,Consumer,Bangkok,Bangkok,2023-09-29,Female,25-34,No
+C00020,Noon G.,Consumer,Bangkok,Bangkok,2023-10-05,Male,55+,No
+C00021,Priya S.,Consumer,Bangkok,Nonthaburi,2023-04-08,Male,25-34,Yes
+C00022,Ahmed K.,Consumer,Central,Chonburi,2023-07-03,Male,25-34,No
+C00023,Mei N.,SMB,Bangkok,Nonthaburi,2022-08-25,Female,18-24,No
+C00024,Anan W.,Consumer,Bangkok,Bangkok,2021-08-24,Prefer not to say,25-34,No
+C00025,Mint M.,Consumer,North,Phitsanulok,2022-12-26,Male,25-34,No
+C00026,Fah M.,Consumer,Central,Ayutthaya,2022-09-15,Female,18-24,Yes
+C00027,Aek T.,SMB,Bangkok,Nonthaburi,2022-06-12,Female,45-54,Yes
+C00028,Chai L.,Consumer,South,Songkhla,2022-09-02,Female,35-44,Yes
+C00029,Suda E.,Consumer,North,Phitsanulok,2022-08-28,Male,55+,Yes
+C00030,Nok M.,Consumer,South,Krabi,2023-05-04,Prefer not to say,35-44,No
+C00031,Aek B.,Consumer,North,Phitsanulok,2022-12-26,Female,35-44,Yes
+C00032,Emily T.,Corporate,Central,Ayutthaya,2023-11-11,Female,55+,No
+C00033,Tanawat H.,Consumer,North,Phitsanulok,2021-12-16,Male,18-24,Yes
+C00034,Tanawat D.,Consumer,Northeast,Udon Thani,2022-05-03,Prefer not to say,35-44,No
+C00035,Prasert J.,Consumer,North,Phitsanulok,2022-03-31,Prefer not to say,25-34,No
+C00036,Nok K.,SMB,Northeast,Ubon Ratchathani,2022-11-19,Male,55+,No
+C00037,Sofia A.,Corporate,Central,Chonburi,2022-01-12,Prefer not to say,35-44,Yes
+C00038,Emily J.,SMB,North,Chiang Rai,2023-01-06,Prefer not to say,18-24,No
+C00039,Sofia F.,Consumer,North,Phitsanulok,2022-09-23,Female,25-34,Yes
+C00040,Mei B.,Consumer,Central,Rayong,2023-02-13,Female,35-44,Yes
+C00041,Ton S.,Consumer,Bangkok,Nonthaburi,2022-07-31,Female,25-34,No
+C00042,Anan E.,Corporate,Northeast,Nakhon Ratchasima,2022-03-23,Prefer not to say,45-54,Yes
+C00043,Bee H.,Consumer,North,Chiang Rai,2023-12-27,Male,18-24,Yes
+C00044,Mei W.,Consumer,Northeast,Nakhon Ratchasima,2022-05-31,Male,25-34,Yes
+C00045,Pim M.,Consumer,North,Chiang Rai,2022-10-24,Female,25-34,No
+C00046,Boon E.,Consumer,North,Lampang,2022-03-23,Prefer not to say,35-44,No
+C00047,Lucas E.,Corporate,North,Chiang Rai,2023-09-18,Female,18-24,Yes
+C00048,Wichai B.,SMB,Bangkok,Nonthaburi,2021-12-14,Male,25-34,Yes
+C00049,Krit H.,Consumer,Northeast,Udon Thani,2022-02-10,Female,45-54,No
+C00050,Ploy L.,SMB,South,Surat Thani,2022-10-02,Male,35-44,Yes
+C00051,Yuki G.,SMB,Central,Rayong,2022-05-27,Prefer not to say,18-24,No
+C00052,Prasert N.,Consumer,North,Chiang Mai,2022-12-16,Female,35-44,Yes
+C00053,Wichai A.,Consumer,South,Songkhla,2023-05-26,Female,45-54,No
+C00054,Ton K.,Corporate,North,Chiang Mai,2023-01-14,Female,45-54,No
+C00055,Kanya V.,Consumer,Northeast,Nakhon Ratchasima,2023-03-10,Prefer not to say,55+,No
+C00056,Ahmed P.,Consumer,Central,Ayutthaya,2023-02-05,Prefer not to say,25-34,No
+C00057,Noon W.,Consumer,Bangkok,Samut Prakan,2023-04-28,Prefer not to say,35-44,No
+C00058,Ploy B.,Consumer,Central,Chonburi,2023-07-23,Prefer not to say,25-34,No
+C00059,Mint H.,SMB,Central,Chonburi,2023-08-27,Male,35-44,No
+C00060,Ahmed K.,SMB,Northeast,Nakhon Ratchasima,2022-08-11,Female,45-54,No
+C00061,Ploy P.,Consumer,Northeast,Nakhon Ratchasima,2022-09-23,Male,55+,Yes
+C00062,Prasert N.,Consumer,Bangkok,Bangkok,2023-12-26,Female,35-44,No
+C00063,Kanya G.,Consumer,Bangkok,Bangkok,2021-11-22,Male,45-54,No
+C00064,Prasert R.,Corporate,South,Phuket,2023-08-15,Male,35-44,Yes
+C00065,Tanawat T.,SMB,Central,Ayutthaya,2023-05-04,Female,45-54,No
+C00066,Wei W.,Consumer,Central,Nakhon Pathom,2023-03-23,Prefer not to say,25-34,Yes
+C00067,Noon F.,Consumer,North,Chiang Mai,2021-09-12,Male,18-24,No
+C00068,Fah H.,Consumer,North,Lampang,2022-06-09,Prefer not to say,45-54,No
+C00069,Krit C.,Consumer,South,Krabi,2023-08-11,Female,25-34,Yes
+C00070,Ton B.,Consumer,North,Chiang Mai,2022-12-13,Female,55+,No
+C00071,Ahmed V.,Consumer,Central,Rayong,2023-02-08,Prefer not to say,25-34,Yes
+C00072,Aek F.,SMB,South,Phuket,2022-02-08,Prefer not to say,18-24,No
+C00073,Chai C.,Consumer,Northeast,Khon Kaen,2023-10-09,Male,25-34,Yes
+C00074,Priya P.,Consumer,Central,Ayutthaya,2023-10-22,Female,35-44,Yes
+C00075,Anan V.,Corporate,North,Chiang Rai,2021-11-02,Prefer not to say,45-54,No
+C00076,Noon A.,Consumer,South,Phuket,2023-12-09,Prefer not to say,45-54,No
+C00077,Anan P.,Consumer,North,Chiang Mai,2023-03-05,Female,45-54,Yes
+C00078,Yuki R.,Consumer,Bangkok,Bangkok,2022-02-20,Male,45-54,Yes
+C00079,Noon R.,SMB,Bangkok,Nonthaburi,2022-04-29,Male,18-24,No
+C00080,Suda A.,Consumer,Northeast,Nakhon Ratchasima,2022-08-03,Female,35-44,No
+C00081,Prasert N.,Corporate,South,Surat Thani,2021-09-22,Prefer not to say,25-34,Yes
+C00082,Emily W.,Consumer,Northeast,Khon Kaen,2023-06-19,Female,55+,No
+C00083,Sofia B.,SMB,Northeast,Ubon Ratchathani,2022-11-12,Female,25-34,Yes
+C00084,Ploy M.,Corporate,Bangkok,Pathum Thani,2023-12-08,Male,18-24,No
+C00085,Pim A.,SMB,North,Lampang,2021-07-28,Male,35-44,No
+C00086,Ploy W.,Consumer,Bangkok,Pathum Thani,2022-02-22,Female,18-24,No
+C00087,Mei W.,Consumer,Northeast,Khon Kaen,2021-11-05,Male,35-44,Yes
+C00088,Boon N.,Consumer,North,Chiang Rai,2022-08-19,Female,25-34,No
+C00089,Boon H.,Consumer,Northeast,Khon Kaen,2022-09-15,Female,18-24,Yes
+C00090,Noon A.,Corporate,Northeast,Udon Thani,2021-09-25,Male,18-24,Yes
+C00091,Wichai A.,Consumer,South,Krabi,2022-11-24,Prefer not to say,55+,No
+C00092,Fah T.,Consumer,North,Lampang,2022-01-05,Prefer not to say,18-24,Yes
+C00093,Emily E.,Corporate,Bangkok,Pathum Thani,2022-01-12,Prefer not to say,25-34,No
+C00094,Emily B.,Corporate,Central,Ayutthaya,2023-12-27,Female,25-34,Yes
+C00095,Fah P.,Corporate,North,Lampang,2022-02-17,Female,55+,Yes
+C00096,Mei K.,SMB,South,Surat Thani,2022-06-17,Prefer not to say,35-44,Yes
+C00097,Fah E.,Consumer,North,Phitsanulok,2021-11-11,Male,25-34,Yes
+C00098,Krit T.,Consumer,North,Chiang Mai,2023-05-04,Male,25-34,Yes
+C00099,Tanawat F.,Corporate,Central,Rayong,2023-10-16,Female,35-44,No
+C00100,Wei N.,Corporate,Northeast,Ubon Ratchathani,2022-09-09,Male,45-54,Yes
+C00101,Ton M.,SMB,Bangkok,Pathum Thani,2021-12-22,Male,18-24,Yes
+C00102,Pim B.,Consumer,Central,Nakhon Pathom,2021-07-22,Female,35-44,Yes
+C00103,Noon S.,SMB,Bangkok,Pathum Thani,2021-08-17,Female,35-44,Yes
+C00104,Nok K.,Corporate,Northeast,Udon Thani,2022-07-09,Male,18-24,Yes
+C00105,Priya L.,Consumer,Central,Ayutthaya,2023-07-11,Female,55+,No
+C00106,Aek C.,Consumer,North,Chiang Mai,2022-03-22,Female,25-34,Yes
+C00107,Yuki P.,SMB,North,Chiang Rai,2023-05-03,Male,55+,Yes
+C00108,Nok H.,Consumer,Bangkok,Nonthaburi,2023-01-31,Female,35-44,Yes
+C00109,Wichai L.,Consumer,Central,Rayong,2021-08-23,Female,35-44,No
+C00110,Noon R.,Consumer,Bangkok,Samut Prakan,2022-09-24,Prefer not to say,25-34,Yes
+C00111,Sofia B.,Consumer,Central,Ayutthaya,2022-11-06,Prefer not to say,35-44,No
+C00112,Noon R.,Corporate,North,Chiang Rai,2023-12-16,Male,18-24,Yes
+C00113,Priya V.,SMB,Northeast,Khon Kaen,2022-10-14,Prefer not to say,25-34,No
+C00114,Ton M.,SMB,Northeast,Ubon Ratchathani,2023-06-11,Prefer not to say,18-24,Yes
+C00115,Mei K.,SMB,Northeast,Nakhon Ratchasima,2022-12-27,Male,25-34,No
+C00116,Wichai F.,Corporate,Northeast,Khon Kaen,2022-10-20,Prefer not to say,55+,No
+C00117,Boon N.,Consumer,Northeast,Nakhon Ratchasima,2023-10-02,Female,35-44,Yes
+C00118,Priya C.,Consumer,North,Chiang Rai,2021-09-09,Prefer not to say,25-34,No
+C00119,Noon K.,Corporate,Central,Ayutthaya,2023-06-09,Male,25-34,No
+C00120,James T.,Corporate,Bangkok,Samut Prakan,2021-07-18,Prefer not to say,45-54,No
+C00121,Ton N.,Consumer,Bangkok,Nonthaburi,2023-05-02,Prefer not to say,35-44,Yes
+C00122,Wichai V.,Corporate,South,Phuket,2022-12-30,Prefer not to say,18-24,No
+C00123,Priya P.,SMB,South,Surat Thani,2022-02-12,Female,18-24,Yes
+C00124,Tanawat S.,SMB,Northeast,Nakhon Ratchasima,2022-12-29,Prefer not to say,18-24,No
+C00125,Prasert T.,SMB,Northeast,Ubon Ratchathani,2022-09-19,Male,18-24,No
+C00126,Somchai J.,Consumer,Bangkok,Samut Prakan,2022-07-01,Prefer not to say,25-34,No
+C00127,Noon T.,SMB,Northeast,Ubon Ratchathani,2023-08-25,Male,45-54,Yes
+C00128,Omar G.,Consumer,North,Lampang,2023-09-15,Male,18-24,No
+C00129,Noon A.,Consumer,South,Krabi,2023-07-15,Prefer not to say,18-24,No
+C00130,Nok F.,Consumer,Bangkok,Samut Prakan,2023-11-27,Male,25-34,Yes
+C00131,Tanawat G.,SMB,Northeast,Udon Thani,2022-09-08,Male,25-34,No
+C00132,Priya V.,SMB,North,Lampang,2022-05-19,Prefer not to say,55+,No
+C00133,Ploy G.,Consumer,Bangkok,Pathum Thani,2023-09-04,Male,18-24,No
+C00134,Tanawat S.,SMB,Central,Rayong,2023-02-07,Male,25-34,No
+C00135,Anan K.,Consumer,Bangkok,Pathum Thani,2022-08-01,Male,55+,No
+C00136,Omar J.,Consumer,Bangkok,Bangkok,2023-09-26,Prefer not to say,18-24,Yes
+C00137,Noon K.,Consumer,South,Phuket,2022-06-02,Prefer not to say,18-24,Yes
+C00138,Anan V.,Consumer,South,Surat Thani,2021-10-01,Prefer not to say,25-34,No
+C00139,Wichai B.,Consumer,Northeast,Ubon Ratchathani,2023-11-13,Male,35-44,No
+C00140,Bee H.,Consumer,South,Phuket,2023-06-18,Male,25-34,Yes
+C00141,Chai V.,Consumer,South,Phuket,2021-11-30,Prefer not to say,18-24,No
+C00142,Noon R.,Consumer,Central,Chonburi,2022-03-22,Male,25-34,No
+C00143,Fah S.,Consumer,Bangkok,Samut Prakan,2022-05-04,Female,35-44,Yes
+C00144,Somchai N.,Consumer,South,Songkhla,2023-04-18,Male,45-54,Yes
+C00145,Emily L.,Consumer,Northeast,Nakhon Ratchasima,2022-05-21,Male,18-24,Yes
+C00146,Lucas K.,Corporate,Bangkok,Pathum Thani,2022-02-23,Prefer not to say,45-54,Yes
+C00147,Ton G.,Consumer,North,Chiang Rai,2022-05-20,Female,45-54,Yes
+C00148,Pim T.,Corporate,South,Phuket,2021-09-03,Female,18-24,Yes
+C00149,Aek M.,Consumer,Northeast,Nakhon Ratchasima,2023-02-26,Male,35-44,Yes
+C00150,Malee V.,Corporate,Bangkok,Nonthaburi,2023-10-23,Prefer not to say,35-44,Yes
+C00151,Chai P.,SMB,North,Chiang Mai,2023-10-07,Prefer not to say,55+,Yes
+C00152,Priya A.,SMB,South,Phuket,2023-12-21,Prefer not to say,18-24,Yes
+C00153,Suda T.,Consumer,Central,Rayong,2021-09-28,Female,18-24,No
+C00154,Omar L.,SMB,South,Songkhla,2023-04-19,Male,35-44,Yes
+C00155,Wei M.,SMB,Northeast,Udon Thani,2021-08-09,Prefer not to say,18-24,No
+C00156,Ton C.,SMB,Bangkok,Pathum Thani,2023-03-22,Female,25-34,No
+C00157,Mint D.,Consumer,Northeast,Nakhon Ratchasima,2023-06-10,Male,55+,Yes
+C00158,Fah F.,SMB,Central,Nakhon Pathom,2022-01-23,Male,45-54,Yes
+C00159,Ton K.,Corporate,Bangkok,Pathum Thani,2023-01-28,Male,25-34,Yes
+C00160,Sofia A.,Consumer,Central,Nakhon Pathom,2022-04-13,Prefer not to say,18-24,No
+C00161,Sofia A.,Consumer,Central,Nakhon Pathom,2023-10-01,Female,25-34,Yes
+C00162,Prasert C.,SMB,North,Chiang Rai,2022-01-15,Female,45-54,No
+C00163,Mint P.,Corporate,North,Chiang Rai,2023-08-20,Female,35-44,Yes
+C00164,Emily S.,SMB,Bangkok,Pathum Thani,2023-06-24,Female,25-34,No
+C00165,Suda F.,SMB,Bangkok,Nonthaburi,2022-04-08,Female,25-34,No
+C00166,Krit E.,Consumer,Northeast,Nakhon Ratchasima,2021-10-12,Female,25-34,No
+C00167,Tanawat C.,Consumer,Central,Nakhon Pathom,2022-07-20,Prefer not to say,18-24,No
+C00168,Priya F.,Corporate,South,Songkhla,2023-10-02,Female,45-54,Yes
+C00169,Aek C.,SMB,Northeast,Udon Thani,2021-08-26,Male,18-24,Yes
+C00170,Pim S.,Consumer,Central,Ayutthaya,2023-11-18,Female,55+,Yes
+C00171,Wichai N.,Corporate,Northeast,Nakhon Ratchasima,2022-09-19,Prefer not to say,25-34,No
+C00172,Aek N.,SMB,North,Chiang Mai,2022-12-08,Female,55+,Yes
+C00173,Nok E.,Corporate,South,Phuket,2023-03-20,Male,35-44,Yes
+C00174,Malee T.,Consumer,North,Phitsanulok,2022-11-20,Female,45-54,Yes
+C00175,Wei P.,Consumer,Central,Chonburi,2022-03-09,Prefer not to say,25-34,No
+C00176,Prasert H.,Corporate,Bangkok,Samut Prakan,2022-06-18,Prefer not to say,25-34,No
+C00177,Chai K.,Consumer,Northeast,Udon Thani,2023-10-24,Female,45-54,No
+C00178,Mei E.,SMB,Northeast,Udon Thani,2022-07-04,Female,55+,Yes
+C00179,Krit S.,SMB,South,Krabi,2023-09-24,Female,25-34,Yes
+C00180,Nok H.,Consumer,Bangkok,Nonthaburi,2023-09-03,Female,25-34,No
+C00181,Mint K.,Consumer,Central,Rayong,2022-02-19,Prefer not to say,35-44,No
+C00182,Noon E.,Consumer,Bangkok,Nonthaburi,2022-01-17,Prefer not to say,25-34,No
+C00183,Lucas W.,SMB,North,Phitsanulok,2023-03-28,Male,18-24,Yes
+C00184,Kanya J.,Consumer,Bangkok,Bangkok,2023-06-07,Prefer not to say,25-34,No
+C00185,Chai J.,SMB,Central,Nakhon Pathom,2023-01-13,Prefer not to say,55+,Yes
+C00186,Omar N.,Consumer,North,Chiang Rai,2021-08-30,Female,25-34,No
+C00187,Tanawat H.,Consumer,Central,Rayong,2021-09-25,Male,55+,No
+C00188,Noon D.,Consumer,North,Chiang Rai,2021-09-16,Prefer not to say,55+,Yes
+C00189,Boon C.,Consumer,South,Surat Thani,2022-11-10,Female,55+,Yes
+C00190,Ploy T.,SMB,North,Phitsanulok,2023-04-12,Female,35-44,No
+C00191,Emily L.,SMB,North,Lampang,2023-07-28,Female,55+,Yes
+C00192,Chai T.,Consumer,North,Chiang Mai,2021-10-31,Female,35-44,No
+C00193,Sofia V.,Consumer,Central,Rayong,2023-11-08,Female,55+,Yes
+C00194,Nok R.,Consumer,Bangkok,Nonthaburi,2021-08-12,Male,45-54,Yes
+C00195,Wichai C.,SMB,Bangkok,Pathum Thani,2021-10-15,Prefer not to say,35-44,Yes
+C00196,Tanawat B.,Corporate,South,Krabi,2021-09-24,Male,35-44,Yes
+C00197,Tanawat H.,Consumer,North,Phitsanulok,2022-12-20,Prefer not to say,35-44,Yes
+C00198,Kanya G.,Consumer,Bangkok,Samut Prakan,2022-03-14,Prefer not to say,45-54,Yes
+C00199,Bee B.,Consumer,Central,Nakhon Pathom,2023-11-24,Prefer not to say,35-44,No
+C00200,Nok N.,Consumer,North,Lampang,2023-09-28,Prefer not to say,55+,No
+C00201,Wichai G.,SMB,Northeast,Nakhon Ratchasima,2023-03-27,Male,25-34,No
+C00202,Fah M.,Consumer,North,Chiang Rai,2022-04-19,Female,55+,No
+C00203,Somchai P.,Corporate,Central,Rayong,2023-01-26,Male,45-54,Yes
+C00204,Wei C.,Consumer,Northeast,Nakhon Ratchasima,2023-11-05,Female,45-54,No
+C00205,Malee C.,Consumer,Central,Chonburi,2023-11-08,Male,45-54,No
+C00206,Prasert T.,Corporate,North,Chiang Mai,2023-08-06,Male,18-24,No
+C00207,Omar K.,Consumer,Northeast,Udon Thani,2021-11-12,Female,45-54,No
+C00208,Bee W.,SMB,Northeast,Nakhon Ratchasima,2022-08-20,Prefer not to say,25-34,Yes
+C00209,Lucas V.,Consumer,Central,Rayong,2022-05-11,Female,25-34,Yes
+C00210,Wei R.,Consumer,South,Songkhla,2022-10-15,Female,25-34,No
+C00211,Aek J.,Consumer,Northeast,Ubon Ratchathani,2021-08-28,Prefer not to say,25-34,No
+C00212,Ploy K.,Consumer,North,Lampang,2022-12-03,Prefer not to say,55+,Yes
+C00213,Emily W.,Consumer,Bangkok,Samut Prakan,2023-01-21,Male,25-34,Yes
+C00214,Ahmed B.,Consumer,Northeast,Khon Kaen,2023-04-02,Prefer not to say,55+,No
+C00215,Lucas C.,Consumer,Central,Nakhon Pathom,2022-11-02,Male,35-44,Yes
+C00216,Tanawat A.,Consumer,North,Lampang,2021-11-05,Male,25-34,No
+C00217,Fah H.,SMB,North,Phitsanulok,2023-03-16,Male,25-34,Yes
+C00218,Pim K.,Consumer,Central,Nakhon Pathom,2023-12-13,Male,25-34,No
+C00219,Priya E.,Consumer,Central,Ayutthaya,2022-03-08,Male,25-34,Yes
+C00220,Ploy H.,SMB,South,Songkhla,2023-03-27,Female,45-54,No
+C00221,Suda T.,SMB,South,Surat Thani,2022-12-08,Female,35-44,Yes
+C00222,Pim T.,Consumer,South,Surat Thani,2021-09-19,Female,35-44,Yes
+C00223,Fah L.,Consumer,Bangkok,Pathum Thani,2021-08-20,Female,45-54,Yes
+C00224,Kanya L.,Corporate,Bangkok,Samut Prakan,2022-07-15,Prefer not to say,35-44,Yes
+C00225,James W.,Consumer,North,Phitsanulok,2021-08-10,Male,45-54,Yes
+C00226,Ton J.,SMB,Central,Chonburi,2023-03-19,Male,35-44,No
+C00227,Wei N.,SMB,Bangkok,Bangkok,2023-03-07,Female,55+,Yes
+C00228,Fah J.,Consumer,Bangkok,Pathum Thani,2022-10-14,Male,35-44,Yes
+C00229,Bee S.,Consumer,Bangkok,Bangkok,2023-01-15,Male,55+,No
+C00230,Aek B.,Consumer,Central,Nakhon Pathom,2021-10-08,Female,55+,Yes
+C00231,Aek F.,SMB,Northeast,Khon Kaen,2022-09-18,Prefer not to say,45-54,No
+C00232,Fah K.,Consumer,Central,Nakhon Pathom,2022-10-23,Female,18-24,No
+C00233,Yuki A.,Corporate,Central,Ayutthaya,2022-11-17,Male,25-34,No
+C00234,Mint F.,Consumer,Bangkok,Nonthaburi,2022-10-30,Female,45-54,Yes
+C00235,Krit H.,Consumer,Bangkok,Pathum Thani,2022-07-03,Prefer not to say,55+,Yes
+C00236,Fah N.,Corporate,South,Krabi,2023-11-09,Female,45-54,No
+C00237,Ahmed G.,Consumer,North,Chiang Mai,2023-02-10,Prefer not to say,45-54,No
+C00238,Chai L.,Consumer,North,Chiang Rai,2022-02-11,Female,35-44,Yes
+C00239,Wichai P.,Consumer,South,Krabi,2023-03-02,Male,45-54,Yes
+C00240,Chai R.,Consumer,Bangkok,Samut Prakan,2022-05-05,Female,18-24,No
+C00241,Pim W.,Consumer,North,Lampang,2021-08-20,Prefer not to say,18-24,No
+C00242,Aek F.,Corporate,Central,Ayutthaya,2022-10-23,Prefer not to say,35-44,Yes
+C00243,Ahmed A.,Consumer,Central,Ayutthaya,2021-08-06,Prefer not to say,45-54,Yes
+C00244,Chai L.,Consumer,South,Surat Thani,2023-03-21,Female,55+,No
+C00245,Malee E.,SMB,Bangkok,Nonthaburi,2023-04-21,Male,18-24,Yes
+C00246,Noon E.,Corporate,South,Krabi,2022-02-08,Male,35-44,Yes
+C00247,Omar T.,Consumer,Northeast,Udon Thani,2021-07-24,Prefer not to say,25-34,Yes
+C00248,Mei M.,Consumer,Central,Rayong,2021-08-18,Prefer not to say,18-24,No
+C00249,Chai L.,Corporate,Northeast,Khon Kaen,2023-01-12,Female,25-34,Yes
+C00250,Priya N.,Consumer,North,Chiang Rai,2023-04-15,Female,35-44,Yes
+C00251,Wichai V.,Consumer,North,Chiang Rai,2021-08-25,Male,55+,Yes
+C00252,Emily A.,Consumer,Central,Chonburi,2022-09-13,Prefer not to say,35-44,Yes
+C00253,Wichai G.,Consumer,Central,Rayong,2022-02-26,Male,18-24,No
+C00254,James V.,Consumer,South,Krabi,2022-09-15,Prefer not to say,35-44,Yes
+C00255,Kanya F.,Corporate,Central,Ayutthaya,2023-06-25,Male,55+,Yes
+C00256,Suda F.,Consumer,Central,Ayutthaya,2022-09-17,Male,55+,Yes
+C00257,Bee M.,Consumer,Bangkok,Samut Prakan,2023-02-08,Prefer not to say,35-44,No
+C00258,Tanawat C.,Consumer,North,Lampang,2022-06-12,Male,18-24,Yes
+C00259,Suda T.,Consumer,South,Phuket,2023-10-24,Male,55+,No
+C00260,Ton M.,Corporate,South,Songkhla,2022-07-31,Male,55+,Yes
+C00261,Aek M.,SMB,Central,Nakhon Pathom,2022-08-04,Female,45-54,Yes
+C00262,Chai V.,SMB,Bangkok,Pathum Thani,2023-02-10,Prefer not to say,18-24,No
+C00263,Prasert M.,SMB,Central,Ayutthaya,2022-04-10,Female,55+,Yes
+C00264,Suda E.,Consumer,Bangkok,Pathum Thani,2022-04-01,Male,35-44,Yes
+C00265,Wichai R.,Consumer,Central,Nakhon Pathom,2021-11-24,Female,18-24,Yes
+C00266,Boon P.,SMB,South,Surat Thani,2021-09-11,Male,45-54,No
+C00267,Mei P.,Consumer,North,Phitsanulok,2023-05-19,Prefer not to say,25-34,No
+C00268,Malee T.,Consumer,Bangkok,Pathum Thani,2023-12-21,Female,55+,Yes
+C00269,James M.,Consumer,Northeast,Udon Thani,2023-05-02,Prefer not to say,45-54,No
+C00270,Fah L.,SMB,North,Phitsanulok,2022-10-31,Female,55+,No
+C00271,Wichai R.,Consumer,Northeast,Udon Thani,2023-12-30,Female,45-54,No
+C00272,Ploy P.,SMB,North,Lampang,2022-09-24,Female,35-44,No
+C00273,Ahmed J.,Consumer,Northeast,Udon Thani,2021-12-08,Male,45-54,No
+C00274,Chai W.,Consumer,South,Krabi,2022-01-09,Male,25-34,Yes
+C00275,Yuki B.,Consumer,Bangkok,Samut Prakan,2022-05-02,Female,35-44,Yes
+C00276,Tanawat H.,Corporate,Bangkok,Bangkok,2022-07-10,Prefer not to say,35-44,Yes
+C00277,Fah P.,Consumer,Bangkok,Nonthaburi,2022-12-19,Prefer not to say,35-44,Yes
+C00278,Emily V.,Consumer,Bangkok,Bangkok,2022-09-30,Male,18-24,No
+C00279,Emily B.,Consumer,Central,Nakhon Pathom,2022-11-13,Male,45-54,Yes
+C00280,Ton H.,SMB,Northeast,Nakhon Ratchasima,2023-01-10,Prefer not to say,25-34,Yes
+C00281,Yuki P.,SMB,North,Chiang Rai,2021-09-17,Female,45-54,Yes
+C00282,Suda C.,Consumer,Northeast,Udon Thani,2021-08-07,Male,55+,No
+C00283,Krit M.,SMB,South,Songkhla,2022-03-20,Prefer not to say,35-44,No
+C00284,Nok D.,SMB,Northeast,Khon Kaen,2021-08-03,Prefer not to say,18-24,No
+C00285,Yuki P.,Corporate,Bangkok,Pathum Thani,2022-07-29,Male,55+,Yes
+C00286,Aek J.,SMB,North,Phitsanulok,2022-08-17,Prefer not to say,18-24,Yes
+C00287,Nok C.,SMB,Northeast,Ubon Ratchathani,2022-02-12,Female,35-44,Yes
+C00288,Boon H.,Consumer,Northeast,Khon Kaen,2021-10-01,Male,25-34,No
+C00289,Ton W.,Consumer,Bangkok,Bangkok,2023-06-20,Male,25-34,Yes
+C00290,Bee N.,Corporate,South,Krabi,2022-07-23,Female,18-24,No
+C00291,Suda B.,Consumer,Bangkok,Bangkok,2021-07-21,Prefer not to say,45-54,No
+C00292,Noon N.,SMB,North,Lampang,2023-08-04,Female,18-24,Yes
+C00293,Lucas B.,SMB,South,Phuket,2022-06-24,Male,45-54,Yes
+C00294,James W.,Consumer,South,Phuket,2023-10-26,Female,55+,Yes
+C00295,Boon R.,Consumer,South,Krabi,2023-10-11,Male,45-54,No
+C00296,Nok M.,Consumer,Northeast,Ubon Ratchathani,2022-04-25,Female,45-54,No
+C00297,Ahmed R.,Corporate,North,Phitsanulok,2023-08-16,Female,35-44,No
+C00298,Fah R.,Consumer,North,Phitsanulok,2023-09-16,Male,35-44,No
+C00299,Pim N.,SMB,Bangkok,Bangkok,2022-10-17,Female,45-54,Yes
+C00300,Kanya B.,Corporate,Central,Ayutthaya,2022-08-14,Male,45-54,Yes
+C00301,Ahmed M.,Consumer,South,Phuket,2023-04-02,Male,25-34,No
+C00302,Mei M.,SMB,North,Chiang Mai,2023-02-20,Male,18-24,Yes
+C00303,Krit M.,Consumer,South,Songkhla,2023-09-11,Female,35-44,No
+C00304,Chai D.,Consumer,North,Chiang Mai,2021-08-13,Prefer not to say,45-54,Yes
+C00305,Boon B.,Consumer,North,Lampang,2022-01-03,Female,45-54,Yes
+C00306,Kanya J.,SMB,Bangkok,Samut Prakan,2023-07-29,Prefer not to say,35-44,Yes
+C00307,Omar S.,Consumer,South,Songkhla,2021-09-27,Female,55+,Yes
+C00308,Boon L.,SMB,South,Krabi,2022-11-15,Prefer not to say,18-24,Yes
+C00309,Anan C.,Corporate,Central,Chonburi,2022-04-21,Female,45-54,Yes
+C00310,Wei P.,Consumer,North,Chiang Mai,2021-10-18,Male,18-24,No
+C00311,Nok T.,Consumer,Central,Rayong,2023-07-13,Female,25-34,Yes
+C00312,Mint C.,Consumer,Northeast,Nakhon Ratchasima,2022-08-19,Male,55+,Yes
+C00313,Suda H.,Consumer,Central,Nakhon Pathom,2023-10-11,Prefer not to say,18-24,Yes
+C00314,Wichai S.,Consumer,South,Phuket,2022-03-09,Male,35-44,No
+C00315,Somchai F.,Consumer,North,Chiang Rai,2023-12-12,Male,18-24,No
+C00316,Priya P.,Consumer,Northeast,Ubon Ratchathani,2023-05-07,Female,25-34,Yes
+C00317,Sofia S.,Consumer,Central,Rayong,2022-01-22,Female,35-44,No
+C00318,Suda V.,Consumer,Northeast,Udon Thani,2023-12-23,Male,25-34,No
+C00319,Prasert R.,Consumer,North,Chiang Rai,2023-04-30,Prefer not to say,35-44,Yes
+C00320,Fah W.,Consumer,North,Lampang,2023-05-15,Male,18-24,No
+C00321,Anan B.,Corporate,Bangkok,Pathum Thani,2022-07-15,Female,55+,Yes
+C00322,Noon B.,Consumer,Northeast,Ubon Ratchathani,2023-08-08,Male,45-54,Yes
+C00323,Sofia D.,Consumer,North,Lampang,2023-06-28,Male,45-54,Yes
+C00324,Noon B.,SMB,Northeast,Nakhon Ratchasima,2021-09-10,Male,18-24,No
+C00325,Wei S.,Consumer,Bangkok,Nonthaburi,2023-08-21,Female,35-44,Yes
+C00326,Anan B.,Corporate,Northeast,Ubon Ratchathani,2021-12-08,Male,18-24,No
+C00327,Mint V.,Consumer,North,Phitsanulok,2021-12-23,Prefer not to say,18-24,No
+C00328,James L.,SMB,Bangkok,Bangkok,2021-08-26,Female,35-44,Yes
+C00329,Omar V.,SMB,South,Songkhla,2022-07-25,Male,35-44,Yes
+C00330,Fah N.,Corporate,Northeast,Udon Thani,2023-05-05,Female,45-54,Yes
+C00331,Lucas H.,Corporate,South,Phuket,2022-04-27,Male,25-34,Yes
+C00332,Wei M.,SMB,Bangkok,Nonthaburi,2021-07-25,Prefer not to say,35-44,No
+C00333,Sofia T.,Corporate,Northeast,Khon Kaen,2023-05-22,Prefer not to say,35-44,Yes
+C00334,Ploy M.,SMB,Northeast,Udon Thani,2023-11-05,Female,55+,Yes
+C00335,Somchai N.,Corporate,South,Phuket,2022-10-30,Prefer not to say,45-54,No
+C00336,Tanawat W.,Consumer,Northeast,Udon Thani,2022-07-05,Male,18-24,Yes
+C00337,Malee G.,SMB,Central,Ayutthaya,2023-01-25,Prefer not to say,55+,Yes
+C00338,Ploy D.,Consumer,North,Phitsanulok,2022-06-08,Prefer not to say,25-34,Yes
+C00339,Ahmed N.,Consumer,Central,Chonburi,2023-03-24,Female,25-34,Yes
+C00340,Ploy M.,Corporate,Bangkok,Nonthaburi,2022-07-15,Female,55+,Yes
+C00341,Mint H.,Consumer,North,Lampang,2022-03-01,Female,45-54,No
+C00342,Suda T.,Consumer,Northeast,Khon Kaen,2022-01-25,Prefer not to say,35-44,Yes
+C00343,Wei S.,Consumer,Central,Nakhon Pathom,2023-11-11,Male,55+,No
+C00344,Ton L.,Consumer,Central,Rayong,2023-10-10,Female,25-34,No
+C00345,Noon G.,Consumer,Northeast,Khon Kaen,2023-03-11,Male,35-44,No
+C00346,Somchai F.,Corporate,Northeast,Ubon Ratchathani,2023-05-19,Female,55+,No
+C00347,Boon E.,Consumer,South,Krabi,2021-07-16,Prefer not to say,45-54,Yes
+C00348,Noon V.,Consumer,North,Chiang Rai,2023-10-05,Female,35-44,Yes
+C00349,Fah E.,Consumer,Central,Nakhon Pathom,2022-09-14,Prefer not to say,55+,No
+C00350,Boon J.,SMB,North,Phitsanulok,2023-06-08,Male,18-24,No
+C00351,Pim H.,Consumer,Bangkok,Pathum Thani,2022-12-27,Female,45-54,No
+C00352,Wichai F.,Consumer,North,Phitsanulok,2023-09-27,Prefer not to say,25-34,No
+C00353,Aek D.,Consumer,Northeast,Nakhon Ratchasima,2021-07-27,Female,18-24,Yes
+C00354,Lucas L.,Consumer,South,Krabi,2021-09-19,Male,35-44,Yes
+C00355,Fah G.,SMB,South,Phuket,2021-07-27,Prefer not to say,25-34,Yes
+C00356,Suda F.,Consumer,Central,Rayong,2022-07-29,Male,18-24,Yes
+C00357,Emily H.,Consumer,North,Phitsanulok,2022-12-14,Male,18-24,No
+C00358,Tanawat C.,Consumer,Bangkok,Bangkok,2022-04-22,Prefer not to say,18-24,Yes
+C00359,Krit S.,Consumer,Northeast,Ubon Ratchathani,2022-10-14,Female,45-54,No
+C00360,Ahmed K.,Corporate,North,Phitsanulok,2021-07-31,Male,25-34,No
+C00361,Omar D.,Consumer,South,Songkhla,2022-06-05,Female,18-24,Yes
+C00362,Boon H.,Consumer,Central,Nakhon Pathom,2022-08-05,Male,25-34,No
+C00363,Kanya D.,Corporate,Central,Nakhon Pathom,2022-06-17,Female,25-34,No
+C00364,Prasert W.,Consumer,South,Surat Thani,2022-02-07,Female,25-34,No
+C00365,Prasert M.,Consumer,North,Phitsanulok,2023-01-14,Prefer not to say,25-34,Yes
+C00366,Wichai T.,Consumer,South,Surat Thani,2022-07-27,Prefer not to say,45-54,No
+C00367,Bee F.,SMB,Central,Ayutthaya,2022-02-18,Female,25-34,Yes
+C00368,Mint F.,Consumer,North,Chiang Mai,2022-09-15,Prefer not to say,55+,Yes
+C00369,Yuki H.,Consumer,North,Phitsanulok,2023-02-18,Male,35-44,Yes
+C00370,Bee M.,Consumer,Central,Nakhon Pathom,2023-08-20,Prefer not to say,18-24,No
+C00371,Omar D.,SMB,Bangkok,Bangkok,2023-01-26,Female,18-24,Yes
+C00372,Krit W.,Consumer,Northeast,Udon Thani,2022-09-08,Prefer not to say,45-54,No
+C00373,James E.,Consumer,Bangkok,Samut Prakan,2023-05-12,Male,18-24,Yes
+C00374,Priya W.,Corporate,South,Phuket,2023-06-27,Prefer not to say,25-34,Yes
+C00375,Fah T.,Corporate,Bangkok,Samut Prakan,2022-10-19,Male,18-24,No
+C00376,Prasert D.,Consumer,North,Phitsanulok,2021-10-25,Prefer not to say,25-34,No
+C00377,Mei M.,Consumer,Central,Chonburi,2023-05-24,Prefer not to say,35-44,No
+C00378,Somchai J.,Consumer,Central,Nakhon Pathom,2023-07-10,Male,45-54,No
+C00379,Malee H.,Consumer,South,Songkhla,2022-01-16,Male,18-24,Yes
+C00380,Wei J.,Consumer,North,Phitsanulok,2022-12-21,Prefer not to say,25-34,No
+C00381,Boon N.,Consumer,Central,Chonburi,2021-09-09,Male,35-44,No
+C00382,Pim S.,Consumer,South,Krabi,2023-08-05,Female,18-24,No
+C00383,Wichai J.,Corporate,Northeast,Ubon Ratchathani,2022-05-14,Prefer not to say,45-54,Yes
+C00384,Emily N.,Consumer,Central,Nakhon Pathom,2021-10-09,Prefer not to say,45-54,Yes
+C00385,Wei H.,Consumer,Northeast,Khon Kaen,2023-09-27,Female,35-44,No
+C00386,Pim T.,SMB,Central,Nakhon Pathom,2023-03-04,Female,55+,Yes
+C00387,Fah B.,Consumer,South,Phuket,2022-06-07,Male,45-54,No
+C00388,Ploy J.,Consumer,North,Chiang Mai,2022-08-20,Male,18-24,Yes
+C00389,Ploy B.,Corporate,North,Chiang Mai,2021-08-23,Female,18-24,No
+C00390,Nok E.,SMB,North,Chiang Mai,2021-12-04,Prefer not to say,25-34,Yes
+C00391,Aek M.,SMB,North,Lampang,2022-05-12,Male,45-54,Yes
+C00392,Fah S.,Consumer,Northeast,Khon Kaen,2023-12-15,Prefer not to say,55+,No
+C00393,Anan J.,Corporate,Northeast,Nakhon Ratchasima,2022-07-07,Prefer not to say,45-54,Yes
+C00394,Anan B.,Consumer,Central,Chonburi,2022-01-06,Prefer not to say,25-34,No
+C00395,James H.,Consumer,Bangkok,Nonthaburi,2023-08-25,Male,18-24,No
+C00396,Sofia P.,SMB,South,Krabi,2022-05-22,Female,18-24,No
+C00397,Ahmed R.,Consumer,Bangkok,Pathum Thani,2023-03-01,Female,35-44,No
+C00398,Pim B.,Consumer,South,Surat Thani,2023-11-16,Prefer not to say,18-24,Yes
+C00399,Fah V.,Corporate,Central,Chonburi,2023-02-23,Prefer not to say,55+,No
+C00400,Malee F.,Consumer,Bangkok,Nonthaburi,2023-09-14,Female,18-24,Yes
+C00401,Sofia W.,Consumer,South,Phuket,2022-01-15,Male,45-54,No
+C00402,Fah L.,SMB,Bangkok,Pathum Thani,2023-02-02,Male,55+,Yes
+C00403,Suda B.,Consumer,Central,Rayong,2021-08-18,Female,18-24,No
+C00404,Somchai M.,Corporate,North,Phitsanulok,2023-11-05,Female,45-54,Yes
+C00405,Kanya V.,Consumer,South,Surat Thani,2021-10-05,Prefer not to say,55+,Yes
+C00406,Boon H.,Consumer,Bangkok,Pathum Thani,2023-02-11,Prefer not to say,18-24,No
+C00407,Wei B.,Consumer,Central,Rayong,2023-08-16,Male,45-54,No
+C00408,Ton V.,Consumer,South,Songkhla,2022-07-10,Prefer not to say,25-34,Yes
+C00409,James F.,Corporate,Central,Ayutthaya,2023-06-16,Female,35-44,Yes
+C00410,Ahmed A.,Corporate,Central,Rayong,2022-07-03,Female,35-44,No
+C00411,Noon J.,Consumer,South,Krabi,2021-09-23,Female,25-34,Yes
+C00412,Pim J.,SMB,North,Lampang,2022-04-27,Male,45-54,No
+C00413,Sofia K.,Consumer,Northeast,Nakhon Ratchasima,2023-04-26,Male,35-44,No
+C00414,Wei H.,Consumer,South,Phuket,2022-08-18,Male,55+,Yes
+C00415,Priya F.,Consumer,North,Chiang Mai,2022-01-08,Prefer not to say,45-54,No
+C00416,Noon W.,Consumer,Northeast,Ubon Ratchathani,2022-11-16,Male,18-24,No
+C00417,Lucas L.,Consumer,North,Chiang Mai,2022-07-09,Prefer not to say,45-54,Yes
+C00418,Anan G.,Corporate,Central,Rayong,2021-09-25,Male,45-54,Yes
+C00419,Ploy C.,Consumer,South,Surat Thani,2023-06-22,Prefer not to say,25-34,Yes
+C00420,Emily M.,Consumer,South,Surat Thani,2021-08-21,Prefer not to say,45-54,Yes
+C00421,Wei K.,Consumer,Bangkok,Pathum Thani,2024-01-01,Prefer not to say,55+,No
+C00422,Prasert R.,Consumer,North,Chiang Rai,2021-10-27,Female,55+,No
+C00423,Emily D.,Consumer,North,Lampang,2022-11-03,Male,18-24,No
+C00424,Chai F.,SMB,South,Surat Thani,2021-07-19,Female,25-34,No
+C00425,Anan K.,Corporate,North,Phitsanulok,2023-02-11,Prefer not to say,25-34,No
+C00426,Suda A.,Consumer,Central,Chonburi,2022-09-16,Male,18-24,Yes
+C00427,Sofia C.,Consumer,South,Krabi,2021-09-25,Female,55+,Yes
+C00428,Chai M.,Consumer,Central,Rayong,2022-01-22,Female,55+,No
+C00429,Anan M.,Consumer,Central,Nakhon Pathom,2023-08-31,Prefer not to say,25-34,Yes
+C00430,Omar B.,Consumer,North,Lampang,2023-08-04,Female,55+,No
+C00431,Suda E.,Consumer,Central,Chonburi,2022-10-24,Prefer not to say,55+,Yes
+C00432,James B.,SMB,South,Phuket,2023-02-15,Prefer not to say,55+,No
+C00433,Aek V.,Consumer,Northeast,Khon Kaen,2023-02-13,Male,55+,No
+C00434,Yuki L.,SMB,Northeast,Khon Kaen,2022-03-20,Female,35-44,Yes
+C00435,Aek K.,Consumer,Northeast,Khon Kaen,2022-07-09,Prefer not to say,18-24,Yes
+C00436,Malee W.,SMB,South,Phuket,2022-01-25,Female,25-34,No
+C00437,Prasert F.,Consumer,Bangkok,Pathum Thani,2023-05-12,Male,18-24,No
+C00438,Ploy P.,SMB,North,Chiang Mai,2023-10-22,Male,55+,No
+C00439,Suda H.,Corporate,North,Phitsanulok,2022-07-31,Prefer not to say,18-24,No
+C00440,Wichai D.,SMB,South,Surat Thani,2023-07-25,Prefer not to say,25-34,Yes
+C00441,Wichai H.,SMB,North,Chiang Rai,2022-08-03,Prefer not to say,25-34,No
+C00442,Sofia V.,Consumer,Central,Ayutthaya,2021-11-02,Female,18-24,Yes
+C00443,Noon N.,Corporate,Bangkok,Pathum Thani,2021-10-20,Male,45-54,No
+C00444,Yuki A.,Corporate,Northeast,Khon Kaen,2021-11-17,Female,25-34,Yes
+C00445,Krit C.,Corporate,South,Phuket,2023-03-16,Prefer not to say,45-54,Yes
+C00446,Somchai F.,Consumer,North,Lampang,2021-07-18,Female,18-24,Yes
+C00447,Lucas F.,Consumer,South,Phuket,2022-03-06,Prefer not to say,35-44,Yes
+C00448,Ton B.,Corporate,South,Surat Thani,2021-08-26,Male,35-44,No
+C00449,Omar A.,Corporate,North,Phitsanulok,2021-12-07,Male,18-24,No
+C00450,Mei L.,Consumer,Bangkok,Bangkok,2021-11-12,Prefer not to say,25-34,No
+C00451,Emily T.,SMB,South,Krabi,2022-09-24,Female,45-54,Yes
+C00452,Ploy H.,Consumer,Bangkok,Samut Prakan,2023-02-01,Male,55+,Yes
+C00453,Noon C.,Consumer,Bangkok,Samut Prakan,2022-03-30,Female,35-44,No
+C00454,Boon E.,SMB,North,Lampang,2021-11-04,Male,55+,No
+C00455,Mint E.,Consumer,South,Songkhla,2022-10-15,Male,55+,No
+C00456,Krit J.,Consumer,South,Phuket,2022-10-21,Prefer not to say,18-24,Yes
+C00457,Mint M.,SMB,Bangkok,Bangkok,2023-01-09,Male,25-34,Yes
+C00458,Priya R.,Consumer,Central,Chonburi,2022-10-08,Female,25-34,Yes
+C00459,James B.,SMB,Central,Nakhon Pathom,2022-10-19,Prefer not to say,25-34,Yes
+C00460,Fah H.,Consumer,North,Chiang Mai,2021-08-19,Female,45-54,No
+C00461,Noon G.,Consumer,Bangkok,Samut Prakan,2022-04-03,Male,55+,Yes
+C00462,Tanawat E.,SMB,Northeast,Udon Thani,2022-04-06,Female,55+,Yes
+C00463,Somchai K.,SMB,Northeast,Nakhon Ratchasima,2021-09-05,Prefer not to say,18-24,No
+C00464,Lucas A.,Corporate,South,Phuket,2022-02-13,Prefer not to say,45-54,Yes
+C00465,Boon A.,SMB,Northeast,Khon Kaen,2021-09-12,Female,45-54,Yes
+C00466,Ploy S.,SMB,Central,Chonburi,2023-03-24,Prefer not to say,18-24,Yes
+C00467,Ploy M.,Consumer,North,Chiang Rai,2023-02-10,Prefer not to say,25-34,No
+C00468,Ploy V.,Consumer,South,Krabi,2022-10-21,Male,25-34,Yes
+C00469,Anan F.,SMB,Northeast,Nakhon Ratchasima,2022-01-06,Male,35-44,Yes
+C00470,Nok E.,Consumer,Central,Nakhon Pathom,2021-11-29,Prefer not to say,45-54,No
+C00471,Mint A.,Consumer,Bangkok,Pathum Thani,2023-02-22,Female,55+,Yes
+C00472,Bee H.,SMB,Central,Nakhon Pathom,2022-03-18,Prefer not to say,45-54,Yes
+C00473,Yuki R.,SMB,Northeast,Khon Kaen,2023-10-24,Male,55+,Yes
+C00474,Chai L.,Consumer,South,Surat Thani,2022-05-27,Prefer not to say,18-24,Yes
+C00475,Malee C.,Consumer,Central,Rayong,2023-08-20,Male,35-44,No
+C00476,Suda T.,Corporate,Bangkok,Samut Prakan,2022-10-07,Female,18-24,No
+C00477,Anan F.,Consumer,Bangkok,Nonthaburi,2021-08-09,Female,18-24,Yes
+C00478,Mei V.,Corporate,North,Phitsanulok,2022-03-31,Female,25-34,No
+C00479,Krit R.,SMB,North,Chiang Rai,2023-10-01,Female,25-34,Yes
+C00480,James T.,SMB,North,Phitsanulok,2022-12-15,Prefer not to say,55+,Yes
+C00481,Ploy M.,Consumer,North,Chiang Mai,2022-11-04,Female,18-24,No
+C00482,Ploy A.,Consumer,Bangkok,Bangkok,2023-06-09,Prefer not to say,55+,Yes
+C00483,Wichai A.,Consumer,South,Songkhla,2023-02-24,Male,25-34,No
+C00484,James E.,SMB,Bangkok,Bangkok,2023-03-27,Female,45-54,No
+C00485,James V.,SMB,Central,Ayutthaya,2021-11-28,Male,35-44,Yes
+C00486,Priya A.,SMB,Bangkok,Nonthaburi,2022-09-14,Female,25-34,No
+C00487,Chai J.,SMB,South,Surat Thani,2022-06-06,Prefer not to say,35-44,Yes
+C00488,Wei E.,Consumer,North,Phitsanulok,2022-12-13,Female,25-34,No
+C00489,Suda M.,Consumer,Bangkok,Bangkok,2021-09-26,Prefer not to say,25-34,Yes
+C00490,Prasert K.,Consumer,Bangkok,Nonthaburi,2023-06-01,Prefer not to say,18-24,No
+C00491,Noon M.,Consumer,Bangkok,Bangkok,2023-10-16,Female,25-34,Yes
+C00492,Ploy N.,Consumer,Central,Chonburi,2023-07-23,Male,25-34,No
+C00493,Kanya J.,Consumer,Northeast,Nakhon Ratchasima,2022-03-27,Female,25-34,Yes
+C00494,Ahmed M.,SMB,Northeast,Udon Thani,2023-05-08,Prefer not to say,25-34,No
+C00495,James N.,SMB,North,Lampang,2023-05-26,Prefer not to say,35-44,Yes
+C00496,Wichai J.,Consumer,Northeast,Khon Kaen,2022-10-06,Prefer not to say,25-34,No
+C00497,Mint P.,Consumer,Bangkok,Bangkok,2022-11-11,Female,35-44,No
+C00498,Somchai F.,Corporate,North,Lampang,2023-04-28,Male,18-24,No
+C00499,Ploy T.,Consumer,South,Krabi,2023-01-04,Female,45-54,No
+C00500,Fah R.,Corporate,Bangkok,Pathum Thani,2021-10-27,Male,45-54,No
+C00501,Chai H.,SMB,Central,Rayong,2022-01-09,Prefer not to say,18-24,Yes
+C00502,Boon D.,Consumer,Central,Ayutthaya,2022-08-20,Prefer not to say,45-54,No
+C00503,Wichai N.,Consumer,Central,Nakhon Pathom,2021-11-29,Female,45-54,No
+C00504,Yuki L.,SMB,South,Surat Thani,2021-12-15,Female,25-34,No
+C00505,Aek M.,Corporate,Northeast,Nakhon Ratchasima,2022-01-14,Prefer not to say,18-24,No
+C00506,Wei P.,Consumer,Northeast,Khon Kaen,2022-08-08,Female,55+,No
+C00507,Anan D.,SMB,Northeast,Khon Kaen,2022-08-28,Prefer not to say,35-44,Yes
+C00508,Somchai S.,Consumer,North,Chiang Mai,2022-11-30,Male,18-24,Yes
+C00509,Fah M.,Corporate,North,Phitsanulok,2022-03-26,Prefer not to say,25-34,No
+C00510,James J.,Consumer,Northeast,Udon Thani,2022-02-23,Female,35-44,No
+C00511,Bee M.,Consumer,South,Songkhla,2023-02-28,Male,35-44,No
+C00512,Noon D.,Corporate,Bangkok,Samut Prakan,2021-10-30,Female,55+,No
+C00513,Boon H.,Consumer,South,Surat Thani,2023-07-24,Male,18-24,Yes
+C00514,Suda G.,SMB,Bangkok,Nonthaburi,2022-06-05,Male,35-44,No
+C00515,Noon W.,Consumer,Bangkok,Samut Prakan,2021-08-03,Female,25-34,Yes
+C00516,Krit L.,Consumer,Northeast,Udon Thani,2023-07-09,Female,45-54,Yes
+C00517,Wei N.,Consumer,Central,Ayutthaya,2022-05-26,Male,35-44,Yes
+C00518,Tanawat C.,SMB,Bangkok,Samut Prakan,2021-08-12,Male,25-34,No
+C00519,Lucas D.,Consumer,Central,Rayong,2022-04-27,Female,35-44,Yes
+C00520,Bee R.,Consumer,Bangkok,Bangkok,2022-10-28,Prefer not to say,18-24,No
+C00521,Emily P.,SMB,South,Songkhla,2021-12-23,Male,55+,Yes
+C00522,Anan G.,Corporate,Central,Rayong,2023-09-18,Prefer not to say,45-54,No
+C00523,Anan M.,Corporate,Bangkok,Samut Prakan,2023-03-03,Prefer not to say,18-24,No
+C00524,Wei B.,Consumer,Northeast,Udon Thani,2022-07-11,Prefer not to say,18-24,No
+C00525,Ahmed E.,SMB,South,Krabi,2022-10-11,Female,35-44,Yes
+C00526,Aek E.,Consumer,Bangkok,Bangkok,2022-02-04,Female,55+,Yes
+C00527,Kanya N.,SMB,South,Songkhla,2021-10-23,Female,18-24,Yes
+C00528,Emily R.,Consumer,North,Phitsanulok,2023-08-02,Male,18-24,Yes
+C00529,Bee W.,Consumer,Bangkok,Samut Prakan,2023-06-21,Prefer not to say,45-54,Yes
+C00530,Chai D.,Consumer,Northeast,Khon Kaen,2023-01-30,Prefer not to say,35-44,Yes
+C00531,Tanawat G.,Consumer,South,Songkhla,2022-05-14,Prefer not to say,55+,Yes
+C00532,Priya D.,Consumer,South,Phuket,2022-12-26,Prefer not to say,25-34,Yes
+C00533,Somchai T.,Corporate,North,Lampang,2024-01-01,Prefer not to say,35-44,No
+C00534,Krit P.,Consumer,Northeast,Nakhon Ratchasima,2021-10-07,Female,45-54,No
+C00535,Noon N.,SMB,North,Chiang Rai,2023-04-06,Male,55+,No
+C00536,Boon N.,Consumer,Northeast,Udon Thani,2021-07-23,Female,55+,No
+C00537,Omar A.,Consumer,South,Songkhla,2022-06-19,Female,18-24,No
+C00538,Kanya V.,SMB,North,Chiang Mai,2023-04-04,Female,45-54,No
+C00539,Tanawat T.,Corporate,North,Phitsanulok,2022-08-31,Prefer not to say,55+,Yes
+C00540,Chai V.,Consumer,Bangkok,Bangkok,2022-12-02,Male,35-44,Yes
+C00541,Krit T.,SMB,North,Phitsanulok,2021-12-02,Female,55+,Yes
+C00542,James V.,SMB,Bangkok,Nonthaburi,2021-11-10,Female,35-44,Yes
+C00543,Noon B.,Consumer,Central,Ayutthaya,2022-11-10,Female,25-34,No
+C00544,Ploy N.,SMB,North,Chiang Mai,2023-05-01,Male,18-24,No
+C00545,Tanawat P.,SMB,Northeast,Ubon Ratchathani,2022-10-29,Male,18-24,No
+C00546,Ploy B.,SMB,South,Songkhla,2023-09-17,Male,35-44,Yes
+C00547,Noon A.,Consumer,North,Phitsanulok,2022-01-19,Prefer not to say,25-34,Yes
+C00548,Priya A.,Consumer,North,Chiang Mai,2022-03-24,Female,55+,Yes
+C00549,Omar J.,SMB,Northeast,Khon Kaen,2021-12-09,Female,35-44,No
+C00550,Bee H.,SMB,Northeast,Khon Kaen,2023-07-30,Male,45-54,No
+C00551,Mint S.,SMB,Central,Nakhon Pathom,2023-03-28,Female,35-44,Yes
+C00552,Bee A.,SMB,Central,Nakhon Pathom,2022-02-04,Female,55+,No
+C00553,Suda L.,Corporate,Northeast,Ubon Ratchathani,2023-03-07,Male,18-24,No
+C00554,Yuki B.,Consumer,Central,Rayong,2022-01-10,Male,25-34,No
+C00555,Fah C.,SMB,South,Songkhla,2022-01-02,Male,55+,No
+C00556,Ahmed E.,SMB,South,Krabi,2021-08-26,Male,35-44,Yes
+C00557,Ahmed A.,Corporate,North,Chiang Mai,2021-10-11,Male,35-44,Yes
+C00558,Tanawat E.,Consumer,Central,Chonburi,2022-09-23,Female,55+,Yes
+C00559,Tanawat W.,Consumer,Bangkok,Bangkok,2022-09-13,Female,45-54,No
+C00560,Krit L.,Corporate,South,Phuket,2022-04-28,Female,18-24,Yes
+C00561,Tanawat D.,Consumer,Central,Chonburi,2023-08-06,Prefer not to say,55+,Yes
+C00562,Somchai G.,SMB,Bangkok,Samut Prakan,2022-03-25,Male,35-44,No
+C00563,Boon K.,Consumer,Northeast,Udon Thani,2021-09-30,Male,35-44,Yes
+C00564,Ahmed K.,Corporate,Central,Rayong,2021-09-05,Male,18-24,Yes
+C00565,Fah F.,Corporate,Northeast,Ubon Ratchathani,2023-02-22,Female,25-34,Yes
+C00566,Ton P.,Consumer,South,Surat Thani,2022-01-21,Male,25-34,No
+C00567,Wei R.,SMB,South,Krabi,2022-12-02,Prefer not to say,45-54,Yes
+C00568,Anan G.,Consumer,Northeast,Nakhon Ratchasima,2022-01-23,Prefer not to say,35-44,No
+C00569,Omar S.,SMB,North,Chiang Mai,2022-09-23,Female,18-24,Yes
+C00570,Nok M.,Consumer,Bangkok,Bangkok,2023-10-21,Female,18-24,No
+C00571,Ploy H.,Consumer,Central,Rayong,2023-02-10,Prefer not to say,55+,No
+C00572,Nok A.,Consumer,Central,Nakhon Pathom,2022-06-12,Male,35-44,Yes
+C00573,Somchai F.,SMB,Bangkok,Samut Prakan,2021-11-28,Female,45-54,Yes
+C00574,Malee A.,SMB,North,Chiang Rai,2022-10-08,Prefer not to say,55+,Yes
+C00575,Ploy F.,Consumer,North,Chiang Mai,2022-01-02,Male,18-24,Yes
+C00576,Omar F.,Consumer,Northeast,Khon Kaen,2021-07-26,Female,18-24,No
+C00577,Priya F.,Consumer,North,Lampang,2023-04-28,Female,18-24,No
+C00578,Krit B.,Consumer,Northeast,Ubon Ratchathani,2021-09-14,Prefer not to say,25-34,No
+C00579,Emily P.,SMB,Central,Ayutthaya,2022-04-06,Female,45-54,Yes
+C00580,Suda B.,Consumer,Northeast,Udon Thani,2023-03-18,Prefer not to say,55+,Yes
+C00581,Nok A.,SMB,South,Songkhla,2023-08-30,Male,45-54,Yes
+C00582,Malee T.,Consumer,South,Surat Thani,2021-11-12,Female,45-54,Yes
+C00583,Chai F.,Consumer,North,Phitsanulok,2021-10-04,Female,25-34,Yes
+C00584,Tanawat K.,Consumer,North,Phitsanulok,2023-07-17,Male,18-24,No
+C00585,Somchai S.,Consumer,North,Chiang Mai,2023-06-01,Female,35-44,Yes
+C00586,Boon R.,Consumer,South,Surat Thani,2023-11-05,Male,35-44,No
+C00587,Ton B.,SMB,Northeast,Nakhon Ratchasima,2022-06-27,Female,55+,Yes
+C00588,Ton M.,Corporate,Bangkok,Nonthaburi,2022-02-17,Male,35-44,Yes
+C00589,Priya H.,SMB,North,Phitsanulok,2023-02-13,Prefer not to say,18-24,No
+C00590,Kanya M.,Consumer,Bangkok,Nonthaburi,2022-01-30,Female,45-54,Yes
+C00591,James H.,Consumer,Central,Rayong,2022-08-23,Male,25-34,Yes
+C00592,Chai G.,SMB,Bangkok,Nonthaburi,2023-10-01,Female,55+,Yes
+C00593,Lucas S.,Consumer,Central,Rayong,2023-11-12,Male,25-34,No
+C00594,Omar B.,Consumer,Northeast,Udon Thani,2022-02-25,Male,35-44,No
+C00595,Sofia M.,Corporate,Bangkok,Pathum Thani,2022-10-19,Female,45-54,Yes
+C00596,Sofia D.,Consumer,Northeast,Khon Kaen,2022-05-17,Male,25-34,Yes
+C00597,Aek N.,SMB,Central,Nakhon Pathom,2023-09-26,Male,25-34,Yes
+C00598,Anan K.,Consumer,North,Chiang Rai,2021-08-20,Male,55+,No
+C00599,Wichai E.,Consumer,North,Chiang Rai,2022-08-07,Prefer not to say,55+,No
+C00600,Bee F.,SMB,Central,Ayutthaya,2022-10-22,Male,18-24,Yes
+C00601,Noon M.,Consumer,South,Surat Thani,2022-06-10,Prefer not to say,45-54,Yes
+C00602,Nok P.,SMB,South,Surat Thani,2023-01-03,Prefer not to say,35-44,Yes
+C00603,Aek N.,Consumer,Northeast,Ubon Ratchathani,2021-07-16,Prefer not to say,18-24,No
+C00604,Fah R.,SMB,Bangkok,Bangkok,2023-05-26,Female,18-24,No
+C00605,Bee N.,SMB,North,Chiang Rai,2023-01-22,Male,18-24,No
+C00606,Prasert B.,Corporate,Central,Nakhon Pathom,2022-10-20,Female,18-24,No
+C00607,Boon W.,SMB,Bangkok,Bangkok,2022-02-27,Prefer not to say,35-44,No
+C00608,Emily T.,Consumer,South,Songkhla,2021-12-05,Female,25-34,Yes
+C00609,Prasert C.,Consumer,Northeast,Udon Thani,2022-12-07,Prefer not to say,35-44,Yes
+C00610,Mint B.,Consumer,North,Chiang Mai,2022-11-17,Male,55+,No
+C00611,Wei W.,SMB,Northeast,Khon Kaen,2022-02-17,Male,55+,Yes
+C00612,James H.,SMB,Bangkok,Samut Prakan,2023-11-15,Male,18-24,No
+C00613,Wichai T.,Consumer,Northeast,Udon Thani,2023-05-15,Prefer not to say,25-34,Yes
+C00614,Mint S.,Consumer,Northeast,Udon Thani,2022-04-17,Male,18-24,Yes
+C00615,Wei D.,SMB,North,Chiang Rai,2022-03-27,Female,18-24,Yes
+C00616,Malee A.,Consumer,Bangkok,Pathum Thani,2022-10-28,Male,25-34,No
+C00617,Yuki J.,Consumer,Northeast,Nakhon Ratchasima,2023-03-16,Male,55+,No
+C00618,Nok S.,SMB,South,Surat Thani,2021-07-15,Female,35-44,No
+C00619,Omar D.,SMB,Bangkok,Bangkok,2021-07-24,Female,18-24,Yes
+C00620,Kanya N.,Consumer,Bangkok,Bangkok,2022-04-14,Male,25-34,No
+C00621,Prasert B.,SMB,South,Krabi,2023-10-25,Prefer not to say,35-44,Yes
+C00622,Wichai W.,SMB,Bangkok,Samut Prakan,2023-02-07,Female,35-44,No
+C00623,Omar S.,Consumer,Northeast,Nakhon Ratchasima,2021-11-16,Male,18-24,No
+C00624,Mei H.,Consumer,Central,Nakhon Pathom,2022-05-09,Female,45-54,No
+C00625,Yuki B.,Corporate,Northeast,Nakhon Ratchasima,2023-11-02,Prefer not to say,35-44,Yes
+C00626,Pim G.,Consumer,South,Surat Thani,2022-02-17,Female,45-54,No
+C00627,Mint T.,Consumer,North,Lampang,2023-08-14,Prefer not to say,55+,Yes
+C00628,James B.,Consumer,Northeast,Ubon Ratchathani,2021-09-10,Prefer not to say,35-44,Yes
+C00629,Pim C.,Consumer,Central,Rayong,2022-02-09,Male,18-24,No
+C00630,Suda L.,Consumer,Bangkok,Pathum Thani,2022-10-11,Prefer not to say,55+,No
+C00631,Anan P.,Corporate,Northeast,Nakhon Ratchasima,2023-04-02,Female,45-54,No
+C00632,Somchai P.,Consumer,Bangkok,Bangkok,2022-04-01,Female,18-24,Yes
+C00633,Lucas V.,Consumer,Bangkok,Bangkok,2022-12-20,Male,25-34,Yes
+C00634,Aek H.,Consumer,Bangkok,Bangkok,2022-04-18,Prefer not to say,18-24,No
+C00635,Pim E.,Consumer,Central,Ayutthaya,2021-07-18,Female,35-44,Yes
+C00636,Priya S.,Consumer,North,Chiang Rai,2021-11-27,Male,18-24,Yes
+C00637,Ploy S.,Consumer,North,Lampang,2021-11-01,Prefer not to say,25-34,No
+C00638,Sofia G.,Corporate,North,Chiang Rai,2023-07-11,Male,35-44,No
+C00639,Mint W.,Consumer,Northeast,Udon Thani,2023-03-14,Male,45-54,No
+C00640,Boon A.,Consumer,South,Songkhla,2022-12-26,Male,25-34,Yes
+C00641,Priya B.,Consumer,Central,Chonburi,2021-11-30,Female,55+,Yes
+C00642,Ploy F.,Consumer,North,Chiang Rai,2023-01-04,Prefer not to say,45-54,No
+C00643,Sofia D.,Corporate,Northeast,Ubon Ratchathani,2022-12-30,Prefer not to say,25-34,Yes
+C00644,Chai S.,SMB,North,Chiang Rai,2023-03-02,Female,55+,Yes
+C00645,Tanawat C.,Consumer,North,Phitsanulok,2022-05-27,Female,55+,Yes
+C00646,Ploy T.,Corporate,South,Phuket,2023-07-01,Male,55+,No
+C00647,Nok W.,Consumer,South,Phuket,2023-01-15,Prefer not to say,55+,Yes
+C00648,Nok B.,Consumer,South,Surat Thani,2022-02-18,Prefer not to say,18-24,Yes
+C00649,Mint W.,SMB,North,Lampang,2021-11-26,Prefer not to say,55+,Yes
+C00650,Mei V.,SMB,Bangkok,Nonthaburi,2022-04-09,Male,25-34,Yes
+C00651,Suda N.,Corporate,Bangkok,Bangkok,2022-06-13,Female,35-44,No
+C00652,Bee V.,SMB,North,Lampang,2022-06-05,Female,55+,Yes
+C00653,Priya F.,Consumer,Central,Nakhon Pathom,2023-08-15,Prefer not to say,45-54,Yes
+C00654,Omar G.,Corporate,Central,Nakhon Pathom,2023-05-21,Prefer not to say,45-54,Yes
+C00655,Bee G.,Consumer,Bangkok,Pathum Thani,2023-01-22,Male,55+,No
+C00656,Krit D.,Consumer,Central,Chonburi,2021-11-29,Female,25-34,No
+C00657,Pim T.,Consumer,Northeast,Nakhon Ratchasima,2022-03-18,Prefer not to say,18-24,Yes
+C00658,Mint A.,Consumer,Bangkok,Nonthaburi,2023-04-16,Male,25-34,No
+C00659,Wichai B.,Consumer,Northeast,Udon Thani,2023-10-03,Female,45-54,No
+C00660,Ahmed H.,Consumer,Bangkok,Samut Prakan,2023-01-31,Prefer not to say,45-54,No
+C00661,Ahmed B.,SMB,South,Krabi,2023-10-14,Prefer not to say,45-54,Yes
+C00662,Yuki P.,SMB,Bangkok,Samut Prakan,2021-09-02,Prefer not to say,25-34,No
+C00663,Nok S.,SMB,Central,Rayong,2022-02-12,Male,35-44,Yes
+C00664,Omar S.,Corporate,Northeast,Udon Thani,2023-02-24,Prefer not to say,55+,Yes
+C00665,Suda A.,Corporate,South,Surat Thani,2023-03-11,Prefer not to say,18-24,No
+C00666,Mei B.,Consumer,Central,Nakhon Pathom,2022-02-07,Male,35-44,No
+C00667,Wichai C.,Consumer,Central,Ayutthaya,2021-08-03,Male,25-34,No
+C00668,Priya R.,Consumer,Central,Chonburi,2023-04-03,Female,55+,No
+C00669,Ton L.,SMB,North,Chiang Rai,2023-12-14,Female,35-44,Yes
+C00670,Aek D.,Corporate,Central,Rayong,2021-12-20,Male,55+,No
+C00671,Bee L.,Consumer,Bangkok,Samut Prakan,2022-11-16,Male,18-24,Yes
+C00672,Aek L.,Corporate,North,Chiang Rai,2021-11-02,Female,25-34,No
+C00673,Tanawat B.,Consumer,South,Krabi,2021-09-16,Male,18-24,No
+C00674,Pim G.,SMB,South,Phuket,2021-11-25,Prefer not to say,55+,Yes
+C00675,Malee A.,SMB,North,Lampang,2022-06-09,Prefer not to say,55+,Yes
+C00676,Kanya L.,Corporate,North,Chiang Mai,2023-03-30,Female,18-24,No
+C00677,Bee J.,Corporate,Central,Chonburi,2022-06-26,Female,45-54,No
+C00678,Pim M.,Consumer,North,Chiang Rai,2023-02-02,Prefer not to say,25-34,No
+C00679,Suda M.,SMB,Northeast,Udon Thani,2022-01-15,Prefer not to say,45-54,Yes
+C00680,Yuki N.,Consumer,Central,Ayutthaya,2022-11-09,Female,45-54,No
+C00681,Mint N.,Consumer,Central,Chonburi,2022-05-09,Female,35-44,Yes
+C00682,Priya T.,Consumer,South,Krabi,2022-02-12,Male,25-34,Yes
+C00683,Malee E.,Consumer,Bangkok,Pathum Thani,2022-08-26,Prefer not to say,25-34,No
+C00684,Nok P.,Corporate,Northeast,Udon Thani,2022-03-06,Female,25-34,No
+C00685,Aek H.,Consumer,Central,Nakhon Pathom,2021-08-07,Male,18-24,No
+C00686,Mei G.,Consumer,Northeast,Nakhon Ratchasima,2023-02-13,Male,18-24,Yes
+C00687,Prasert J.,SMB,South,Surat Thani,2022-02-05,Male,45-54,No
+C00688,Ahmed K.,Consumer,Northeast,Ubon Ratchathani,2023-03-03,Prefer not to say,25-34,No
+C00689,Lucas L.,Consumer,Northeast,Ubon Ratchathani,2021-12-25,Prefer not to say,18-24,Yes
+C00690,Wichai N.,Consumer,South,Krabi,2023-12-12,Prefer not to say,25-34,Yes
+C00691,Mint H.,SMB,South,Phuket,2022-02-04,Female,35-44,No
+C00692,Priya F.,SMB,Northeast,Ubon Ratchathani,2023-01-04,Prefer not to say,45-54,No
+C00693,Ploy P.,Consumer,Bangkok,Bangkok,2022-04-05,Male,45-54,Yes
+C00694,James L.,Consumer,Central,Ayutthaya,2023-08-20,Male,25-34,No
+C00695,Bee F.,SMB,Northeast,Khon Kaen,2021-07-20,Female,45-54,No
+C00696,Somchai G.,Consumer,Central,Chonburi,2022-03-20,Female,55+,Yes
+C00697,Yuki L.,Consumer,South,Songkhla,2022-03-28,Prefer not to say,45-54,Yes
+C00698,Boon T.,Corporate,North,Phitsanulok,2021-10-27,Prefer not to say,55+,No
+C00699,Ploy A.,SMB,North,Chiang Rai,2022-03-09,Prefer not to say,45-54,Yes
+C00700,Mint B.,SMB,Central,Rayong,2021-07-29,Male,18-24,No
+C00701,Mint D.,Consumer,South,Surat Thani,2023-11-18,Male,45-54,No
+C00702,Kanya B.,Consumer,Northeast,Nakhon Ratchasima,2023-06-14,Male,55+,Yes
+C00703,Ploy P.,Consumer,Northeast,Ubon Ratchathani,2022-02-13,Male,55+,Yes
+C00704,Ploy G.,Consumer,South,Krabi,2021-09-14,Male,35-44,No
+C00705,Boon S.,SMB,Central,Ayutthaya,2023-11-02,Prefer not to say,25-34,No
+C00706,Wei B.,Consumer,Northeast,Nakhon Ratchasima,2022-04-02,Female,18-24,No
+C00707,Suda B.,Consumer,North,Chiang Rai,2022-08-03,Female,35-44,Yes
+C00708,Ton S.,Corporate,Central,Ayutthaya,2023-10-24,Female,55+,No
+C00709,Wei K.,SMB,Northeast,Nakhon Ratchasima,2022-01-02,Male,45-54,No
+C00710,Krit J.,Corporate,Bangkok,Nonthaburi,2022-05-05,Male,55+,Yes
+C00711,Prasert W.,Consumer,North,Phitsanulok,2023-12-10,Male,25-34,No
+C00712,Lucas G.,Corporate,Bangkok,Nonthaburi,2022-07-14,Male,55+,Yes
+C00713,Prasert E.,Corporate,South,Krabi,2022-09-18,Prefer not to say,25-34,Yes
+C00714,Somchai P.,Consumer,Northeast,Khon Kaen,2023-05-07,Male,18-24,Yes
+C00715,Nok C.,Consumer,Central,Rayong,2022-09-03,Male,45-54,Yes
+C00716,Tanawat D.,SMB,Northeast,Ubon Ratchathani,2023-01-24,Prefer not to say,25-34,Yes
+C00717,Sofia F.,Consumer,North,Phitsanulok,2023-02-26,Female,18-24,Yes
+C00718,Suda A.,Consumer,North,Lampang,2023-08-06,Female,55+,Yes
+C00719,Bee N.,SMB,Central,Nakhon Pathom,2023-03-30,Prefer not to say,18-24,Yes
+C00720,Nok E.,Consumer,Central,Chonburi,2023-07-21,Prefer not to say,35-44,Yes
+C00721,Wei B.,Consumer,Bangkok,Samut Prakan,2022-08-07,Male,25-34,No
+C00722,Emily G.,SMB,South,Phuket,2023-10-18,Male,55+,Yes
+C00723,Mint K.,Corporate,Bangkok,Pathum Thani,2022-05-08,Prefer not to say,35-44,No
+C00724,Fah J.,Consumer,South,Songkhla,2022-04-07,Female,25-34,Yes
+C00725,Prasert G.,Consumer,Bangkok,Bangkok,2022-07-13,Male,45-54,No
+C00726,Pim T.,Corporate,North,Chiang Rai,2022-10-21,Female,55+,No
+C00727,Emily A.,SMB,Central,Chonburi,2023-12-29,Male,45-54,Yes
+C00728,Aek D.,Corporate,South,Surat Thani,2023-07-23,Male,55+,Yes
+C00729,Bee G.,SMB,Bangkok,Samut Prakan,2022-06-02,Male,35-44,Yes
+C00730,Chai F.,Consumer,Central,Rayong,2023-03-28,Prefer not to say,55+,Yes
+C00731,Prasert L.,Consumer,North,Phitsanulok,2023-03-15,Male,55+,No
+C00732,Wei C.,SMB,Bangkok,Bangkok,2022-12-04,Prefer not to say,45-54,No
+C00733,Priya R.,SMB,South,Songkhla,2023-06-12,Male,25-34,No
+C00734,Tanawat R.,Consumer,Central,Chonburi,2023-05-22,Male,55+,No
+C00735,Aek W.,SMB,Bangkok,Pathum Thani,2022-12-01,Prefer not to say,18-24,No
+C00736,Somchai P.,Consumer,South,Phuket,2023-07-15,Female,18-24,Yes
+C00737,Omar R.,Consumer,South,Krabi,2022-11-24,Female,55+,No
+C00738,Aek B.,Corporate,Bangkok,Nonthaburi,2023-08-10,Male,35-44,No
+C00739,Ahmed H.,SMB,North,Chiang Mai,2021-11-07,Female,45-54,No
+C00740,Omar D.,SMB,Central,Chonburi,2023-05-09,Female,45-54,Yes
+C00741,Boon G.,Consumer,Bangkok,Pathum Thani,2023-03-13,Male,45-54,Yes
+C00742,Anan H.,Consumer,Northeast,Nakhon Ratchasima,2023-12-08,Prefer not to say,18-24,Yes
+C00743,Kanya V.,Consumer,North,Chiang Mai,2022-09-29,Male,35-44,No
+C00744,James L.,Corporate,Northeast,Nakhon Ratchasima,2021-12-11,Female,45-54,No
+C00745,Sofia W.,Consumer,North,Phitsanulok,2023-12-09,Male,18-24,No
+C00746,Kanya D.,Corporate,South,Songkhla,2022-07-10,Male,55+,No
+C00747,Ploy K.,Corporate,Northeast,Khon Kaen,2022-03-15,Female,45-54,Yes
+C00748,Nok S.,SMB,Northeast,Udon Thani,2022-10-03,Prefer not to say,18-24,No
+C00749,Krit S.,SMB,Central,Rayong,2023-06-14,Male,18-24,Yes
+C00750,James M.,Consumer,Bangkok,Bangkok,2022-12-11,Female,55+,Yes
+C00751,Mei H.,SMB,Central,Ayutthaya,2021-10-30,Male,45-54,No
+C00752,Kanya E.,Consumer,North,Chiang Rai,2021-09-11,Female,18-24,Yes
+C00753,Krit J.,Consumer,Bangkok,Bangkok,2021-09-29,Prefer not to say,18-24,No
+C00754,Malee E.,Consumer,Bangkok,Pathum Thani,2023-05-19,Male,18-24,Yes
+C00755,Mei M.,SMB,North,Lampang,2023-07-20,Prefer not to say,55+,No
+C00756,Mei G.,Consumer,Northeast,Khon Kaen,2022-01-14,Male,55+,No
+C00757,Aek H.,Corporate,Northeast,Ubon Ratchathani,2023-03-14,Prefer not to say,45-54,No
+C00758,Krit D.,SMB,Bangkok,Bangkok,2023-09-30,Female,55+,Yes
+C00759,Sofia S.,Consumer,Northeast,Khon Kaen,2022-08-02,Prefer not to say,35-44,No
+C00760,Anan E.,SMB,Bangkok,Pathum Thani,2021-12-01,Prefer not to say,35-44,No
+C00761,Omar G.,SMB,Bangkok,Samut Prakan,2022-01-01,Male,45-54,Yes
+C00762,Ton L.,Consumer,North,Chiang Mai,2022-02-24,Female,35-44,Yes
+C00763,Ploy L.,Corporate,North,Chiang Mai,2022-02-11,Female,25-34,Yes
+C00764,Prasert M.,Consumer,Central,Nakhon Pathom,2023-10-21,Female,45-54,Yes
+C00765,Omar F.,Consumer,Northeast,Nakhon Ratchasima,2023-10-10,Prefer not to say,25-34,Yes
+C00766,Priya W.,Consumer,Bangkok,Nonthaburi,2022-04-23,Male,25-34,No
+C00767,James P.,Consumer,South,Songkhla,2022-05-26,Male,55+,No
+C00768,Noon S.,SMB,Central,Chonburi,2023-08-24,Prefer not to say,25-34,Yes
+C00769,James L.,Consumer,North,Phitsanulok,2023-10-21,Male,25-34,No
+C00770,Mei V.,Consumer,Northeast,Ubon Ratchathani,2022-07-11,Female,45-54,No
+C00771,Emily K.,SMB,Northeast,Udon Thani,2023-05-03,Male,18-24,Yes
+C00772,Prasert L.,Consumer,North,Chiang Mai,2022-09-13,Female,55+,Yes
+C00773,Aek V.,Consumer,Central,Rayong,2022-08-11,Prefer not to say,55+,Yes
+C00774,Wei K.,Consumer,Bangkok,Pathum Thani,2022-07-19,Female,45-54,Yes
+C00775,Boon W.,Consumer,Central,Rayong,2022-02-03,Prefer not to say,18-24,No
+C00776,James R.,Corporate,Central,Rayong,2021-07-30,Female,55+,No
+C00777,Bee K.,SMB,South,Surat Thani,2021-12-23,Male,25-34,Yes
+C00778,Ahmed J.,SMB,Bangkok,Nonthaburi,2021-11-09,Prefer not to say,35-44,No
+C00779,Emily D.,Consumer,North,Chiang Mai,2021-08-21,Male,18-24,Yes
+C00780,Aek M.,Corporate,North,Chiang Mai,2023-05-27,Female,25-34,No
+C00781,Wichai C.,SMB,Central,Rayong,2022-03-23,Male,55+,No
+C00782,Kanya S.,SMB,South,Krabi,2022-01-19,Male,55+,No
+C00783,Yuki K.,Corporate,Bangkok,Nonthaburi,2022-06-29,Female,25-34,Yes
+C00784,Tanawat L.,SMB,Northeast,Nakhon Ratchasima,2023-05-08,Prefer not to say,45-54,Yes
+C00785,Pim H.,SMB,South,Phuket,2022-10-03,Prefer not to say,45-54,No
+C00786,Somchai G.,Consumer,Central,Rayong,2023-02-06,Male,45-54,Yes
+C00787,Omar G.,Consumer,Bangkok,Pathum Thani,2022-01-15,Female,18-24,No
+C00788,Wichai G.,Consumer,Bangkok,Nonthaburi,2022-02-05,Prefer not to say,18-24,Yes
+C00789,Suda R.,Consumer,Central,Ayutthaya,2022-01-30,Prefer not to say,55+,Yes
+C00790,Ton H.,Consumer,Bangkok,Pathum Thani,2023-04-20,Prefer not to say,25-34,No
+C00791,Kanya S.,Consumer,South,Krabi,2023-01-11,Prefer not to say,35-44,No
+C00792,Boon V.,Consumer,Bangkok,Samut Prakan,2022-03-31,Female,25-34,No
+C00793,Ahmed B.,Consumer,North,Lampang,2021-12-02,Male,18-24,No
+C00794,Wichai D.,Corporate,North,Chiang Rai,2023-08-31,Prefer not to say,18-24,Yes
+C00795,Lucas E.,SMB,South,Krabi,2022-06-06,Male,18-24,No
+C00796,James K.,Consumer,Northeast,Nakhon Ratchasima,2021-12-14,Prefer not to say,18-24,No
+C00797,Fah J.,Consumer,Northeast,Ubon Ratchathani,2023-04-15,Prefer not to say,18-24,Yes
+C00798,Yuki G.,Consumer,Central,Nakhon Pathom,2023-05-03,Male,18-24,Yes
+C00799,Wei B.,Consumer,Bangkok,Samut Prakan,2023-12-07,Male,25-34,No
+C00800,Pim P.,Consumer,North,Chiang Mai,2022-10-20,Male,25-34,Yes
+C00801,Suda W.,Consumer,Central,Rayong,2023-05-17,Prefer not to say,55+,No
+C00802,Chai F.,Consumer,Northeast,Nakhon Ratchasima,2021-10-17,Male,18-24,Yes
+C00803,Priya C.,SMB,North,Chiang Mai,2023-09-28,Female,45-54,Yes
+C00804,Chai T.,Corporate,Bangkok,Pathum Thani,2023-06-18,Female,35-44,No
+C00805,Kanya L.,Consumer,North,Phitsanulok,2021-09-13,Prefer not to say,35-44,Yes
+C00806,Aek W.,SMB,South,Surat Thani,2022-10-01,Male,35-44,Yes
+C00807,Anan W.,Consumer,Central,Nakhon Pathom,2021-12-01,Male,25-34,No
+C00808,Prasert T.,Consumer,Central,Rayong,2022-02-10,Prefer not to say,25-34,Yes
+C00809,Aek W.,Consumer,Northeast,Nakhon Ratchasima,2022-11-04,Female,25-34,No
+C00810,Fah W.,Consumer,Bangkok,Samut Prakan,2022-10-27,Prefer not to say,18-24,No
+C00811,Lucas C.,Consumer,North,Chiang Mai,2023-02-01,Male,55+,No
+C00812,Emily T.,Consumer,Northeast,Nakhon Ratchasima,2022-10-22,Female,25-34,No
+C00813,Pim R.,Corporate,Central,Ayutthaya,2022-04-08,Male,35-44,No
+C00814,Ton D.,Consumer,Central,Nakhon Pathom,2022-02-08,Female,45-54,Yes
+C00815,Boon F.,Corporate,Northeast,Ubon Ratchathani,2022-12-16,Male,18-24,No
+C00816,Ton B.,SMB,South,Phuket,2022-08-30,Male,18-24,Yes
+C00817,Omar J.,Consumer,North,Phitsanulok,2021-07-18,Prefer not to say,25-34,Yes
+C00818,Sofia H.,Corporate,Northeast,Udon Thani,2023-01-04,Male,25-34,Yes
+C00819,Malee D.,Consumer,Northeast,Ubon Ratchathani,2022-03-30,Female,25-34,No
+C00820,Suda H.,Consumer,North,Chiang Mai,2023-01-26,Female,18-24,No
+C00821,Bee D.,Consumer,Northeast,Udon Thani,2021-08-10,Prefer not to say,25-34,No
+C00822,Priya C.,Corporate,North,Phitsanulok,2023-06-19,Prefer not to say,18-24,No
+C00823,Prasert A.,Consumer,Northeast,Ubon Ratchathani,2023-02-20,Prefer not to say,55+,No
+C00824,Chai L.,Consumer,Central,Ayutthaya,2023-02-23,Prefer not to say,55+,Yes
+C00825,Krit H.,Consumer,Central,Rayong,2022-09-25,Male,35-44,No
+C00826,Somchai F.,Consumer,North,Lampang,2022-02-09,Male,25-34,No
+C00827,Mei K.,Corporate,South,Surat Thani,2023-07-19,Prefer not to say,18-24,Yes
+C00828,Mei S.,SMB,South,Songkhla,2022-10-09,Female,18-24,Yes
+C00829,Anan E.,SMB,Bangkok,Samut Prakan,2022-06-30,Female,35-44,No
+C00830,Lucas H.,SMB,Northeast,Khon Kaen,2022-09-06,Female,35-44,No
+C00831,Wei D.,Consumer,Bangkok,Nonthaburi,2022-09-06,Female,18-24,Yes
+C00832,Noon C.,SMB,Northeast,Khon Kaen,2022-03-01,Prefer not to say,45-54,Yes
+C00833,Chai E.,SMB,North,Chiang Rai,2022-08-27,Female,45-54,Yes
+C00834,Prasert A.,Consumer,North,Chiang Rai,2022-07-18,Prefer not to say,45-54,No
+C00835,Wichai S.,Corporate,South,Songkhla,2022-12-20,Female,55+,No
+C00836,Ploy H.,Consumer,North,Chiang Rai,2022-12-27,Prefer not to say,25-34,Yes
+C00837,Yuki C.,Consumer,Northeast,Udon Thani,2021-11-02,Female,35-44,Yes
+C00838,Wichai B.,Corporate,North,Chiang Mai,2023-12-29,Female,55+,No
+C00839,Priya A.,Consumer,Central,Chonburi,2023-11-29,Male,45-54,Yes
+C00840,Nok N.,Consumer,Bangkok,Nonthaburi,2023-09-19,Female,45-54,No
+C00841,Nok R.,Consumer,Bangkok,Samut Prakan,2023-02-02,Female,35-44,No
+C00842,Fah N.,Consumer,North,Lampang,2022-04-11,Prefer not to say,18-24,Yes
+C00843,James R.,SMB,North,Chiang Rai,2023-09-11,Male,45-54,No
+C00844,Tanawat K.,Consumer,Bangkok,Samut Prakan,2022-11-16,Female,45-54,Yes
+C00845,Fah P.,SMB,South,Phuket,2021-09-21,Prefer not to say,45-54,No
+C00846,Lucas T.,SMB,South,Songkhla,2021-08-08,Female,18-24,Yes
+C00847,Krit P.,Consumer,South,Songkhla,2023-10-26,Female,55+,Yes
+C00848,Pim R.,Consumer,Bangkok,Pathum Thani,2022-03-23,Prefer not to say,35-44,No
+C00849,Suda M.,SMB,Central,Rayong,2023-07-09,Male,55+,No
+C00850,Ton S.,Corporate,North,Chiang Mai,2023-08-13,Female,25-34,Yes
+C00851,Sofia L.,Corporate,Northeast,Udon Thani,2023-01-15,Prefer not to say,25-34,No
+C00852,Ahmed H.,Consumer,Central,Chonburi,2022-06-02,Male,45-54,No
+C00853,Sofia D.,SMB,Central,Ayutthaya,2021-07-19,Prefer not to say,55+,No
+C00854,Bee A.,Corporate,Bangkok,Nonthaburi,2023-01-11,Prefer not to say,25-34,Yes
+C00855,Prasert J.,Consumer,Bangkok,Pathum Thani,2022-11-19,Male,18-24,Yes
+C00856,Suda K.,Consumer,Bangkok,Samut Prakan,2023-11-02,Male,18-24,No
+C00857,Ahmed D.,Consumer,South,Surat Thani,2023-12-29,Prefer not to say,18-24,No
+C00858,Kanya H.,Consumer,South,Phuket,2021-08-22,Male,25-34,No
+C00859,Mei B.,Consumer,Central,Rayong,2023-01-28,Female,45-54,Yes
+C00860,Omar J.,Corporate,Northeast,Udon Thani,2023-12-02,Female,55+,Yes
+C00861,Prasert J.,Consumer,Bangkok,Nonthaburi,2022-09-26,Female,25-34,No
+C00862,James H.,Consumer,North,Lampang,2022-11-28,Male,18-24,No
+C00863,Priya L.,Consumer,Northeast,Udon Thani,2023-10-05,Female,45-54,Yes
+C00864,Fah M.,SMB,North,Chiang Mai,2022-12-19,Female,45-54,No
+C00865,Prasert J.,Consumer,Bangkok,Pathum Thani,2023-09-08,Male,18-24,No
+C00866,Pim M.,Corporate,South,Songkhla,2021-10-04,Female,25-34,Yes
+C00867,Kanya V.,SMB,Northeast,Udon Thani,2022-01-01,Female,25-34,Yes
+C00868,Anan L.,Consumer,Bangkok,Bangkok,2021-09-23,Female,45-54,No
+C00869,Wei A.,Consumer,South,Krabi,2022-10-23,Male,45-54,Yes
+C00870,Bee T.,Consumer,South,Krabi,2023-06-11,Female,25-34,No
+C00871,Ahmed L.,Corporate,Central,Nakhon Pathom,2022-01-23,Prefer not to say,45-54,Yes
+C00872,Anan D.,Consumer,South,Krabi,2022-05-04,Male,18-24,No
+C00873,Wei E.,Corporate,Northeast,Udon Thani,2022-12-23,Prefer not to say,45-54,No
+C00874,Sofia R.,Consumer,Central,Rayong,2022-05-21,Male,45-54,No
+C00875,Anan H.,Consumer,North,Phitsanulok,2022-08-02,Prefer not to say,18-24,No
+C00876,Chai L.,Consumer,Bangkok,Pathum Thani,2023-07-01,Female,35-44,No
+C00877,Noon P.,SMB,North,Chiang Mai,2023-12-02,Female,55+,No
+C00878,Priya S.,SMB,South,Surat Thani,2022-02-06,Prefer not to say,25-34,No
+C00879,Ploy R.,SMB,Central,Ayutthaya,2021-11-29,Prefer not to say,45-54,No
+C00880,Lucas N.,Corporate,North,Phitsanulok,2021-07-19,Prefer not to say,55+,Yes
+C00881,Emily W.,Corporate,North,Phitsanulok,2023-07-08,Prefer not to say,55+,Yes
+C00882,Emily H.,Consumer,Bangkok,Pathum Thani,2023-05-30,Female,25-34,No
+C00883,Yuki R.,Corporate,South,Phuket,2022-08-13,Male,55+,Yes
+C00884,Tanawat D.,SMB,Central,Nakhon Pathom,2022-06-12,Male,35-44,No
+C00885,Mei J.,Corporate,South,Songkhla,2022-02-12,Male,35-44,Yes
+C00886,Tanawat H.,Consumer,South,Songkhla,2023-10-08,Female,35-44,No
+C00887,James E.,SMB,Central,Rayong,2022-03-28,Prefer not to say,35-44,No
+C00888,Mint J.,Consumer,Northeast,Khon Kaen,2023-01-25,Prefer not to say,45-54,Yes
+C00889,Aek K.,Consumer,Northeast,Khon Kaen,2023-11-23,Prefer not to say,25-34,Yes
+C00890,Sofia M.,SMB,Central,Nakhon Pathom,2021-08-13,Female,25-34,Yes
+C00891,Anan J.,SMB,South,Krabi,2021-08-08,Prefer not to say,25-34,No
+C00892,Krit R.,Consumer,South,Krabi,2022-05-15,Prefer not to say,55+,No
+C00893,Kanya M.,SMB,South,Krabi,2022-09-25,Female,55+,Yes
+C00894,James L.,Consumer,North,Lampang,2022-09-01,Prefer not to say,25-34,No
+C00895,Anan R.,Consumer,South,Surat Thani,2023-12-22,Male,45-54,Yes
+C00896,Sofia E.,SMB,North,Chiang Rai,2021-12-27,Female,55+,Yes
+C00897,Somchai H.,Consumer,South,Krabi,2022-03-01,Male,55+,Yes
+C00898,Malee T.,SMB,South,Songkhla,2022-06-23,Prefer not to say,35-44,Yes
+C00899,Mei V.,Corporate,South,Songkhla,2023-06-12,Prefer not to say,45-54,Yes
+C00900,Somchai G.,SMB,South,Songkhla,2021-08-23,Female,45-54,Yes
+C00901,James B.,Corporate,Bangkok,Pathum Thani,2023-08-11,Female,35-44,Yes
+C00902,Nok C.,Corporate,Bangkok,Samut Prakan,2022-09-12,Prefer not to say,25-34,Yes
+C00903,Prasert W.,Consumer,North,Lampang,2023-01-09,Female,55+,No
+C00904,Sofia L.,Consumer,Bangkok,Bangkok,2023-03-18,Male,35-44,No
+C00905,Wei M.,Consumer,North,Phitsanulok,2023-12-25,Male,45-54,No
+C00906,Aek H.,Corporate,Northeast,Udon Thani,2021-09-07,Male,45-54,Yes
+C00907,Tanawat J.,Consumer,Central,Rayong,2023-06-13,Male,45-54,No
+C00908,Tanawat B.,Consumer,Central,Nakhon Pathom,2023-09-16,Prefer not to say,55+,Yes
+C00909,Ton W.,Consumer,Bangkok,Pathum Thani,2023-12-14,Female,18-24,Yes
+C00910,Ton B.,Consumer,North,Lampang,2023-11-14,Prefer not to say,25-34,Yes
+C00911,Boon H.,SMB,North,Phitsanulok,2023-01-31,Female,18-24,No
+C00912,Prasert S.,Corporate,North,Lampang,2023-03-24,Prefer not to say,45-54,Yes
+C00913,Omar B.,Consumer,Central,Nakhon Pathom,2023-11-23,Prefer not to say,25-34,Yes
+C00914,Bee L.,Corporate,Bangkok,Samut Prakan,2021-08-18,Male,35-44,Yes
+C00915,Wei V.,Consumer,Central,Chonburi,2023-11-13,Female,18-24,No
+C00916,Prasert K.,Consumer,Central,Rayong,2022-03-17,Female,45-54,No
+C00917,Suda R.,SMB,South,Surat Thani,2022-04-04,Male,25-34,Yes
+C00918,Aek V.,Consumer,North,Chiang Rai,2022-05-09,Female,45-54,No
+C00919,Krit N.,SMB,Central,Ayutthaya,2022-04-30,Prefer not to say,35-44,Yes
+C00920,Wichai H.,Corporate,Bangkok,Bangkok,2023-05-02,Male,18-24,No
+C00921,Somchai L.,Consumer,North,Lampang,2021-09-25,Prefer not to say,45-54,No
+C00922,Priya P.,Consumer,Central,Nakhon Pathom,2023-03-26,Male,45-54,Yes
+C00923,Mei W.,SMB,Bangkok,Bangkok,2023-09-19,Prefer not to say,25-34,Yes
+C00924,Noon M.,SMB,North,Phitsanulok,2023-03-14,Male,55+,Yes
+C00925,Omar B.,Consumer,North,Phitsanulok,2022-09-11,Male,45-54,Yes
+C00926,Ploy M.,Consumer,Central,Rayong,2023-06-19,Female,18-24,No
+C00927,Wei K.,SMB,North,Chiang Mai,2022-01-12,Female,55+,No
+C00928,Nok P.,Consumer,Central,Ayutthaya,2023-06-26,Prefer not to say,55+,Yes
+C00929,Emily N.,Consumer,North,Chiang Rai,2023-07-07,Prefer not to say,18-24,No
+C00930,Fah D.,SMB,South,Krabi,2023-05-30,Prefer not to say,18-24,Yes
+C00931,Somchai N.,Consumer,Northeast,Khon Kaen,2023-07-16,Male,45-54,Yes
+C00932,Mint S.,Corporate,Northeast,Ubon Ratchathani,2022-03-01,Prefer not to say,25-34,Yes
+C00933,Wichai L.,Consumer,South,Surat Thani,2023-02-01,Prefer not to say,45-54,No
+C00934,Pim H.,SMB,Bangkok,Bangkok,2021-10-01,Female,45-54,Yes
+C00935,Nok P.,Consumer,Bangkok,Bangkok,2022-10-07,Male,35-44,Yes
+C00936,Pim R.,Corporate,Central,Ayutthaya,2023-03-17,Prefer not to say,18-24,No
+C00937,Tanawat M.,Corporate,South,Surat Thani,2022-09-17,Male,35-44,Yes
+C00938,James C.,Consumer,North,Phitsanulok,2022-07-21,Prefer not to say,25-34,Yes
+C00939,Boon R.,SMB,North,Phitsanulok,2023-07-22,Prefer not to say,35-44,Yes
+C00940,Mint P.,SMB,Central,Rayong,2022-02-12,Male,35-44,Yes
+C00941,Priya R.,SMB,North,Chiang Rai,2022-08-24,Female,25-34,No
+C00942,Krit G.,SMB,South,Songkhla,2022-02-23,Prefer not to say,25-34,Yes
+C00943,Malee F.,Corporate,Bangkok,Bangkok,2022-06-18,Prefer not to say,18-24,No
+C00944,Kanya R.,Consumer,Northeast,Nakhon Ratchasima,2023-03-25,Prefer not to say,55+,Yes
+C00945,Wichai D.,SMB,Central,Rayong,2022-09-15,Female,18-24,No
+C00946,Krit G.,Consumer,South,Songkhla,2021-12-15,Male,55+,No
+C00947,Aek J.,SMB,South,Songkhla,2023-05-31,Male,55+,Yes
+C00948,Fah L.,Consumer,North,Chiang Rai,2021-12-06,Prefer not to say,35-44,Yes
+C00949,Krit A.,Consumer,South,Krabi,2023-01-14,Male,35-44,Yes
+C00950,Ahmed K.,Corporate,Bangkok,Pathum Thani,2023-06-21,Prefer not to say,25-34,No
+C00951,Noon H.,SMB,Central,Rayong,2022-07-08,Prefer not to say,35-44,Yes
+C00952,Krit N.,Consumer,North,Chiang Rai,2021-10-05,Male,45-54,Yes
+C00953,Wichai D.,Consumer,North,Chiang Mai,2023-02-26,Female,45-54,Yes
+C00954,Prasert B.,Consumer,Northeast,Khon Kaen,2023-03-01,Female,45-54,No
+C00955,Aek G.,Consumer,Northeast,Udon Thani,2023-11-22,Male,55+,No
+C00956,Mei M.,Consumer,North,Phitsanulok,2022-01-04,Female,35-44,No
+C00957,Lucas P.,Consumer,Northeast,Ubon Ratchathani,2021-08-18,Prefer not to say,35-44,Yes
+C00958,Anan M.,Consumer,North,Chiang Rai,2023-07-03,Prefer not to say,18-24,Yes
+C00959,Omar P.,SMB,Northeast,Nakhon Ratchasima,2023-05-02,Prefer not to say,18-24,No
+C00960,Chai N.,Consumer,North,Chiang Mai,2022-05-30,Female,35-44,No
+C00961,Prasert G.,Consumer,Bangkok,Samut Prakan,2023-12-28,Female,25-34,Yes
+C00962,Ahmed S.,Consumer,Central,Nakhon Pathom,2022-05-06,Male,25-34,Yes
+C00963,Fah F.,Consumer,South,Songkhla,2022-10-02,Prefer not to say,35-44,Yes
+C00964,Suda H.,Consumer,Northeast,Khon Kaen,2022-12-26,Prefer not to say,25-34,No
+C00965,Boon R.,SMB,South,Krabi,2022-07-28,Female,45-54,Yes
+C00966,Nok B.,Corporate,North,Chiang Mai,2023-01-21,Male,18-24,No
+C00967,Kanya C.,Corporate,South,Surat Thani,2023-01-12,Female,25-34,No
+C00968,Krit B.,Consumer,South,Krabi,2023-09-06,Female,35-44,No
+C00969,Nok A.,SMB,Northeast,Ubon Ratchathani,2022-12-01,Prefer not to say,25-34,No
+C00970,Yuki V.,Consumer,South,Phuket,2023-05-26,Male,25-34,No
+C00971,Wei W.,Consumer,South,Krabi,2023-09-05,Female,25-34,No
+C00972,Malee E.,Corporate,South,Surat Thani,2023-06-12,Prefer not to say,45-54,Yes
+C00973,Anan T.,Consumer,Central,Nakhon Pathom,2022-05-16,Male,45-54,No
+C00974,Mei J.,Consumer,Central,Chonburi,2022-05-02,Female,45-54,No
+C00975,Mei V.,Consumer,North,Phitsanulok,2022-11-07,Female,45-54,No
+C00976,Omar F.,Consumer,North,Chiang Rai,2022-06-12,Male,25-34,No
+C00977,Lucas C.,Consumer,Bangkok,Pathum Thani,2022-01-16,Prefer not to say,18-24,Yes
+C00978,Ton E.,SMB,Central,Rayong,2023-05-01,Female,35-44,Yes
+C00979,Mint A.,Consumer,Northeast,Nakhon Ratchasima,2022-09-12,Male,55+,No
+C00980,Ton R.,Consumer,South,Krabi,2021-10-19,Prefer not to say,55+,Yes
+C00981,Lucas A.,SMB,South,Songkhla,2022-09-28,Female,35-44,No
+C00982,Mint P.,Consumer,South,Surat Thani,2023-03-31,Female,45-54,No
+C00983,Yuki S.,Consumer,South,Surat Thani,2022-07-02,Male,45-54,No
+C00984,Priya N.,SMB,Central,Ayutthaya,2022-06-23,Female,35-44,Yes
+C00985,Anan B.,Consumer,Central,Chonburi,2022-07-17,Female,18-24,No
+C00986,Ploy B.,SMB,South,Phuket,2023-07-09,Prefer not to say,18-24,No
+C00987,Lucas F.,Corporate,Central,Rayong,2023-10-29,Female,35-44,Yes
+C00988,Boon J.,SMB,Bangkok,Nonthaburi,2023-12-31,Prefer not to say,55+,No
+C00989,Kanya F.,SMB,South,Surat Thani,2023-06-24,Male,45-54,No
+C00990,Somchai M.,Consumer,South,Songkhla,2023-05-14,Male,35-44,No
+C00991,Lucas D.,Consumer,Central,Rayong,2021-07-30,Male,55+,Yes
+C00992,Nok W.,SMB,North,Chiang Rai,2022-09-29,Female,35-44,No
+C00993,Chai B.,Consumer,South,Surat Thani,2023-03-05,Prefer not to say,18-24,No
+C00994,Noon T.,Consumer,Bangkok,Samut Prakan,2022-10-10,Male,18-24,No
+C00995,Omar D.,Consumer,Northeast,Khon Kaen,2023-06-19,Prefer not to say,25-34,Yes
+C00996,Mei L.,Corporate,South,Surat Thani,2021-12-02,Prefer not to say,45-54,No
+C00997,Mei D.,Consumer,Bangkok,Nonthaburi,2023-12-22,Male,55+,Yes
+C00998,Malee M.,Consumer,Northeast,Udon Thani,2023-10-04,Male,18-24,No
+C00999,Suda F.,Corporate,South,Krabi,2023-10-26,Female,55+,Yes
+C01000,James V.,SMB,Northeast,Khon Kaen,2023-05-17,Female,18-24,Yes
+C01001,Noon F.,Consumer,Northeast,Nakhon Ratchasima,2022-07-15,Male,18-24,No
+C01002,Kanya G.,Consumer,North,Chiang Mai,2023-04-26,Prefer not to say,45-54,No
+C01003,Kanya V.,Corporate,South,Krabi,2022-12-08,Prefer not to say,55+,Yes
+C01004,Lucas G.,Consumer,Central,Ayutthaya,2022-01-15,Male,35-44,Yes
+C01005,Wichai A.,Consumer,South,Songkhla,2023-12-12,Male,35-44,No
+C01006,Ploy W.,Consumer,Northeast,Ubon Ratchathani,2023-08-30,Prefer not to say,25-34,Yes
+C01007,Mei R.,Consumer,Central,Nakhon Pathom,2023-09-15,Prefer not to say,25-34,No
+C01008,Ton E.,Corporate,South,Songkhla,2021-11-28,Male,55+,No
+C01009,Pim C.,Corporate,South,Phuket,2022-12-13,Male,18-24,Yes
+C01010,Noon L.,Consumer,Central,Rayong,2022-11-19,Prefer not to say,55+,Yes
+C01011,Wichai A.,Corporate,North,Chiang Rai,2023-10-06,Prefer not to say,18-24,No
+C01012,Mei M.,Consumer,Central,Ayutthaya,2022-12-10,Female,55+,Yes
+C01013,Noon G.,Consumer,South,Phuket,2022-06-29,Female,55+,No
+C01014,Ahmed A.,Corporate,North,Chiang Mai,2022-09-27,Female,25-34,Yes
+C01015,James J.,Consumer,North,Chiang Rai,2022-01-30,Male,25-34,No
+C01016,Boon V.,SMB,Central,Rayong,2022-05-16,Male,35-44,Yes
+C01017,James G.,Consumer,Bangkok,Nonthaburi,2022-03-06,Prefer not to say,45-54,Yes
+C01018,Somchai P.,Consumer,Northeast,Ubon Ratchathani,2022-08-17,Female,35-44,Yes
+C01019,Ahmed F.,Consumer,Northeast,Nakhon Ratchasima,2021-08-01,Prefer not to say,55+,No
+C01020,Lucas E.,Consumer,Bangkok,Bangkok,2022-04-19,Male,35-44,Yes
+C01021,Fah H.,SMB,North,Chiang Rai,2022-06-02,Prefer not to say,35-44,No
+C01022,Tanawat M.,Consumer,South,Songkhla,2022-03-31,Prefer not to say,55+,Yes
+C01023,Pim W.,Corporate,Central,Rayong,2023-06-14,Male,25-34,No
+C01024,Lucas N.,Consumer,Northeast,Nakhon Ratchasima,2021-09-28,Female,18-24,No
+C01025,Noon L.,SMB,Northeast,Ubon Ratchathani,2022-02-06,Male,25-34,Yes
+C01026,Wichai K.,SMB,North,Chiang Rai,2021-09-24,Male,55+,Yes
+C01027,Ahmed F.,Corporate,Northeast,Udon Thani,2022-04-11,Prefer not to say,18-24,No
+C01028,Sofia M.,Consumer,Northeast,Udon Thani,2023-03-02,Male,55+,Yes
+C01029,Ton L.,Consumer,Bangkok,Bangkok,2021-07-20,Prefer not to say,18-24,No
+C01030,Lucas K.,Consumer,North,Chiang Mai,2021-12-17,Prefer not to say,45-54,Yes
+C01031,Ton N.,Corporate,Northeast,Ubon Ratchathani,2023-05-06,Male,45-54,Yes
+C01032,Ton L.,Consumer,Northeast,Khon Kaen,2023-12-04,Female,35-44,Yes
+C01033,Emily B.,SMB,South,Surat Thani,2021-11-23,Female,35-44,Yes
+C01034,Chai W.,Consumer,Central,Ayutthaya,2021-12-28,Prefer not to say,45-54,No
+C01035,Ploy G.,Consumer,South,Surat Thani,2022-03-29,Prefer not to say,45-54,Yes
+C01036,Mei L.,Consumer,South,Krabi,2023-10-23,Prefer not to say,18-24,Yes
+C01037,Priya M.,SMB,Central,Rayong,2022-09-30,Female,35-44,Yes
+C01038,Ploy J.,Consumer,Northeast,Nakhon Ratchasima,2023-01-17,Female,45-54,Yes
+C01039,Noon H.,Consumer,Northeast,Nakhon Ratchasima,2023-05-05,Female,35-44,Yes
+C01040,Ahmed P.,Consumer,Northeast,Ubon Ratchathani,2023-05-28,Female,55+,Yes
+C01041,Wichai G.,Corporate,Central,Rayong,2023-01-26,Female,55+,Yes
+C01042,Priya J.,Consumer,South,Surat Thani,2022-10-02,Female,18-24,No
+C01043,Omar B.,Consumer,Bangkok,Samut Prakan,2023-12-11,Prefer not to say,25-34,Yes
+C01044,Krit V.,SMB,South,Phuket,2023-01-29,Female,18-24,No
+C01045,Sofia A.,Consumer,South,Krabi,2023-01-16,Female,45-54,No
+C01046,Kanya R.,SMB,Northeast,Khon Kaen,2023-07-13,Prefer not to say,55+,No
+C01047,Kanya M.,Consumer,Northeast,Khon Kaen,2023-01-07,Prefer not to say,55+,No
+C01048,Tanawat R.,Consumer,Northeast,Ubon Ratchathani,2023-06-17,Female,18-24,Yes
+C01049,Sofia B.,Corporate,Central,Ayutthaya,2021-09-10,Female,45-54,Yes
+C01050,James L.,SMB,Northeast,Nakhon Ratchasima,2022-11-16,Prefer not to say,25-34,No
+C01051,Krit F.,Corporate,Bangkok,Bangkok,2023-12-01,Male,25-34,Yes
+C01052,Bee H.,Corporate,Central,Rayong,2023-10-13,Female,55+,No
+C01053,Sofia T.,Consumer,South,Krabi,2023-05-17,Prefer not to say,25-34,Yes
+C01054,Bee L.,Corporate,Central,Nakhon Pathom,2021-07-27,Prefer not to say,18-24,No
+C01055,Suda C.,Corporate,South,Krabi,2022-09-15,Prefer not to say,25-34,No
+C01056,Ton H.,Corporate,South,Songkhla,2023-07-07,Male,18-24,Yes
+C01057,Chai S.,SMB,Central,Rayong,2023-11-09,Prefer not to say,35-44,Yes
+C01058,Wei W.,SMB,South,Songkhla,2022-02-04,Female,18-24,Yes
+C01059,Lucas V.,Consumer,South,Phuket,2023-12-02,Female,35-44,No
+C01060,Wei D.,Corporate,Central,Chonburi,2023-06-02,Female,35-44,No
+C01061,Wichai C.,Consumer,South,Phuket,2021-10-01,Prefer not to say,25-34,No
+C01062,Boon F.,Consumer,Bangkok,Pathum Thani,2022-05-26,Female,25-34,No
+C01063,Ploy D.,Consumer,North,Phitsanulok,2021-08-22,Female,18-24,Yes
+C01064,Krit K.,Consumer,Northeast,Udon Thani,2023-04-04,Prefer not to say,25-34,No
+C01065,Mei W.,Consumer,Bangkok,Samut Prakan,2023-01-25,Male,35-44,No
+C01066,Ton K.,Consumer,North,Chiang Mai,2022-01-28,Prefer not to say,18-24,Yes
+C01067,Aek W.,Consumer,South,Surat Thani,2023-05-03,Male,35-44,No
+C01068,Lucas P.,Consumer,Northeast,Ubon Ratchathani,2023-02-03,Male,25-34,No
+C01069,Somchai D.,SMB,Northeast,Khon Kaen,2021-09-03,Female,18-24,No
+C01070,Priya V.,Consumer,Central,Ayutthaya,2022-02-28,Female,55+,Yes
+C01071,Krit G.,Consumer,Central,Nakhon Pathom,2021-12-22,Male,18-24,Yes
+C01072,James P.,Consumer,Central,Nakhon Pathom,2022-11-27,Male,35-44,No
+C01073,Ploy G.,Consumer,Northeast,Udon Thani,2021-09-19,Male,55+,No
+C01074,Kanya E.,Consumer,North,Lampang,2022-08-30,Prefer not to say,35-44,No
+C01075,Emily H.,Consumer,Central,Ayutthaya,2021-08-24,Male,55+,Yes
+C01076,Ploy H.,Consumer,South,Phuket,2022-10-31,Prefer not to say,18-24,No
+C01077,Ploy V.,Consumer,Bangkok,Samut Prakan,2022-12-10,Female,45-54,No
+C01078,Ahmed P.,Consumer,Bangkok,Nonthaburi,2023-07-23,Prefer not to say,25-34,No
+C01079,Yuki J.,Consumer,Bangkok,Pathum Thani,2022-01-28,Female,18-24,No
+C01080,Wei B.,Corporate,Central,Rayong,2021-12-18,Female,45-54,No
+C01081,Malee R.,Consumer,Central,Chonburi,2023-12-11,Male,18-24,No
+C01082,James C.,SMB,Bangkok,Nonthaburi,2021-08-15,Male,25-34,Yes
+C01083,Nok J.,SMB,Central,Chonburi,2022-03-26,Prefer not to say,55+,Yes
+C01084,Pim R.,Corporate,South,Krabi,2021-10-24,Male,25-34,Yes
+C01085,Krit R.,Consumer,North,Chiang Mai,2022-10-21,Female,18-24,Yes
+C01086,Wei P.,Consumer,Northeast,Ubon Ratchathani,2023-06-24,Female,55+,No
+C01087,Wei M.,Consumer,Central,Ayutthaya,2023-11-19,Female,25-34,Yes
+C01088,Ton V.,Consumer,Bangkok,Nonthaburi,2021-10-21,Female,55+,No
+C01089,Anan H.,Consumer,South,Krabi,2021-11-12,Prefer not to say,18-24,No
+C01090,Ploy C.,Consumer,North,Phitsanulok,2021-11-25,Prefer not to say,45-54,No
+C01091,Tanawat T.,SMB,South,Songkhla,2022-03-16,Male,45-54,Yes
+C01092,Wei G.,SMB,South,Songkhla,2021-11-28,Male,18-24,Yes
+C01093,Emily V.,Consumer,Central,Nakhon Pathom,2021-08-09,Female,45-54,No
+C01094,Prasert R.,SMB,Northeast,Udon Thani,2022-02-16,Male,55+,Yes
+C01095,Chai L.,Corporate,North,Chiang Rai,2022-05-19,Male,35-44,Yes
+C01096,Noon K.,SMB,Northeast,Udon Thani,2021-12-13,Prefer not to say,45-54,Yes
+C01097,Priya C.,SMB,North,Lampang,2023-02-25,Male,25-34,Yes
+C01098,Tanawat G.,Consumer,Northeast,Nakhon Ratchasima,2022-07-02,Prefer not to say,25-34,Yes
+C01099,Bee H.,SMB,Central,Rayong,2023-01-31,Male,45-54,No
+C01100,Yuki J.,SMB,South,Krabi,2022-11-15,Female,55+,No
+C01101,Bee W.,Corporate,Central,Nakhon Pathom,2021-08-27,Male,35-44,No
+C01102,Suda T.,Consumer,North,Chiang Rai,2023-12-11,Male,55+,No
+C01103,Somchai G.,Consumer,Bangkok,Nonthaburi,2023-12-23,Prefer not to say,35-44,No
+C01104,Krit S.,SMB,North,Phitsanulok,2022-11-29,Prefer not to say,18-24,Yes
+C01105,Lucas M.,SMB,Central,Nakhon Pathom,2021-10-20,Female,25-34,Yes
+C01106,Ahmed L.,Corporate,Northeast,Nakhon Ratchasima,2022-07-12,Male,35-44,No
+C01107,Yuki T.,Corporate,South,Krabi,2023-09-24,Male,18-24,No
+C01108,Wei R.,SMB,Northeast,Udon Thani,2022-09-28,Prefer not to say,25-34,Yes
+C01109,Boon E.,Consumer,Bangkok,Samut Prakan,2023-07-14,Female,45-54,No
+C01110,Bee D.,SMB,South,Krabi,2022-12-21,Male,25-34,No
+C01111,Malee P.,Corporate,North,Lampang,2022-06-16,Male,45-54,No
+C01112,Sofia L.,Corporate,South,Phuket,2023-08-14,Male,55+,Yes
+C01113,Ploy V.,Corporate,Bangkok,Pathum Thani,2023-04-10,Male,45-54,No
+C01114,Omar S.,Consumer,Northeast,Khon Kaen,2021-09-23,Female,55+,No
+C01115,Aek B.,SMB,Northeast,Udon Thani,2023-10-24,Male,35-44,Yes
+C01116,Emily C.,Consumer,Bangkok,Nonthaburi,2023-06-18,Female,55+,No
+C01117,Emily V.,Corporate,Central,Nakhon Pathom,2021-12-16,Female,18-24,No
+C01118,Nok S.,Corporate,Central,Chonburi,2021-10-21,Female,25-34,No
+C01119,Mint E.,Consumer,Northeast,Udon Thani,2023-07-19,Female,55+,Yes
+C01120,Sofia E.,Consumer,Bangkok,Samut Prakan,2023-08-16,Prefer not to say,35-44,Yes
+C01121,Noon D.,SMB,South,Surat Thani,2022-04-16,Female,18-24,No
+C01122,Ton B.,Consumer,Bangkok,Nonthaburi,2023-10-28,Prefer not to say,25-34,No
+C01123,Noon S.,Consumer,South,Krabi,2023-07-13,Male,35-44,Yes
+C01124,Omar N.,SMB,North,Chiang Mai,2022-03-25,Female,18-24,No
+C01125,Lucas S.,SMB,Northeast,Ubon Ratchathani,2021-10-16,Female,45-54,Yes
+C01126,Omar G.,Consumer,North,Chiang Rai,2021-09-01,Male,45-54,Yes
+C01127,Suda V.,Consumer,South,Surat Thani,2022-08-06,Female,18-24,No
+C01128,Wei V.,SMB,Bangkok,Samut Prakan,2023-04-12,Male,45-54,No
+C01129,Wei L.,SMB,Northeast,Ubon Ratchathani,2023-08-21,Male,55+,Yes
+C01130,Noon N.,Consumer,South,Surat Thani,2022-01-25,Prefer not to say,45-54,No
+C01131,Yuki T.,Consumer,Northeast,Khon Kaen,2022-05-21,Prefer not to say,35-44,Yes
+C01132,Bee C.,Consumer,Northeast,Ubon Ratchathani,2021-12-25,Female,25-34,Yes
+C01133,Boon H.,SMB,Bangkok,Nonthaburi,2021-08-27,Prefer not to say,55+,No
+C01134,Tanawat W.,Corporate,Bangkok,Nonthaburi,2023-08-15,Male,45-54,Yes
+C01135,Fah T.,Consumer,Central,Rayong,2023-05-11,Female,45-54,Yes
+C01136,Lucas J.,Consumer,Bangkok,Nonthaburi,2021-08-11,Male,45-54,No
+C01137,Aek G.,Consumer,Central,Rayong,2023-05-12,Male,35-44,Yes
+C01138,Boon S.,Consumer,North,Phitsanulok,2022-12-21,Prefer not to say,35-44,No
+C01139,Ton W.,SMB,South,Songkhla,2022-07-13,Prefer not to say,45-54,No
+C01140,Boon F.,Consumer,South,Krabi,2023-05-17,Male,25-34,Yes
+C01141,Ton V.,Corporate,South,Songkhla,2022-07-06,Female,18-24,Yes
+C01142,Mint N.,Consumer,Central,Nakhon Pathom,2021-12-15,Female,45-54,Yes
+C01143,James C.,Consumer,Bangkok,Samut Prakan,2023-03-26,Prefer not to say,55+,No
+C01144,Wichai P.,SMB,North,Chiang Mai,2022-05-02,Prefer not to say,35-44,No
+C01145,Mei D.,Consumer,North,Chiang Mai,2022-01-16,Prefer not to say,55+,No
+C01146,Wichai M.,Consumer,South,Phuket,2023-07-27,Male,45-54,Yes
+C01147,Tanawat S.,SMB,North,Lampang,2023-03-03,Female,18-24,No
+C01148,Bee R.,Consumer,Bangkok,Samut Prakan,2021-11-23,Male,55+,Yes
+C01149,Sofia K.,Consumer,Northeast,Udon Thani,2022-10-14,Male,25-34,No
+C01150,Anan D.,SMB,North,Lampang,2022-03-18,Male,35-44,Yes
+C01151,Wei L.,SMB,Central,Rayong,2023-12-27,Prefer not to say,45-54,Yes
+C01152,Tanawat W.,Consumer,Bangkok,Bangkok,2022-07-30,Prefer not to say,25-34,No
+C01153,Somchai A.,Consumer,Northeast,Nakhon Ratchasima,2023-08-19,Female,45-54,No
+C01154,James T.,SMB,Bangkok,Pathum Thani,2023-12-29,Prefer not to say,18-24,No
+C01155,Boon R.,Corporate,South,Krabi,2023-10-17,Female,45-54,No
+C01156,Aek H.,Corporate,Bangkok,Samut Prakan,2023-03-09,Female,35-44,No
+C01157,Ahmed D.,SMB,Central,Ayutthaya,2023-02-05,Female,55+,No
+C01158,Ahmed N.,Consumer,Central,Rayong,2021-11-23,Female,55+,Yes
+C01159,Priya F.,Corporate,Northeast,Nakhon Ratchasima,2023-11-01,Female,55+,No
+C01160,Kanya E.,Consumer,North,Lampang,2022-06-03,Prefer not to say,55+,Yes
+C01161,Mei N.,Corporate,South,Surat Thani,2022-06-28,Male,35-44,Yes
+C01162,Sofia P.,Consumer,Bangkok,Nonthaburi,2022-01-27,Female,25-34,Yes
+C01163,Boon B.,Consumer,South,Krabi,2023-02-17,Male,25-34,Yes
+C01164,Priya B.,SMB,Bangkok,Bangkok,2023-05-31,Prefer not to say,55+,Yes
+C01165,Sofia E.,Consumer,North,Lampang,2023-08-18,Male,35-44,No
+C01166,Chai B.,SMB,Northeast,Udon Thani,2022-06-06,Prefer not to say,45-54,No
+C01167,Ahmed T.,Consumer,North,Phitsanulok,2023-07-16,Male,25-34,No
+C01168,Ploy F.,Corporate,South,Phuket,2022-10-22,Male,35-44,No
+C01169,Pim R.,Consumer,Northeast,Ubon Ratchathani,2023-11-12,Prefer not to say,45-54,No
+C01170,Pim H.,Consumer,South,Songkhla,2022-11-12,Prefer not to say,35-44,No
+C01171,Yuki J.,Consumer,North,Phitsanulok,2023-01-08,Prefer not to say,25-34,No
+C01172,Ploy R.,Consumer,Bangkok,Pathum Thani,2023-05-24,Male,45-54,Yes
+C01173,Aek K.,Corporate,North,Chiang Rai,2022-04-07,Female,18-24,Yes
+C01174,Omar P.,Corporate,Bangkok,Samut Prakan,2022-03-03,Male,25-34,Yes
+C01175,Priya N.,Consumer,Central,Nakhon Pathom,2023-04-03,Female,45-54,Yes
+C01176,Wei W.,Consumer,Bangkok,Samut Prakan,2022-10-07,Male,45-54,No
+C01177,Lucas N.,SMB,North,Chiang Mai,2023-11-22,Male,18-24,No
+C01178,Tanawat G.,SMB,Central,Nakhon Pathom,2021-09-30,Prefer not to say,35-44,Yes
+C01179,Anan H.,Consumer,Central,Ayutthaya,2021-09-06,Male,35-44,Yes
+C01180,Priya K.,Consumer,North,Lampang,2023-01-11,Prefer not to say,25-34,Yes
+C01181,Krit L.,Consumer,North,Chiang Mai,2021-09-18,Female,18-24,Yes
+C01182,Suda L.,Consumer,South,Phuket,2023-09-02,Female,55+,No
+C01183,Anan E.,Consumer,South,Krabi,2021-12-30,Female,55+,Yes
+C01184,Priya A.,Consumer,South,Phuket,2022-08-21,Prefer not to say,35-44,Yes
+C01185,Bee C.,Consumer,Bangkok,Samut Prakan,2021-08-19,Female,35-44,Yes
+C01186,Ton V.,Corporate,Northeast,Nakhon Ratchasima,2022-02-04,Prefer not to say,35-44,No
+C01187,Yuki L.,Consumer,Bangkok,Bangkok,2021-07-30,Female,55+,Yes
+C01188,Mint G.,Consumer,Bangkok,Nonthaburi,2023-04-23,Female,55+,Yes
+C01189,Bee J.,SMB,Bangkok,Nonthaburi,2023-12-03,Male,35-44,Yes
+C01190,Krit M.,Consumer,North,Chiang Mai,2023-05-21,Prefer not to say,25-34,No
+C01191,Krit F.,SMB,North,Chiang Mai,2021-10-27,Prefer not to say,55+,Yes
+C01192,Nok L.,Consumer,North,Chiang Mai,2022-03-31,Female,35-44,No
+C01193,Wichai C.,Consumer,Northeast,Udon Thani,2021-08-15,Female,18-24,Yes
+C01194,Omar G.,Corporate,Bangkok,Nonthaburi,2022-09-22,Female,25-34,Yes
+C01195,Anan C.,Consumer,South,Krabi,2023-12-09,Female,25-34,No
+C01196,Ahmed E.,Consumer,South,Surat Thani,2022-09-27,Female,25-34,Yes
+C01197,Ploy W.,Consumer,Central,Rayong,2023-06-22,Female,45-54,Yes
+C01198,Emily P.,SMB,Central,Ayutthaya,2023-09-11,Male,25-34,No
+C01199,Malee A.,Consumer,Central,Chonburi,2022-05-17,Male,25-34,Yes
+C01200,Nok S.,Corporate,Central,Rayong,2021-10-21,Male,55+,Yes
+C01201,Noon E.,Corporate,Bangkok,Samut Prakan,2023-03-23,Male,35-44,Yes
+C01202,Krit A.,Consumer,North,Chiang Rai,2022-11-28,Prefer not to say,35-44,Yes
+C01203,Omar R.,Consumer,North,Chiang Mai,2023-12-28,Male,45-54,No
+C01204,Chai K.,Consumer,Central,Chonburi,2023-06-12,Prefer not to say,25-34,No
+C01205,Prasert T.,Corporate,South,Songkhla,2023-05-12,Male,45-54,Yes
+C01206,Boon D.,SMB,Northeast,Khon Kaen,2023-10-14,Male,25-34,Yes
+C01207,Kanya A.,Consumer,Central,Ayutthaya,2023-10-31,Female,45-54,Yes
+C01208,Prasert D.,Consumer,Northeast,Udon Thani,2022-05-07,Male,35-44,Yes
+C01209,Sofia F.,Corporate,Central,Nakhon Pathom,2022-08-09,Male,55+,Yes
+C01210,Pim K.,Corporate,South,Krabi,2023-04-03,Female,45-54,Yes
+C01211,Ton E.,SMB,Northeast,Khon Kaen,2022-10-27,Prefer not to say,18-24,No
+C01212,Priya V.,Consumer,Northeast,Udon Thani,2023-06-26,Female,35-44,No
+C01213,Sofia D.,Consumer,Bangkok,Pathum Thani,2023-09-19,Female,35-44,Yes
+C01214,James M.,Consumer,Central,Chonburi,2023-08-21,Female,45-54,Yes
+C01215,Pim R.,SMB,Northeast,Nakhon Ratchasima,2022-12-13,Prefer not to say,18-24,Yes
+C01216,Noon V.,Consumer,South,Songkhla,2023-11-10,Prefer not to say,45-54,Yes
+C01217,Omar M.,Consumer,Central,Chonburi,2022-06-18,Female,45-54,No
+C01218,Prasert V.,SMB,Northeast,Udon Thani,2023-12-01,Prefer not to say,18-24,Yes
+C01219,Sofia D.,SMB,Central,Ayutthaya,2023-04-05,Female,55+,No
+C01220,Ahmed D.,Consumer,Northeast,Ubon Ratchathani,2022-08-22,Female,35-44,Yes
+C01221,Emily L.,Consumer,North,Chiang Mai,2023-09-12,Prefer not to say,25-34,Yes
+C01222,Somchai M.,SMB,Central,Nakhon Pathom,2023-09-24,Male,18-24,No
+C01223,Ton F.,SMB,Northeast,Udon Thani,2021-09-01,Male,25-34,Yes
+C01224,Ton S.,Corporate,Northeast,Udon Thani,2023-11-28,Female,55+,Yes
+C01225,Ahmed B.,Consumer,South,Phuket,2022-05-04,Male,25-34,Yes
+C01226,Fah W.,Consumer,South,Surat Thani,2021-11-02,Prefer not to say,18-24,Yes
+C01227,Ton A.,Consumer,North,Phitsanulok,2021-11-15,Prefer not to say,18-24,No
+C01228,Kanya N.,Consumer,Central,Nakhon Pathom,2022-07-23,Female,18-24,Yes
+C01229,Omar J.,Consumer,South,Krabi,2023-01-08,Female,45-54,Yes
+C01230,Emily F.,Consumer,Central,Chonburi,2023-09-11,Prefer not to say,25-34,Yes
+C01231,Sofia G.,Consumer,North,Lampang,2022-02-21,Prefer not to say,18-24,Yes
+C01232,Prasert A.,Consumer,North,Chiang Mai,2023-09-21,Female,25-34,No
+C01233,Ton H.,Corporate,Bangkok,Bangkok,2022-02-17,Prefer not to say,18-24,Yes
+C01234,Somchai D.,Consumer,Northeast,Khon Kaen,2023-10-18,Prefer not to say,18-24,No
+C01235,Somchai R.,Consumer,South,Songkhla,2023-05-27,Prefer not to say,18-24,No
+C01236,Anan N.,Consumer,South,Phuket,2022-04-15,Prefer not to say,25-34,Yes
+C01237,Prasert H.,Corporate,Central,Rayong,2021-08-05,Female,35-44,No
+C01238,Ahmed H.,Consumer,Central,Ayutthaya,2023-07-15,Male,35-44,No
+C01239,Ahmed K.,Corporate,Bangkok,Pathum Thani,2022-04-10,Male,45-54,No
+C01240,Tanawat P.,Corporate,Bangkok,Samut Prakan,2022-02-14,Prefer not to say,55+,No
+C01241,Pim B.,Consumer,South,Songkhla,2021-11-29,Female,45-54,No
+C01242,Wichai N.,Consumer,South,Songkhla,2022-08-17,Prefer not to say,18-24,Yes
+C01243,Malee M.,Consumer,Central,Ayutthaya,2023-12-20,Prefer not to say,55+,No
+C01244,Mei W.,Consumer,Central,Nakhon Pathom,2023-06-14,Female,55+,Yes
+C01245,Krit F.,SMB,North,Chiang Mai,2022-04-20,Male,25-34,Yes
+C01246,Tanawat B.,Consumer,Bangkok,Samut Prakan,2022-12-29,Female,55+,Yes
+C01247,Somchai K.,Consumer,Northeast,Khon Kaen,2021-07-15,Male,55+,Yes
+C01248,Sofia K.,Consumer,North,Lampang,2023-10-07,Male,25-34,Yes
+C01249,Suda W.,Consumer,Central,Nakhon Pathom,2022-02-06,Prefer not to say,35-44,Yes
+C01250,Fah G.,SMB,Bangkok,Bangkok,2022-06-05,Female,35-44,No
+C01251,Prasert E.,Consumer,South,Krabi,2023-06-25,Female,25-34,Yes
+C01252,Pim D.,SMB,Northeast,Udon Thani,2022-03-05,Female,18-24,No
+C01253,Yuki F.,Consumer,North,Lampang,2023-04-13,Female,18-24,No
+C01254,Prasert W.,SMB,Bangkok,Nonthaburi,2023-09-02,Female,18-24,Yes
+C01255,James J.,SMB,North,Chiang Rai,2023-08-03,Male,35-44,Yes
+C01256,Omar P.,Consumer,North,Lampang,2022-05-08,Female,18-24,No
+C01257,Wei C.,SMB,Bangkok,Nonthaburi,2022-03-24,Female,25-34,No
+C01258,Ploy P.,Consumer,Northeast,Ubon Ratchathani,2023-04-02,Prefer not to say,45-54,Yes
+C01259,Emily K.,Consumer,South,Phuket,2022-12-02,Male,35-44,No
+C01260,Krit B.,Consumer,Central,Rayong,2022-09-03,Prefer not to say,18-24,No
+C01261,Wichai M.,Consumer,North,Chiang Mai,2023-06-12,Prefer not to say,18-24,No
+C01262,Malee S.,SMB,Northeast,Ubon Ratchathani,2022-06-12,Female,18-24,No
+C01263,Tanawat S.,Consumer,Northeast,Khon Kaen,2023-01-24,Male,45-54,No
+C01264,Yuki A.,Consumer,Central,Chonburi,2021-08-05,Male,45-54,Yes
+C01265,Suda J.,Consumer,South,Surat Thani,2023-08-03,Prefer not to say,45-54,No
+C01266,Ahmed S.,Corporate,Northeast,Nakhon Ratchasima,2022-09-24,Female,35-44,Yes
+C01267,Boon F.,Consumer,South,Phuket,2023-07-05,Prefer not to say,55+,Yes
+C01268,Boon T.,Consumer,Bangkok,Pathum Thani,2023-12-29,Prefer not to say,55+,Yes
+C01269,Chai P.,Consumer,South,Krabi,2021-12-17,Female,35-44,Yes
+C01270,Wei L.,Corporate,Bangkok,Pathum Thani,2023-07-28,Prefer not to say,18-24,No
+C01271,Somchai V.,Consumer,South,Surat Thani,2023-10-11,Female,35-44,No
+C01272,Wei P.,Corporate,North,Lampang,2023-07-21,Male,45-54,Yes
+C01273,Nok P.,Consumer,Northeast,Nakhon Ratchasima,2022-03-12,Male,18-24,No
+C01274,Aek N.,Consumer,South,Songkhla,2023-08-12,Prefer not to say,35-44,No
+C01275,Ton C.,SMB,Central,Ayutthaya,2022-11-19,Prefer not to say,25-34,Yes
+C01276,Kanya C.,SMB,Northeast,Udon Thani,2023-02-09,Male,35-44,No
+C01277,Somchai T.,Consumer,Central,Chonburi,2021-09-13,Male,25-34,No
+C01278,Lucas M.,Consumer,North,Phitsanulok,2023-08-21,Male,25-34,No
+C01279,Suda L.,Consumer,Central,Ayutthaya,2022-02-01,Female,55+,No
+C01280,Sofia H.,SMB,Bangkok,Pathum Thani,2022-11-07,Male,25-34,Yes
+C01281,Ahmed J.,Consumer,Northeast,Nakhon Ratchasima,2021-11-24,Male,25-34,No
+C01282,Sofia G.,Consumer,South,Surat Thani,2021-11-18,Prefer not to say,35-44,No
+C01283,Wei W.,Consumer,North,Lampang,2023-06-01,Prefer not to say,55+,No
+C01284,Fah S.,Consumer,South,Phuket,2021-08-25,Prefer not to say,35-44,Yes
+C01285,Mint E.,SMB,South,Songkhla,2022-02-22,Prefer not to say,18-24,Yes
+C01286,Nok K.,Consumer,South,Phuket,2022-03-21,Female,18-24,No
+C01287,Yuki G.,Consumer,South,Songkhla,2021-12-09,Male,55+,No
+C01288,Somchai F.,Consumer,Central,Chonburi,2021-07-21,Male,55+,No
+C01289,Suda V.,SMB,North,Lampang,2021-08-16,Male,25-34,No
+C01290,Yuki N.,Corporate,North,Chiang Mai,2023-10-07,Prefer not to say,25-34,Yes
+C01291,Somchai F.,SMB,South,Phuket,2022-06-04,Prefer not to say,35-44,No
+C01292,Suda V.,Consumer,Northeast,Khon Kaen,2023-10-07,Prefer not to say,55+,No
+C01293,Yuki M.,Consumer,South,Krabi,2023-01-25,Female,18-24,Yes
+C01294,Ploy K.,Consumer,South,Krabi,2023-02-22,Female,18-24,Yes
+C01295,Ton S.,Consumer,Bangkok,Nonthaburi,2023-10-24,Male,35-44,Yes
+C01296,Noon C.,Corporate,South,Phuket,2023-10-21,Male,55+,Yes
+C01297,Chai D.,SMB,North,Lampang,2023-10-19,Prefer not to say,35-44,No
+C01298,Prasert A.,Consumer,North,Lampang,2022-11-27,Female,35-44,No
+C01299,Noon E.,SMB,South,Krabi,2022-12-08,Prefer not to say,35-44,No
+C01300,Sofia B.,Consumer,Central,Chonburi,2021-07-19,Male,35-44,Yes
+C01301,Priya H.,Consumer,North,Phitsanulok,2021-11-15,Prefer not to say,25-34,No
+C01302,Ahmed L.,Consumer,South,Surat Thani,2022-07-04,Prefer not to say,55+,Yes
+C01303,Ploy H.,Consumer,Northeast,Khon Kaen,2022-02-11,Prefer not to say,35-44,No
+C01304,Krit T.,Consumer,Central,Chonburi,2023-08-25,Female,35-44,Yes
+C01305,Mei B.,Consumer,Bangkok,Samut Prakan,2022-06-10,Female,55+,No
+C01306,Anan J.,Consumer,Bangkok,Bangkok,2023-03-14,Male,55+,No
+C01307,Boon S.,Consumer,Bangkok,Nonthaburi,2022-07-14,Male,18-24,No
+C01308,Yuki H.,Consumer,Central,Chonburi,2023-07-07,Prefer not to say,35-44,No
+C01309,Pim G.,Consumer,Central,Rayong,2022-08-09,Male,45-54,No
+C01310,Bee C.,SMB,Northeast,Nakhon Ratchasima,2022-04-07,Prefer not to say,18-24,Yes
+C01311,James D.,Consumer,North,Phitsanulok,2021-11-28,Male,45-54,Yes
+C01312,Emily F.,Consumer,Central,Nakhon Pathom,2022-05-04,Female,25-34,No
+C01313,Emily A.,Consumer,Northeast,Ubon Ratchathani,2023-02-09,Male,55+,No
+C01314,Ploy V.,Consumer,South,Phuket,2023-09-07,Prefer not to say,18-24,Yes
+C01315,Ahmed V.,Consumer,South,Songkhla,2022-02-20,Female,18-24,No
+C01316,Sofia G.,SMB,North,Chiang Rai,2022-11-29,Male,25-34,Yes
+C01317,Ploy R.,SMB,North,Chiang Mai,2023-11-13,Prefer not to say,18-24,Yes
+C01318,Nok M.,Consumer,Northeast,Nakhon Ratchasima,2021-12-09,Male,55+,Yes
+C01319,Kanya W.,Consumer,Northeast,Nakhon Ratchasima,2022-02-08,Female,55+,Yes
+C01320,Somchai C.,Consumer,South,Surat Thani,2023-09-13,Prefer not to say,35-44,Yes
+C01321,Priya K.,SMB,Central,Chonburi,2023-01-26,Male,55+,Yes
+C01322,Prasert H.,Consumer,North,Phitsanulok,2022-12-26,Prefer not to say,25-34,No
+C01323,Ahmed S.,SMB,Bangkok,Bangkok,2023-07-04,Male,55+,Yes
+C01324,Boon T.,Consumer,Central,Chonburi,2023-09-21,Male,45-54,No
+C01325,Priya V.,SMB,Bangkok,Samut Prakan,2022-03-12,Male,55+,No
+C01326,Suda S.,Corporate,Bangkok,Bangkok,2022-01-03,Female,35-44,Yes
+C01327,Mint C.,Consumer,North,Lampang,2023-09-29,Prefer not to say,45-54,Yes
+C01328,Emily F.,Consumer,Central,Ayutthaya,2021-11-28,Prefer not to say,18-24,No
+C01329,Nok K.,Consumer,North,Chiang Mai,2022-08-24,Female,25-34,No
+C01330,Ton N.,Consumer,Central,Rayong,2023-01-15,Male,45-54,Yes
+C01331,Boon H.,Corporate,South,Krabi,2022-07-14,Female,25-34,Yes
+C01332,Yuki V.,SMB,Bangkok,Samut Prakan,2022-01-31,Prefer not to say,18-24,Yes
+C01333,Prasert J.,Consumer,Northeast,Khon Kaen,2021-11-28,Prefer not to say,25-34,No
+C01334,Suda H.,Consumer,North,Phitsanulok,2022-03-16,Female,55+,No
+C01335,Malee M.,SMB,Northeast,Nakhon Ratchasima,2022-01-25,Prefer not to say,35-44,No
+C01336,Ahmed H.,Corporate,Northeast,Udon Thani,2021-09-20,Female,35-44,Yes
+C01337,Malee F.,Consumer,South,Surat Thani,2021-10-20,Female,35-44,Yes
+C01338,Yuki G.,Consumer,South,Krabi,2022-05-25,Female,25-34,No
+C01339,Ahmed A.,Consumer,Bangkok,Nonthaburi,2022-12-01,Female,18-24,Yes
+C01340,Malee R.,Consumer,North,Chiang Mai,2023-03-18,Male,25-34,No
+C01341,Yuki K.,SMB,Bangkok,Bangkok,2021-11-12,Prefer not to say,55+,No
+C01342,Wei G.,Consumer,Northeast,Khon Kaen,2023-07-27,Prefer not to say,25-34,No
+C01343,Nok C.,Consumer,Bangkok,Pathum Thani,2022-11-06,Prefer not to say,25-34,No
+C01344,Mei S.,Consumer,Central,Ayutthaya,2023-12-29,Male,35-44,Yes
+C01345,Bee R.,Consumer,North,Chiang Rai,2023-11-15,Male,18-24,No
+C01346,Wei E.,Consumer,South,Surat Thani,2023-08-10,Male,35-44,No
+C01347,Wei M.,SMB,Bangkok,Nonthaburi,2023-07-02,Prefer not to say,55+,Yes
+C01348,Ploy J.,Consumer,Northeast,Ubon Ratchathani,2023-07-08,Female,18-24,No
+C01349,Boon V.,Consumer,Central,Rayong,2022-01-29,Female,55+,Yes
+C01350,Kanya M.,Corporate,Central,Nakhon Pathom,2023-04-20,Male,45-54,No
+C01351,Ton N.,Consumer,North,Chiang Mai,2022-12-01,Male,55+,Yes
+C01352,Sofia V.,Consumer,Northeast,Udon Thani,2022-04-27,Prefer not to say,25-34,Yes
+C01353,Wichai R.,Consumer,Central,Nakhon Pathom,2021-08-12,Male,35-44,No
+C01354,Priya M.,SMB,Northeast,Udon Thani,2022-12-20,Female,35-44,No
+C01355,James A.,Consumer,Central,Rayong,2023-10-05,Male,25-34,Yes
+C01356,Priya N.,SMB,Northeast,Khon Kaen,2021-10-27,Prefer not to say,18-24,No
+C01357,Prasert J.,Consumer,South,Krabi,2021-11-15,Female,55+,No
+C01358,Nok W.,SMB,Bangkok,Nonthaburi,2023-06-22,Prefer not to say,35-44,Yes
+C01359,Ton K.,Consumer,South,Krabi,2023-02-28,Female,35-44,Yes
+C01360,Aek N.,SMB,Bangkok,Pathum Thani,2022-12-15,Female,45-54,No
+C01361,Bee V.,Corporate,Bangkok,Bangkok,2021-09-25,Female,25-34,Yes
+C01362,Ahmed L.,Consumer,Bangkok,Pathum Thani,2022-05-14,Female,25-34,Yes
+C01363,Ahmed R.,Consumer,Northeast,Khon Kaen,2022-02-23,Female,25-34,No
+C01364,Aek B.,SMB,South,Phuket,2021-11-13,Male,18-24,Yes
+C01365,James L.,SMB,Bangkok,Samut Prakan,2021-08-21,Male,18-24,No
+C01366,Prasert C.,Consumer,Central,Nakhon Pathom,2023-06-24,Female,55+,Yes
+C01367,Noon C.,Corporate,Northeast,Ubon Ratchathani,2022-10-01,Female,35-44,No
+C01368,Boon G.,Consumer,North,Lampang,2022-03-11,Male,55+,Yes
+C01369,Aek G.,Consumer,Northeast,Nakhon Ratchasima,2023-09-14,Male,35-44,Yes
+C01370,Pim H.,SMB,Bangkok,Nonthaburi,2023-10-07,Female,18-24,No
+C01371,Mei H.,Consumer,Central,Chonburi,2022-11-15,Male,25-34,No
+C01372,Malee F.,Consumer,South,Krabi,2023-09-21,Prefer not to say,45-54,Yes
+C01373,Malee L.,Consumer,South,Songkhla,2023-10-15,Female,45-54,No
+C01374,Kanya H.,Consumer,Central,Ayutthaya,2023-07-10,Male,45-54,No
+C01375,Bee E.,Corporate,Bangkok,Bangkok,2023-12-04,Prefer not to say,35-44,Yes
+C01376,Boon A.,Corporate,North,Chiang Mai,2023-03-05,Female,45-54,No
+C01377,Malee H.,SMB,Bangkok,Pathum Thani,2022-09-20,Male,18-24,Yes
+C01378,Anan L.,Corporate,Northeast,Nakhon Ratchasima,2022-02-24,Male,18-24,No
+C01379,Malee H.,Corporate,Central,Nakhon Pathom,2022-10-11,Female,18-24,No
+C01380,Bee P.,Corporate,Northeast,Nakhon Ratchasima,2022-11-17,Male,35-44,Yes
+C01381,Noon D.,Consumer,South,Songkhla,2022-07-03,Male,45-54,No
+C01382,Omar S.,Consumer,North,Phitsanulok,2022-04-23,Prefer not to say,25-34,Yes
+C01383,Aek V.,Consumer,Bangkok,Samut Prakan,2023-01-02,Male,35-44,Yes
+C01384,Bee D.,SMB,Central,Chonburi,2022-09-09,Female,35-44,Yes
+C01385,Lucas P.,Consumer,South,Surat Thani,2021-09-06,Male,45-54,No
+C01386,Sofia K.,SMB,South,Phuket,2023-10-25,Male,18-24,Yes
+C01387,Prasert M.,Consumer,Northeast,Ubon Ratchathani,2021-10-10,Prefer not to say,18-24,No
+C01388,Chai E.,SMB,Northeast,Ubon Ratchathani,2021-09-19,Prefer not to say,55+,No
+C01389,Aek W.,Consumer,Bangkok,Nonthaburi,2022-10-22,Prefer not to say,45-54,Yes
+C01390,Bee F.,SMB,Bangkok,Pathum Thani,2022-01-17,Male,18-24,No
+C01391,Nok C.,Consumer,Central,Rayong,2023-04-20,Prefer not to say,55+,Yes
+C01392,Somchai K.,Corporate,Northeast,Ubon Ratchathani,2023-10-02,Prefer not to say,35-44,No
+C01393,Chai K.,Consumer,Bangkok,Bangkok,2023-06-16,Male,25-34,Yes
+C01394,Pim W.,Consumer,Central,Chonburi,2023-09-08,Female,55+,Yes
+C01395,Aek W.,Consumer,Central,Rayong,2023-01-20,Male,35-44,No
+C01396,Omar C.,Corporate,North,Lampang,2023-05-25,Prefer not to say,55+,Yes
+C01397,Fah C.,Consumer,North,Chiang Mai,2022-03-19,Female,18-24,No
+C01398,Wichai S.,SMB,South,Surat Thani,2022-02-10,Female,55+,Yes
+C01399,Aek T.,SMB,North,Phitsanulok,2022-08-08,Male,35-44,No
+C01400,Ploy P.,Consumer,Northeast,Udon Thani,2021-12-04,Prefer not to say,35-44,No
+C01401,Omar M.,Consumer,North,Lampang,2022-12-15,Female,55+,No
+C01402,Ahmed E.,Consumer,North,Lampang,2022-12-22,Prefer not to say,35-44,No
+C01403,Anan C.,Consumer,South,Songkhla,2023-01-08,Prefer not to say,55+,Yes
+C01404,Kanya A.,Consumer,Bangkok,Pathum Thani,2022-11-17,Male,25-34,No
+C01405,Aek F.,Consumer,South,Phuket,2022-08-31,Female,35-44,Yes
+C01406,Boon W.,SMB,South,Phuket,2022-11-30,Male,55+,No
+C01407,Somchai E.,Consumer,Northeast,Ubon Ratchathani,2023-09-20,Female,35-44,Yes
+C01408,Ahmed R.,Consumer,North,Chiang Rai,2023-03-09,Male,25-34,No
+C01409,Bee R.,SMB,South,Krabi,2023-01-21,Female,25-34,No
+C01410,Krit G.,Consumer,North,Lampang,2021-08-21,Prefer not to say,18-24,No
+C01411,Mint M.,SMB,North,Phitsanulok,2022-07-28,Male,25-34,Yes
+C01412,Chai E.,Consumer,Northeast,Ubon Ratchathani,2021-12-31,Female,55+,Yes
+C01413,Sofia R.,Consumer,Central,Chonburi,2021-12-30,Prefer not to say,35-44,Yes
+C01414,Ahmed R.,SMB,Northeast,Khon Kaen,2023-09-06,Prefer not to say,35-44,Yes
+C01415,Omar B.,Consumer,North,Chiang Rai,2023-08-23,Male,55+,No
+C01416,Sofia N.,Consumer,North,Phitsanulok,2023-12-18,Prefer not to say,25-34,Yes
+C01417,Malee E.,SMB,South,Surat Thani,2021-09-25,Prefer not to say,25-34,No
+C01418,Prasert V.,SMB,Bangkok,Samut Prakan,2022-05-14,Female,25-34,No
+C01419,Chai N.,SMB,South,Phuket,2021-11-05,Male,25-34,No
+C01420,Aek D.,Consumer,Bangkok,Samut Prakan,2022-01-26,Prefer not to say,35-44,Yes
+C01421,Aek D.,Corporate,Northeast,Udon Thani,2021-08-29,Female,35-44,Yes
+C01422,Fah C.,Consumer,Central,Nakhon Pathom,2022-04-17,Male,55+,No
+C01423,Bee F.,SMB,North,Chiang Mai,2022-12-25,Female,55+,Yes
+C01424,Mei L.,Consumer,South,Surat Thani,2022-02-10,Female,35-44,Yes
+C01425,Bee B.,SMB,Bangkok,Nonthaburi,2022-11-29,Prefer not to say,35-44,No
+C01426,Kanya A.,Consumer,Northeast,Nakhon Ratchasima,2021-12-30,Prefer not to say,35-44,Yes
+C01427,Ploy K.,SMB,North,Phitsanulok,2023-12-17,Prefer not to say,55+,Yes
+C01428,Chai F.,Consumer,Bangkok,Samut Prakan,2023-07-07,Prefer not to say,45-54,Yes
+C01429,Chai W.,SMB,Central,Rayong,2022-10-26,Male,18-24,Yes
+C01430,Suda A.,SMB,Northeast,Nakhon Ratchasima,2023-01-05,Male,18-24,No
+C01431,Malee E.,Consumer,Bangkok,Nonthaburi,2022-06-19,Male,25-34,Yes
+C01432,Nok W.,SMB,South,Phuket,2022-05-16,Female,55+,Yes
+C01433,Lucas W.,SMB,Central,Rayong,2022-02-09,Male,18-24,No
+C01434,Aek J.,SMB,Northeast,Ubon Ratchathani,2021-11-25,Prefer not to say,55+,No
+C01435,Priya J.,Consumer,North,Lampang,2023-04-29,Female,35-44,Yes
+C01436,Yuki F.,SMB,Northeast,Ubon Ratchathani,2022-03-13,Prefer not to say,35-44,Yes
+C01437,Noon G.,Corporate,North,Chiang Mai,2021-12-31,Male,55+,No
+C01438,Wei F.,Consumer,Northeast,Khon Kaen,2023-04-15,Female,35-44,No
+C01439,Wei V.,Consumer,Northeast,Nakhon Ratchasima,2023-01-29,Prefer not to say,18-24,Yes
+C01440,Boon F.,Consumer,Bangkok,Samut Prakan,2021-11-03,Male,45-54,No
+C01441,Yuki P.,Consumer,Northeast,Nakhon Ratchasima,2023-05-12,Prefer not to say,25-34,No
+C01442,Sofia M.,SMB,South,Surat Thani,2021-10-04,Male,55+,No
+C01443,Emily E.,Consumer,Central,Nakhon Pathom,2022-11-21,Female,18-24,No
+C01444,Boon T.,Consumer,Central,Chonburi,2023-11-23,Female,25-34,No
+C01445,Ploy H.,Corporate,Northeast,Udon Thani,2022-04-30,Prefer not to say,18-24,Yes
+C01446,Lucas H.,Consumer,North,Phitsanulok,2023-04-27,Male,18-24,No
+C01447,Wichai C.,Consumer,Bangkok,Pathum Thani,2023-11-22,Male,45-54,No
+C01448,Wei G.,Consumer,Central,Ayutthaya,2021-12-08,Female,45-54,Yes
+C01449,Ploy H.,Consumer,Bangkok,Pathum Thani,2023-08-20,Prefer not to say,18-24,No
+C01450,Sofia D.,Consumer,North,Chiang Mai,2021-11-18,Prefer not to say,55+,Yes
+C01451,Suda J.,Consumer,South,Surat Thani,2023-09-08,Female,35-44,No
+C01452,Ploy A.,Corporate,South,Songkhla,2022-01-27,Male,55+,No
+C01453,Mei V.,SMB,North,Chiang Rai,2023-07-26,Prefer not to say,35-44,Yes
+C01454,Somchai R.,SMB,Central,Nakhon Pathom,2023-02-02,Male,18-24,No
+C01455,Wei N.,Consumer,South,Songkhla,2023-05-26,Female,18-24,No
+C01456,Aek P.,Consumer,South,Phuket,2021-11-16,Prefer not to say,55+,Yes
+C01457,Mint S.,Corporate,North,Chiang Mai,2022-03-16,Male,25-34,No
+C01458,Mint M.,Corporate,Central,Ayutthaya,2023-04-05,Male,25-34,No
+C01459,Mei D.,Consumer,Northeast,Udon Thani,2022-08-27,Male,18-24,No
+C01460,Kanya A.,SMB,North,Lampang,2022-11-03,Prefer not to say,55+,Yes
+C01461,Anan H.,SMB,North,Chiang Mai,2023-02-16,Prefer not to say,35-44,No
+C01462,Chai M.,SMB,Bangkok,Nonthaburi,2023-02-25,Prefer not to say,55+,No
+C01463,Bee G.,Consumer,Central,Ayutthaya,2022-08-28,Male,25-34,No
+C01464,Fah K.,Consumer,Northeast,Nakhon Ratchasima,2021-10-05,Female,45-54,No
+C01465,Priya W.,Consumer,South,Krabi,2023-01-09,Prefer not to say,45-54,No
+C01466,James G.,Consumer,Northeast,Nakhon Ratchasima,2023-10-19,Prefer not to say,18-24,Yes
+C01467,Suda P.,Consumer,North,Lampang,2021-10-30,Male,35-44,Yes
+C01468,Mint W.,Consumer,Bangkok,Nonthaburi,2022-09-08,Prefer not to say,18-24,No
+C01469,Lucas C.,SMB,Central,Chonburi,2023-08-16,Female,35-44,No
+C01470,Nok A.,SMB,South,Songkhla,2023-10-23,Female,45-54,Yes
+C01471,Ploy W.,SMB,Northeast,Khon Kaen,2023-02-09,Prefer not to say,35-44,Yes
+C01472,Fah N.,Consumer,Bangkok,Nonthaburi,2023-09-12,Female,18-24,No
+C01473,Yuki P.,Consumer,South,Krabi,2023-11-07,Prefer not to say,55+,No
+C01474,Yuki W.,Consumer,Bangkok,Pathum Thani,2022-12-14,Prefer not to say,55+,Yes
+C01475,Prasert H.,Corporate,Central,Rayong,2022-12-03,Prefer not to say,45-54,No
+C01476,Ahmed T.,SMB,South,Krabi,2022-06-10,Male,18-24,No
+C01477,Sofia D.,Consumer,North,Chiang Rai,2022-01-08,Male,18-24,No
+C01478,Ahmed C.,Consumer,Central,Nakhon Pathom,2023-09-04,Female,45-54,Yes
+C01479,James R.,SMB,Central,Nakhon Pathom,2023-12-17,Male,55+,No
+C01480,Mint H.,Consumer,North,Phitsanulok,2021-12-01,Female,45-54,No
+C01481,Prasert C.,Consumer,Northeast,Khon Kaen,2021-10-28,Male,35-44,Yes
+C01482,Anan V.,SMB,South,Krabi,2022-09-21,Female,18-24,No
+C01483,Bee W.,Consumer,Bangkok,Bangkok,2022-12-30,Female,55+,No
+C01484,Pim S.,Consumer,Bangkok,Samut Prakan,2023-06-05,Female,55+,Yes
+C01485,Suda A.,Corporate,Bangkok,Nonthaburi,2022-12-22,Prefer not to say,25-34,No
+C01486,Bee N.,SMB,North,Lampang,2023-05-10,Male,18-24,Yes
+C01487,Somchai H.,Consumer,Central,Rayong,2023-12-12,Male,45-54,No
+C01488,Boon N.,Corporate,Northeast,Ubon Ratchathani,2023-04-01,Female,55+,Yes
+C01489,Sofia B.,SMB,Bangkok,Pathum Thani,2021-07-17,Prefer not to say,18-24,No
+C01490,Noon J.,Consumer,Bangkok,Samut Prakan,2023-09-11,Prefer not to say,55+,Yes
+C01491,Bee J.,Consumer,North,Lampang,2021-10-18,Male,35-44,No
+C01492,Lucas W.,Corporate,South,Surat Thani,2022-06-03,Prefer not to say,35-44,No
+C01493,Tanawat H.,Consumer,Central,Chonburi,2023-02-03,Female,18-24,No
+C01494,Tanawat T.,Consumer,Central,Ayutthaya,2023-08-14,Prefer not to say,25-34,Yes
+C01495,Omar C.,Corporate,South,Surat Thani,2023-01-09,Prefer not to say,18-24,No
+C01496,Malee K.,SMB,South,Surat Thani,2023-06-14,Prefer not to say,25-34,No
+C01497,Ploy N.,SMB,Central,Chonburi,2022-11-19,Prefer not to say,55+,Yes
+C01498,Omar C.,Consumer,Bangkok,Pathum Thani,2023-08-28,Prefer not to say,18-24,No
+C01499,Omar R.,Corporate,Central,Rayong,2021-09-16,Female,45-54,Yes
+C01500,Somchai B.,SMB,Bangkok,Samut Prakan,2021-11-19,Male,18-24,No
+C01501,Ahmed B.,Consumer,Central,Rayong,2023-02-15,Prefer not to say,55+,No
+C01502,Boon C.,Consumer,Central,Chonburi,2023-11-10,Prefer not to say,25-34,Yes
+C01503,Anan K.,SMB,South,Krabi,2023-12-15,Prefer not to say,45-54,Yes
+C01504,Suda T.,Consumer,South,Phuket,2024-01-01,Prefer not to say,18-24,Yes
+C01505,James G.,Consumer,South,Krabi,2022-12-19,Female,25-34,Yes
+C01506,Fah V.,Consumer,North,Chiang Rai,2021-09-26,Male,35-44,No
+C01507,Emily V.,Consumer,North,Chiang Rai,2023-02-27,Female,25-34,Yes
+C01508,Mei D.,Consumer,South,Surat Thani,2022-02-09,Prefer not to say,45-54,No
+C01509,Bee B.,Consumer,Bangkok,Nonthaburi,2021-11-20,Prefer not to say,25-34,Yes
+C01510,Fah R.,SMB,North,Chiang Mai,2022-07-14,Female,35-44,Yes
+C01511,Prasert D.,Consumer,Northeast,Nakhon Ratchasima,2023-04-28,Male,45-54,Yes
+C01512,Ploy V.,Consumer,South,Krabi,2021-12-05,Male,25-34,Yes
+C01513,Boon W.,SMB,North,Lampang,2023-12-16,Prefer not to say,55+,Yes
+C01514,Ploy J.,Consumer,Northeast,Khon Kaen,2023-08-31,Prefer not to say,25-34,Yes
+C01515,Boon A.,Consumer,South,Krabi,2021-09-12,Female,45-54,No
+C01516,Wichai M.,Consumer,South,Krabi,2021-11-17,Female,25-34,Yes
+C01517,Aek S.,SMB,Northeast,Ubon Ratchathani,2022-12-21,Prefer not to say,45-54,No
+C01518,Boon J.,Corporate,South,Krabi,2023-01-30,Male,25-34,No
+C01519,Emily F.,Consumer,Central,Nakhon Pathom,2022-10-02,Prefer not to say,55+,No
+C01520,Bee N.,SMB,South,Surat Thani,2023-09-12,Female,55+,Yes
+C01521,Wei F.,Consumer,Bangkok,Bangkok,2023-02-03,Prefer not to say,35-44,No
+C01522,Kanya T.,SMB,Central,Rayong,2021-10-06,Male,55+,Yes
+C01523,Suda H.,Consumer,Northeast,Ubon Ratchathani,2022-03-12,Prefer not to say,25-34,No
+C01524,Boon R.,SMB,Northeast,Khon Kaen,2023-08-04,Female,35-44,No
+C01525,Bee N.,Consumer,North,Phitsanulok,2021-11-06,Female,55+,No
+C01526,Omar V.,Consumer,South,Krabi,2022-04-28,Prefer not to say,55+,Yes
+C01527,Somchai P.,Consumer,Central,Chonburi,2022-10-23,Prefer not to say,45-54,Yes
+C01528,Malee A.,Consumer,North,Lampang,2021-11-09,Male,25-34,Yes
+C01529,Nok B.,Consumer,Bangkok,Nonthaburi,2022-11-29,Prefer not to say,55+,No
+C01530,Somchai V.,Consumer,Northeast,Udon Thani,2022-06-12,Prefer not to say,45-54,No
+C01531,Omar B.,SMB,Central,Chonburi,2023-10-20,Male,45-54,Yes
+C01532,Noon C.,Consumer,North,Phitsanulok,2022-10-26,Prefer not to say,35-44,No
+C01533,Priya G.,Corporate,North,Lampang,2023-09-23,Prefer not to say,18-24,Yes
+C01534,Yuki B.,SMB,Northeast,Udon Thani,2021-12-14,Female,18-24,Yes
+C01535,Ton J.,SMB,North,Lampang,2021-09-12,Female,18-24,Yes
+C01536,Lucas A.,SMB,Central,Chonburi,2021-11-13,Female,55+,Yes
+C01537,Priya J.,Consumer,Northeast,Ubon Ratchathani,2021-12-05,Female,35-44,Yes
+C01538,Ahmed D.,Consumer,Northeast,Ubon Ratchathani,2021-09-16,Prefer not to say,35-44,Yes
+C01539,Noon A.,SMB,Bangkok,Samut Prakan,2022-06-21,Prefer not to say,35-44,No
+C01540,Suda G.,Corporate,North,Phitsanulok,2023-01-27,Male,45-54,No
+C01541,Emily S.,Consumer,Northeast,Nakhon Ratchasima,2021-11-18,Female,25-34,No
+C01542,Omar G.,SMB,North,Chiang Mai,2021-08-05,Prefer not to say,35-44,No
+C01543,Chai G.,Consumer,Central,Chonburi,2022-07-20,Female,35-44,No
+C01544,Somchai M.,SMB,Central,Nakhon Pathom,2023-12-20,Female,35-44,Yes
+C01545,Emily P.,Consumer,Central,Rayong,2023-01-17,Prefer not to say,35-44,Yes
+C01546,Yuki B.,Consumer,Bangkok,Pathum Thani,2022-12-18,Prefer not to say,18-24,No
+C01547,Yuki M.,SMB,Bangkok,Samut Prakan,2022-06-18,Prefer not to say,45-54,No
+C01548,Chai V.,Corporate,South,Songkhla,2023-06-19,Female,35-44,Yes
+C01549,Tanawat N.,Corporate,Bangkok,Samut Prakan,2022-04-19,Male,45-54,Yes
+C01550,Ton G.,Corporate,South,Krabi,2023-03-06,Prefer not to say,35-44,Yes
+C01551,Chai H.,Consumer,South,Krabi,2022-11-18,Male,55+,Yes
+C01552,James J.,Consumer,Central,Ayutthaya,2021-12-24,Prefer not to say,55+,Yes
+C01553,Bee C.,SMB,Bangkok,Pathum Thani,2023-08-25,Male,25-34,Yes
+C01554,Somchai S.,Consumer,South,Phuket,2023-02-15,Female,45-54,No
+C01555,Pim H.,Consumer,Northeast,Ubon Ratchathani,2022-07-25,Male,18-24,Yes
+C01556,Somchai N.,SMB,Northeast,Khon Kaen,2022-07-08,Prefer not to say,55+,Yes
+C01557,Aek V.,SMB,Northeast,Khon Kaen,2023-04-05,Female,18-24,No
+C01558,Bee H.,SMB,Bangkok,Samut Prakan,2022-12-10,Male,25-34,No
+C01559,Noon H.,Corporate,Northeast,Khon Kaen,2023-12-06,Male,55+,Yes
+C01560,Wichai W.,Consumer,Bangkok,Bangkok,2023-11-09,Female,25-34,No
+C01561,Mint M.,Consumer,North,Phitsanulok,2022-10-04,Prefer not to say,45-54,No
+C01562,Mint H.,Corporate,Central,Nakhon Pathom,2023-11-14,Prefer not to say,18-24,Yes
+C01563,Nok N.,Consumer,Central,Chonburi,2022-04-29,Male,35-44,Yes
+C01564,Krit J.,Consumer,Bangkok,Nonthaburi,2022-08-16,Male,45-54,Yes
+C01565,Pim W.,SMB,Bangkok,Samut Prakan,2022-04-15,Prefer not to say,55+,No
+C01566,Kanya K.,Consumer,Bangkok,Samut Prakan,2023-03-29,Female,35-44,No
+C01567,Mei S.,SMB,Central,Chonburi,2023-09-10,Male,35-44,Yes
+C01568,Kanya D.,SMB,Central,Chonburi,2021-08-07,Female,45-54,Yes
+C01569,Omar S.,Consumer,North,Phitsanulok,2021-08-29,Prefer not to say,55+,No
+C01570,Fah R.,Consumer,Central,Chonburi,2022-01-15,Female,18-24,Yes
+C01571,Mei P.,Consumer,Northeast,Ubon Ratchathani,2022-05-07,Female,55+,Yes
+C01572,Lucas P.,Corporate,Bangkok,Pathum Thani,2022-05-26,Prefer not to say,55+,No
+C01573,Noon P.,Consumer,Bangkok,Samut Prakan,2022-01-02,Female,35-44,No
+C01574,Krit H.,Consumer,South,Phuket,2022-03-02,Female,18-24,No
+C01575,Krit K.,Consumer,North,Chiang Rai,2022-09-27,Male,45-54,No
+C01576,Lucas V.,Corporate,Central,Nakhon Pathom,2021-10-10,Female,25-34,Yes
+C01577,Ahmed D.,Consumer,South,Phuket,2023-01-07,Male,45-54,No
+C01578,Somchai M.,Consumer,South,Krabi,2021-07-18,Male,55+,No
+C01579,Boon T.,Consumer,Bangkok,Nonthaburi,2022-06-15,Prefer not to say,45-54,Yes
+C01580,Aek R.,SMB,Northeast,Ubon Ratchathani,2023-04-09,Prefer not to say,25-34,Yes
+C01581,Ahmed G.,Consumer,North,Chiang Rai,2022-09-14,Female,25-34,Yes
+C01582,Ahmed V.,Consumer,Bangkok,Pathum Thani,2023-12-14,Prefer not to say,55+,No
+C01583,Tanawat F.,Consumer,North,Chiang Mai,2021-10-03,Female,55+,Yes
+C01584,Ahmed V.,Consumer,North,Lampang,2022-10-11,Female,45-54,No
+C01585,Priya D.,Consumer,South,Krabi,2022-08-19,Prefer not to say,18-24,Yes
+C01586,Tanawat P.,Consumer,North,Chiang Mai,2022-10-21,Male,35-44,Yes
+C01587,Emily J.,Consumer,Northeast,Nakhon Ratchasima,2021-08-25,Prefer not to say,55+,No
+C01588,Wichai A.,Consumer,North,Phitsanulok,2023-08-18,Prefer not to say,35-44,No
+C01589,Somchai E.,Consumer,North,Chiang Rai,2022-03-15,Prefer not to say,25-34,No
+C01590,Bee S.,SMB,Central,Rayong,2023-09-03,Female,18-24,No
+C01591,Bee K.,Consumer,Northeast,Ubon Ratchathani,2021-07-23,Female,25-34,Yes
+C01592,Emily W.,SMB,Central,Ayutthaya,2021-08-28,Male,55+,Yes
+C01593,Emily M.,Corporate,South,Songkhla,2021-12-28,Male,35-44,Yes
+C01594,Wei S.,SMB,Northeast,Ubon Ratchathani,2021-12-10,Prefer not to say,45-54,No
+C01595,Wei W.,Consumer,North,Chiang Rai,2022-12-05,Female,25-34,No
+C01596,Prasert C.,Consumer,Northeast,Udon Thani,2022-05-30,Prefer not to say,25-34,Yes
+C01597,Priya W.,Consumer,North,Lampang,2022-08-10,Male,45-54,No
+C01598,Emily M.,Consumer,North,Chiang Rai,2023-11-25,Male,18-24,Yes
+C01599,James P.,Consumer,Northeast,Nakhon Ratchasima,2023-06-25,Male,18-24,No
+C01600,Malee F.,Corporate,Northeast,Udon Thani,2022-09-02,Prefer not to say,55+,No
+C01601,Bee K.,Corporate,North,Chiang Rai,2021-08-22,Female,55+,No
+C01602,Prasert F.,Consumer,Northeast,Khon Kaen,2022-12-05,Male,25-34,No
+C01603,Anan T.,Corporate,South,Krabi,2023-05-06,Prefer not to say,18-24,Yes
+C01604,Aek T.,Consumer,Northeast,Udon Thani,2023-08-24,Male,35-44,Yes
+C01605,Malee N.,Corporate,North,Lampang,2023-08-24,Female,45-54,No
+C01606,Ahmed V.,SMB,North,Phitsanulok,2022-11-16,Male,25-34,No
+C01607,Omar K.,Consumer,South,Surat Thani,2023-12-26,Prefer not to say,18-24,Yes
+C01608,Prasert L.,Consumer,Northeast,Ubon Ratchathani,2022-08-07,Prefer not to say,35-44,No
+C01609,Mint F.,Consumer,Central,Rayong,2022-11-25,Male,25-34,No
+C01610,Noon M.,Consumer,South,Phuket,2022-03-29,Male,45-54,No
+C01611,Wichai K.,SMB,Central,Chonburi,2023-07-06,Male,18-24,Yes
+C01612,Anan F.,SMB,North,Phitsanulok,2021-09-21,Prefer not to say,25-34,Yes
+C01613,Anan R.,Corporate,Bangkok,Nonthaburi,2021-10-23,Prefer not to say,45-54,Yes
+C01614,Aek F.,Consumer,North,Lampang,2022-02-02,Prefer not to say,35-44,No
+C01615,Prasert T.,Consumer,Northeast,Nakhon Ratchasima,2023-09-16,Female,35-44,Yes
+C01616,Wichai H.,Consumer,Central,Ayutthaya,2022-02-16,Prefer not to say,25-34,Yes
+C01617,James V.,Corporate,Northeast,Khon Kaen,2021-09-30,Male,45-54,Yes
+C01618,Fah S.,Consumer,Bangkok,Bangkok,2023-08-15,Prefer not to say,45-54,No
+C01619,Emily T.,Consumer,Bangkok,Samut Prakan,2023-09-13,Female,35-44,No
+C01620,Lucas M.,SMB,Central,Nakhon Pathom,2022-09-23,Prefer not to say,55+,No
+C01621,Tanawat N.,Consumer,Northeast,Udon Thani,2023-10-27,Male,55+,No
+C01622,Ahmed T.,Corporate,Central,Rayong,2022-11-28,Male,45-54,No
+C01623,Ton B.,Consumer,South,Surat Thani,2023-04-21,Prefer not to say,45-54,No
+C01624,Emily D.,Consumer,Northeast,Udon Thani,2023-09-22,Female,35-44,No
+C01625,Ahmed R.,Consumer,North,Lampang,2023-04-25,Female,55+,Yes
+C01626,James K.,Corporate,South,Surat Thani,2023-01-04,Male,45-54,Yes
+C01627,Boon B.,Consumer,Northeast,Udon Thani,2023-08-18,Female,18-24,Yes
+C01628,Emily M.,Consumer,Central,Nakhon Pathom,2022-10-15,Prefer not to say,18-24,No
+C01629,Boon W.,Consumer,Northeast,Khon Kaen,2023-02-01,Prefer not to say,45-54,No
+C01630,Fah A.,Corporate,Bangkok,Bangkok,2022-02-24,Prefer not to say,55+,No
+C01631,Krit T.,SMB,Central,Nakhon Pathom,2021-12-20,Prefer not to say,45-54,Yes
+C01632,Prasert G.,SMB,North,Chiang Mai,2021-08-16,Prefer not to say,18-24,Yes
+C01633,Wei F.,Corporate,Northeast,Udon Thani,2023-04-24,Male,45-54,Yes
+C01634,Anan S.,Corporate,Central,Chonburi,2021-11-02,Prefer not to say,18-24,No
+C01635,Ploy M.,Corporate,South,Songkhla,2021-10-18,Prefer not to say,25-34,No
+C01636,Nok L.,Consumer,South,Surat Thani,2022-12-09,Prefer not to say,18-24,No
+C01637,Boon R.,Consumer,North,Lampang,2022-11-13,Prefer not to say,45-54,Yes
+C01638,Prasert J.,Consumer,Bangkok,Samut Prakan,2022-06-21,Prefer not to say,55+,No
+C01639,James B.,Consumer,Northeast,Nakhon Ratchasima,2022-11-11,Prefer not to say,18-24,No
+C01640,Malee H.,Corporate,Northeast,Ubon Ratchathani,2022-03-16,Prefer not to say,55+,No
+C01641,Mei D.,SMB,North,Chiang Mai,2023-07-31,Female,35-44,No
+C01642,Emily F.,Consumer,Bangkok,Samut Prakan,2022-04-30,Male,45-54,No
+C01643,Anan J.,Consumer,Northeast,Khon Kaen,2023-04-29,Male,25-34,Yes
+C01644,Omar B.,Consumer,Northeast,Khon Kaen,2021-12-01,Male,55+,No
+C01645,Mint A.,Corporate,Central,Nakhon Pathom,2021-10-22,Male,35-44,Yes
+C01646,Yuki F.,Corporate,Central,Rayong,2022-10-06,Prefer not to say,35-44,Yes
+C01647,Krit P.,SMB,Bangkok,Bangkok,2022-03-13,Prefer not to say,55+,No
+C01648,Tanawat N.,Corporate,North,Chiang Mai,2022-02-18,Male,55+,No
+C01649,Emily V.,Consumer,Central,Ayutthaya,2021-12-30,Female,18-24,No
+C01650,Omar K.,Corporate,Bangkok,Bangkok,2022-05-17,Female,35-44,Yes
+C01651,Wei E.,Consumer,Northeast,Nakhon Ratchasima,2022-08-16,Prefer not to say,18-24,Yes
+C01652,Aek W.,Consumer,South,Krabi,2021-10-21,Male,35-44,No
+C01653,Nok P.,Corporate,Northeast,Khon Kaen,2021-09-18,Female,35-44,Yes
+C01654,Anan W.,Consumer,South,Surat Thani,2023-12-23,Male,45-54,No
+C01655,Suda T.,SMB,North,Chiang Rai,2023-10-18,Prefer not to say,45-54,Yes
+C01656,Krit L.,Consumer,North,Lampang,2022-12-08,Prefer not to say,55+,Yes
+C01657,Fah S.,Corporate,Central,Chonburi,2023-11-15,Male,18-24,Yes
+C01658,Boon W.,SMB,Central,Ayutthaya,2022-06-05,Prefer not to say,35-44,No
+C01659,Chai W.,Corporate,Central,Nakhon Pathom,2023-04-07,Female,35-44,Yes
+C01660,Somchai V.,Consumer,South,Krabi,2023-05-16,Male,25-34,No
+C01661,James E.,SMB,Central,Nakhon Pathom,2022-04-15,Female,45-54,No
+C01662,Aek A.,Consumer,Northeast,Ubon Ratchathani,2023-02-12,Prefer not to say,18-24,Yes
+C01663,James K.,Consumer,Northeast,Udon Thani,2022-04-23,Prefer not to say,45-54,No
+C01664,Sofia F.,SMB,Central,Chonburi,2023-04-21,Female,25-34,Yes
+C01665,Ton F.,Consumer,South,Surat Thani,2023-09-03,Male,25-34,No
+C01666,Pim R.,Consumer,North,Phitsanulok,2022-03-02,Female,45-54,No
+C01667,Prasert P.,Corporate,Bangkok,Bangkok,2021-12-17,Female,18-24,Yes
+C01668,Prasert J.,Consumer,Central,Ayutthaya,2022-10-12,Male,55+,No
+C01669,Chai L.,Consumer,Central,Rayong,2022-04-11,Prefer not to say,35-44,No
+C01670,James H.,Consumer,Northeast,Khon Kaen,2022-07-19,Female,25-34,Yes
+C01671,Wei C.,Corporate,Central,Nakhon Pathom,2022-06-08,Prefer not to say,55+,Yes
+C01672,Nok N.,Consumer,Bangkok,Bangkok,2023-06-06,Male,35-44,Yes
+C01673,Emily V.,Corporate,Northeast,Udon Thani,2022-04-25,Female,25-34,No
+C01674,Suda L.,Consumer,Northeast,Ubon Ratchathani,2021-07-21,Male,25-34,Yes
+C01675,Ploy L.,Corporate,South,Songkhla,2023-05-24,Prefer not to say,45-54,Yes
+C01676,Prasert E.,Consumer,Bangkok,Samut Prakan,2022-02-19,Prefer not to say,35-44,No
+C01677,Nok S.,Consumer,Central,Chonburi,2021-08-31,Male,25-34,Yes
+C01678,Bee N.,Consumer,Central,Ayutthaya,2023-01-03,Male,18-24,No
+C01679,Mei J.,Consumer,North,Phitsanulok,2022-01-13,Prefer not to say,18-24,Yes
+C01680,Tanawat M.,Consumer,North,Chiang Rai,2021-08-31,Female,45-54,Yes
+C01681,Wichai L.,Consumer,South,Krabi,2022-01-21,Male,18-24,Yes
+C01682,Emily H.,Consumer,North,Phitsanulok,2022-01-12,Prefer not to say,55+,No
+C01683,Prasert G.,Consumer,South,Krabi,2023-08-05,Female,35-44,Yes
+C01684,Yuki N.,Consumer,South,Phuket,2022-11-01,Female,45-54,Yes
+C01685,Emily A.,Corporate,Central,Ayutthaya,2021-11-15,Female,55+,Yes
+C01686,Anan S.,SMB,South,Surat Thani,2023-10-18,Female,25-34,Yes
+C01687,Sofia L.,Corporate,North,Chiang Mai,2022-01-11,Female,35-44,Yes
+C01688,Ahmed M.,Corporate,Bangkok,Nonthaburi,2022-07-05,Prefer not to say,55+,No
+C01689,Ahmed H.,Consumer,North,Chiang Rai,2022-05-31,Male,45-54,Yes
+C01690,Bee T.,Consumer,Northeast,Ubon Ratchathani,2022-04-03,Prefer not to say,35-44,No
+C01691,Tanawat K.,Consumer,Central,Nakhon Pathom,2023-11-27,Female,18-24,No
+C01692,Kanya L.,Consumer,Central,Nakhon Pathom,2022-05-20,Male,45-54,Yes
+C01693,Nok A.,Consumer,Bangkok,Nonthaburi,2021-07-30,Female,35-44,No
+C01694,Nok B.,SMB,Bangkok,Nonthaburi,2023-10-07,Prefer not to say,25-34,No
+C01695,Ton G.,Consumer,Bangkok,Samut Prakan,2023-07-27,Male,55+,No
+C01696,Ton D.,Consumer,North,Lampang,2023-10-28,Prefer not to say,55+,No
+C01697,Boon N.,Consumer,South,Krabi,2022-04-20,Female,25-34,No
+C01698,Nok L.,SMB,Bangkok,Pathum Thani,2022-12-14,Prefer not to say,25-34,No
+C01699,Emily G.,Consumer,North,Lampang,2021-08-19,Male,45-54,Yes
+C01700,Sofia P.,Corporate,South,Phuket,2023-02-12,Male,18-24,Yes
+C01701,Wei L.,Corporate,South,Surat Thani,2023-05-31,Prefer not to say,45-54,Yes
+C01702,Krit V.,Consumer,Northeast,Nakhon Ratchasima,2022-06-27,Male,25-34,No
+C01703,Bee S.,SMB,Bangkok,Samut Prakan,2023-07-12,Prefer not to say,35-44,No
+C01704,Anan R.,Consumer,South,Surat Thani,2022-04-03,Prefer not to say,18-24,Yes
+C01705,Krit G.,SMB,Northeast,Nakhon Ratchasima,2021-10-01,Prefer not to say,18-24,Yes
+C01706,James C.,Consumer,Central,Nakhon Pathom,2021-10-05,Male,18-24,Yes
+C01707,Lucas G.,Corporate,Northeast,Nakhon Ratchasima,2023-01-21,Female,55+,Yes
+C01708,Yuki T.,Consumer,Bangkok,Bangkok,2021-08-21,Male,35-44,No
+C01709,Somchai N.,Corporate,North,Chiang Rai,2022-10-28,Prefer not to say,45-54,Yes
+C01710,Omar W.,Consumer,Northeast,Ubon Ratchathani,2023-06-17,Male,25-34,No
+C01711,Boon D.,Consumer,North,Lampang,2022-10-26,Male,25-34,No
+C01712,Lucas A.,Consumer,Central,Rayong,2023-05-11,Male,18-24,No
+C01713,Kanya V.,SMB,Central,Chonburi,2022-12-14,Male,35-44,No
+C01714,Pim P.,Corporate,Bangkok,Nonthaburi,2022-10-29,Prefer not to say,18-24,No
+C01715,Anan V.,Corporate,Bangkok,Bangkok,2022-08-14,Female,35-44,Yes
+C01716,Ploy R.,Consumer,South,Phuket,2023-03-09,Prefer not to say,45-54,No
+C01717,Wichai N.,Consumer,North,Phitsanulok,2023-06-23,Prefer not to say,25-34,No
+C01718,Suda L.,Consumer,Northeast,Udon Thani,2023-06-21,Prefer not to say,25-34,Yes
+C01719,Kanya D.,SMB,Bangkok,Samut Prakan,2021-07-17,Female,55+,Yes
+C01720,Anan W.,Consumer,Central,Rayong,2021-10-08,Male,18-24,Yes
+C01721,Ahmed C.,Consumer,North,Chiang Rai,2022-02-01,Prefer not to say,35-44,No
+C01722,Chai L.,Consumer,Central,Nakhon Pathom,2023-02-11,Prefer not to say,25-34,Yes
+C01723,Noon B.,SMB,Bangkok,Pathum Thani,2022-10-31,Female,35-44,No
+C01724,Kanya C.,SMB,Central,Rayong,2022-01-09,Prefer not to say,45-54,No
+C01725,Fah R.,Consumer,South,Songkhla,2022-04-26,Prefer not to say,35-44,No
+C01726,Chai A.,Consumer,Bangkok,Bangkok,2023-01-19,Male,25-34,No
+C01727,Prasert W.,Consumer,South,Songkhla,2023-03-24,Prefer not to say,55+,Yes
+C01728,Wichai E.,SMB,Central,Nakhon Pathom,2021-09-29,Female,45-54,No
+C01729,Fah H.,Consumer,South,Surat Thani,2022-02-16,Female,35-44,No
+C01730,Pim V.,Consumer,North,Chiang Rai,2021-10-16,Prefer not to say,25-34,Yes
+C01731,Emily J.,Consumer,South,Surat Thani,2021-12-21,Female,55+,No
+C01732,Pim M.,Consumer,Central,Chonburi,2022-11-09,Female,18-24,Yes
+C01733,Anan P.,Consumer,North,Phitsanulok,2022-01-13,Male,18-24,Yes
+C01734,James A.,Consumer,South,Krabi,2023-11-18,Female,45-54,No
+C01735,Nok T.,SMB,Central,Chonburi,2021-12-21,Prefer not to say,25-34,No
+C01736,Somchai J.,Consumer,Central,Nakhon Pathom,2022-01-12,Male,45-54,Yes
+C01737,Mint K.,Consumer,North,Phitsanulok,2023-05-18,Male,35-44,Yes
+C01738,Emily B.,Consumer,Central,Chonburi,2022-01-12,Prefer not to say,18-24,Yes
+C01739,Emily J.,SMB,North,Chiang Rai,2023-05-27,Female,35-44,No
+C01740,Emily G.,Consumer,South,Krabi,2022-06-10,Male,55+,Yes
+C01741,Tanawat L.,Consumer,North,Chiang Mai,2023-11-28,Female,35-44,Yes
+C01742,James K.,SMB,South,Surat Thani,2022-06-13,Male,18-24,No
+C01743,Pim L.,Consumer,South,Songkhla,2021-09-22,Male,45-54,No
+C01744,Sofia E.,Consumer,Central,Rayong,2022-05-09,Prefer not to say,35-44,No
+C01745,Sofia V.,SMB,Central,Rayong,2022-09-24,Prefer not to say,18-24,Yes
+C01746,Nok E.,Consumer,North,Phitsanulok,2022-05-03,Prefer not to say,45-54,Yes
+C01747,Omar K.,Corporate,Northeast,Ubon Ratchathani,2021-10-27,Male,45-54,Yes
+C01748,Krit L.,Consumer,Northeast,Udon Thani,2021-08-13,Prefer not to say,55+,Yes
+C01749,Bee D.,Consumer,Bangkok,Nonthaburi,2023-08-13,Prefer not to say,25-34,Yes
+C01750,Mei V.,Consumer,Northeast,Nakhon Ratchasima,2023-01-09,Female,25-34,No
+C01751,Noon D.,Corporate,Bangkok,Pathum Thani,2021-09-25,Female,35-44,Yes
+C01752,Suda C.,SMB,South,Songkhla,2022-05-26,Prefer not to say,18-24,Yes
+C01753,Mei D.,Consumer,Bangkok,Samut Prakan,2022-03-25,Prefer not to say,18-24,No
+C01754,Noon C.,SMB,South,Surat Thani,2021-09-24,Prefer not to say,45-54,Yes
+C01755,Bee M.,SMB,Northeast,Khon Kaen,2023-09-06,Male,45-54,Yes
+C01756,Krit D.,Consumer,Bangkok,Bangkok,2022-05-27,Male,25-34,No
+C01757,Wei N.,Consumer,South,Surat Thani,2022-02-20,Prefer not to say,55+,No
+C01758,Krit V.,Consumer,North,Lampang,2023-04-22,Male,35-44,No
+C01759,Mint G.,Consumer,North,Chiang Rai,2022-07-26,Female,25-34,Yes
+C01760,Fah R.,Consumer,South,Surat Thani,2022-09-04,Female,45-54,Yes
+C01761,Anan D.,Consumer,Northeast,Ubon Ratchathani,2023-08-23,Prefer not to say,55+,No
+C01762,Bee C.,Consumer,Bangkok,Samut Prakan,2021-11-12,Male,45-54,Yes
+C01763,Chai W.,SMB,Central,Ayutthaya,2023-11-02,Male,35-44,Yes
+C01764,Krit V.,Consumer,North,Lampang,2023-01-22,Prefer not to say,18-24,No
+C01765,Ploy V.,SMB,Central,Nakhon Pathom,2021-09-26,Female,55+,Yes
+C01766,Mei J.,Consumer,Northeast,Ubon Ratchathani,2023-02-04,Male,18-24,No
+C01767,Ploy F.,Consumer,Bangkok,Pathum Thani,2022-03-22,Prefer not to say,25-34,No
+C01768,Kanya L.,Corporate,Northeast,Ubon Ratchathani,2021-12-06,Male,25-34,Yes
+C01769,Mint B.,SMB,North,Lampang,2021-12-28,Male,55+,Yes
+C01770,Ton E.,Consumer,Northeast,Udon Thani,2023-04-14,Male,18-24,No
+C01771,Pim H.,Consumer,South,Songkhla,2022-10-13,Prefer not to say,25-34,No
+C01772,Kanya J.,Consumer,South,Krabi,2023-05-29,Female,25-34,Yes
+C01773,Sofia S.,SMB,Bangkok,Samut Prakan,2023-12-04,Prefer not to say,45-54,No
+C01774,Mint V.,Consumer,North,Chiang Rai,2022-12-21,Male,25-34,Yes
+C01775,Pim B.,SMB,Northeast,Nakhon Ratchasima,2023-09-20,Male,55+,No
+C01776,Malee S.,Consumer,South,Surat Thani,2021-08-22,Male,18-24,No
+C01777,Fah M.,SMB,Bangkok,Nonthaburi,2023-04-14,Male,25-34,No
+C01778,Chai T.,Corporate,Central,Rayong,2023-07-31,Male,25-34,Yes
+C01779,Somchai T.,Consumer,North,Lampang,2021-12-18,Male,55+,No
+C01780,Wei W.,Consumer,Northeast,Ubon Ratchathani,2022-01-19,Prefer not to say,55+,No
+C01781,James K.,Consumer,Central,Chonburi,2021-12-06,Prefer not to say,45-54,Yes
+C01782,Yuki F.,Consumer,Northeast,Khon Kaen,2022-09-18,Male,55+,No
+C01783,Aek R.,Consumer,South,Phuket,2023-03-01,Female,35-44,No
+C01784,Yuki G.,SMB,Central,Ayutthaya,2023-07-07,Male,45-54,Yes
+C01785,Noon R.,Consumer,Central,Chonburi,2023-02-14,Prefer not to say,45-54,No
+C01786,Chai V.,Corporate,Central,Rayong,2022-01-10,Prefer not to say,35-44,No
+C01787,Sofia F.,Consumer,Central,Ayutthaya,2023-07-18,Male,55+,No
+C01788,Anan D.,SMB,Central,Nakhon Pathom,2021-12-31,Male,18-24,Yes
+C01789,Tanawat S.,SMB,Central,Chonburi,2022-07-14,Male,55+,Yes
+C01790,Wichai S.,SMB,South,Krabi,2022-01-26,Prefer not to say,45-54,No
+C01791,Ton P.,Consumer,South,Phuket,2023-03-25,Female,55+,No
+C01792,Suda R.,Consumer,North,Lampang,2021-07-19,Male,25-34,No
+C01793,Tanawat B.,Consumer,Northeast,Khon Kaen,2023-07-15,Prefer not to say,45-54,Yes
+C01794,Chai A.,Consumer,North,Chiang Rai,2023-01-20,Female,35-44,Yes
+C01795,Fah V.,Consumer,Northeast,Khon Kaen,2023-05-06,Male,25-34,No
+C01796,Noon W.,Corporate,Bangkok,Bangkok,2021-12-14,Prefer not to say,25-34,No
+C01797,Pim S.,SMB,Bangkok,Samut Prakan,2022-05-01,Male,35-44,Yes
+C01798,Nok D.,SMB,South,Krabi,2023-06-06,Prefer not to say,45-54,Yes
+C01799,Mint G.,SMB,Bangkok,Pathum Thani,2022-07-27,Female,45-54,Yes
+C01800,Chai J.,Consumer,Northeast,Udon Thani,2021-09-04,Female,55+,Yes
+C01801,Lucas B.,Consumer,Central,Rayong,2022-07-28,Prefer not to say,45-54,No
+C01802,Wichai E.,Consumer,Bangkok,Samut Prakan,2022-08-14,Male,25-34,No
+C01803,Prasert N.,Corporate,North,Chiang Rai,2022-12-22,Prefer not to say,45-54,Yes
+C01804,Ahmed L.,Consumer,Northeast,Khon Kaen,2023-12-10,Female,25-34,Yes
+C01805,Ton P.,Consumer,Central,Chonburi,2022-07-29,Female,25-34,Yes
+C01806,Priya P.,Corporate,Bangkok,Nonthaburi,2023-09-27,Prefer not to say,18-24,Yes
+C01807,Boon H.,Consumer,South,Krabi,2022-08-11,Male,35-44,No
+C01808,Lucas L.,Consumer,Bangkok,Nonthaburi,2023-11-01,Male,45-54,No
+C01809,Ton K.,Corporate,South,Songkhla,2022-12-03,Male,25-34,Yes
+C01810,Fah S.,Consumer,Bangkok,Nonthaburi,2023-04-23,Male,45-54,No
+C01811,Somchai T.,Consumer,South,Phuket,2021-10-27,Prefer not to say,18-24,Yes
+C01812,James T.,Consumer,Northeast,Ubon Ratchathani,2022-08-24,Male,18-24,Yes
+C01813,Mei E.,Consumer,Central,Rayong,2021-07-16,Female,55+,Yes
+C01814,Mei A.,Corporate,Northeast,Ubon Ratchathani,2022-10-20,Prefer not to say,18-24,No
+C01815,Suda A.,Consumer,South,Krabi,2023-03-25,Prefer not to say,25-34,Yes
+C01816,Ahmed J.,Corporate,South,Krabi,2023-09-23,Female,18-24,No
+C01817,Ton K.,Corporate,Bangkok,Samut Prakan,2022-02-09,Female,55+,No
+C01818,Yuki V.,Consumer,Bangkok,Nonthaburi,2021-09-26,Female,25-34,Yes
+C01819,Somchai L.,Consumer,South,Krabi,2022-11-09,Prefer not to say,45-54,Yes
+C01820,Ploy B.,Consumer,North,Lampang,2023-02-19,Female,55+,No
+C01821,Nok F.,Consumer,North,Lampang,2023-10-20,Prefer not to say,45-54,Yes
+C01822,Anan M.,Consumer,Central,Rayong,2022-11-03,Female,18-24,Yes
+C01823,Chai C.,Consumer,North,Chiang Rai,2022-07-17,Male,45-54,No
+C01824,Boon N.,Consumer,North,Lampang,2022-04-28,Female,18-24,No
+C01825,Mei M.,Consumer,South,Songkhla,2022-10-11,Female,55+,Yes
+C01826,Krit D.,Consumer,North,Chiang Mai,2023-01-21,Male,25-34,No
+C01827,James L.,Consumer,South,Songkhla,2022-02-04,Female,45-54,Yes
+C01828,Mei H.,Consumer,South,Songkhla,2022-09-08,Female,35-44,No
+C01829,Malee W.,Consumer,South,Phuket,2022-10-13,Female,18-24,Yes
+C01830,Prasert A.,Consumer,South,Songkhla,2022-12-17,Female,35-44,No
+C01831,Boon W.,SMB,North,Phitsanulok,2021-12-29,Female,25-34,Yes
+C01832,Wei T.,Consumer,Bangkok,Nonthaburi,2022-12-23,Male,45-54,Yes
+C01833,Sofia K.,SMB,Central,Ayutthaya,2023-08-07,Male,55+,Yes
+C01834,Pim B.,Consumer,Central,Ayutthaya,2021-10-23,Prefer not to say,18-24,Yes
+C01835,Noon C.,Consumer,Northeast,Nakhon Ratchasima,2023-07-05,Prefer not to say,25-34,No
+C01836,Noon M.,SMB,South,Phuket,2021-12-23,Female,35-44,No
+C01837,Aek G.,Consumer,Central,Chonburi,2023-05-26,Prefer not to say,35-44,Yes
+C01838,Malee B.,SMB,North,Lampang,2023-03-15,Male,55+,Yes
+C01839,Anan C.,SMB,Northeast,Ubon Ratchathani,2023-01-04,Male,18-24,Yes
+C01840,Prasert W.,SMB,Bangkok,Nonthaburi,2021-09-10,Prefer not to say,25-34,Yes
+C01841,Noon T.,Corporate,South,Krabi,2023-09-26,Male,55+,Yes
+C01842,Chai V.,Consumer,North,Chiang Rai,2023-02-25,Male,35-44,Yes
+C01843,Yuki F.,Consumer,North,Phitsanulok,2023-07-20,Male,55+,Yes
+C01844,Prasert P.,Consumer,Northeast,Khon Kaen,2023-10-14,Female,25-34,Yes
+C01845,Suda T.,SMB,North,Phitsanulok,2021-10-01,Prefer not to say,55+,No
+C01846,Pim T.,Consumer,South,Phuket,2022-06-13,Female,55+,No
+C01847,Somchai F.,SMB,Northeast,Nakhon Ratchasima,2022-01-22,Prefer not to say,35-44,No
+C01848,Malee E.,Consumer,Central,Rayong,2023-10-10,Male,18-24,Yes
+C01849,Malee M.,SMB,North,Lampang,2021-12-20,Prefer not to say,18-24,Yes
+C01850,Mint A.,Consumer,South,Phuket,2022-12-05,Female,35-44,Yes
+C01851,Mei D.,Consumer,Central,Chonburi,2023-02-07,Female,18-24,Yes
+C01852,James G.,Corporate,South,Surat Thani,2021-10-21,Female,18-24,Yes
+C01853,Boon L.,Consumer,North,Chiang Rai,2022-05-09,Female,25-34,Yes
+C01854,Prasert P.,Consumer,Northeast,Khon Kaen,2023-04-02,Male,45-54,Yes
+C01855,Priya B.,Consumer,North,Chiang Rai,2021-11-17,Prefer not to say,35-44,No
+C01856,Sofia H.,Consumer,Northeast,Khon Kaen,2022-06-24,Male,55+,Yes
+C01857,Wei N.,SMB,South,Surat Thani,2023-02-02,Male,45-54,Yes
+C01858,Ton E.,Corporate,South,Surat Thani,2023-04-08,Male,35-44,Yes
+C01859,Pim J.,SMB,Central,Ayutthaya,2022-11-01,Male,55+,No
+C01860,Noon W.,Consumer,North,Phitsanulok,2022-11-13,Male,18-24,No
+C01861,Prasert G.,Consumer,Northeast,Nakhon Ratchasima,2023-11-19,Male,25-34,Yes
+C01862,Bee T.,Consumer,North,Chiang Mai,2021-08-11,Female,25-34,No
+C01863,Nok E.,Consumer,South,Songkhla,2022-01-04,Female,35-44,Yes
+C01864,Boon W.,SMB,North,Phitsanulok,2023-03-16,Prefer not to say,35-44,Yes
+C01865,Pim W.,Consumer,South,Phuket,2023-02-26,Female,25-34,No
+C01866,Noon F.,Consumer,Central,Ayutthaya,2023-11-17,Male,35-44,No
+C01867,Omar R.,Consumer,North,Chiang Mai,2022-05-16,Prefer not to say,25-34,No
+C01868,Lucas F.,Consumer,South,Songkhla,2022-07-01,Male,25-34,Yes
+C01869,Chai G.,Consumer,Bangkok,Nonthaburi,2022-02-20,Female,35-44,Yes
+C01870,Pim D.,Consumer,Bangkok,Samut Prakan,2022-04-21,Male,55+,Yes
+C01871,Malee R.,Consumer,Northeast,Nakhon Ratchasima,2022-01-21,Male,35-44,No
+C01872,Wichai E.,SMB,North,Chiang Mai,2023-02-01,Female,18-24,No
+C01873,Nok C.,Consumer,Northeast,Udon Thani,2021-09-09,Prefer not to say,45-54,Yes
+C01874,Nok H.,Corporate,South,Krabi,2023-04-24,Prefer not to say,18-24,Yes
+C01875,Nok F.,Consumer,Bangkok,Pathum Thani,2022-01-02,Male,35-44,Yes
+C01876,Noon D.,SMB,North,Chiang Rai,2022-05-28,Male,18-24,Yes
+C01877,Priya N.,Consumer,Bangkok,Samut Prakan,2022-03-26,Prefer not to say,18-24,No
+C01878,Wei M.,Consumer,North,Chiang Mai,2021-10-14,Female,45-54,No
+C01879,Wichai B.,SMB,South,Phuket,2022-01-15,Male,45-54,No
+C01880,Suda J.,Consumer,Northeast,Ubon Ratchathani,2021-10-03,Male,18-24,Yes
+C01881,Tanawat S.,Consumer,South,Krabi,2023-10-23,Male,55+,No
+C01882,Fah C.,Consumer,North,Chiang Mai,2023-01-29,Male,45-54,Yes
+C01883,Aek P.,Consumer,South,Surat Thani,2021-10-30,Prefer not to say,18-24,No
+C01884,Tanawat N.,Consumer,Central,Chonburi,2023-01-08,Female,55+,Yes
+C01885,Krit A.,SMB,Central,Ayutthaya,2021-08-23,Prefer not to say,25-34,No
+C01886,Wichai V.,Corporate,Bangkok,Nonthaburi,2023-05-07,Male,25-34,Yes
+C01887,Ton M.,Consumer,Central,Chonburi,2021-09-08,Male,25-34,Yes
+C01888,Yuki A.,Consumer,North,Lampang,2021-07-17,Female,25-34,Yes
+C01889,Omar S.,Consumer,North,Chiang Mai,2023-12-24,Male,35-44,No
+C01890,James T.,Consumer,South,Songkhla,2022-12-04,Prefer not to say,25-34,Yes
+C01891,Ploy N.,Consumer,Central,Rayong,2021-10-14,Prefer not to say,55+,Yes
+C01892,Noon K.,SMB,Central,Chonburi,2022-01-19,Male,45-54,No
+C01893,Wei D.,SMB,Central,Chonburi,2023-04-26,Female,45-54,Yes
+C01894,Bee L.,Consumer,Northeast,Udon Thani,2021-10-23,Female,55+,Yes
+C01895,Pim J.,Consumer,Central,Chonburi,2023-07-06,Prefer not to say,35-44,No
+C01896,Ploy N.,Consumer,Northeast,Nakhon Ratchasima,2021-12-10,Female,45-54,No
+C01897,Mint G.,Consumer,Bangkok,Bangkok,2022-03-15,Male,35-44,No
+C01898,Wei H.,Consumer,South,Phuket,2022-07-05,Male,45-54,No
+C01899,Kanya P.,Consumer,Bangkok,Bangkok,2021-11-29,Female,55+,Yes
+C01900,Bee J.,SMB,South,Krabi,2023-03-07,Prefer not to say,18-24,No
+C01901,Yuki B.,Consumer,Central,Rayong,2023-12-22,Male,35-44,No
+C01902,Wichai M.,Consumer,South,Songkhla,2023-02-01,Male,25-34,No
+C01903,Ahmed E.,Corporate,South,Phuket,2022-12-07,Female,35-44,Yes
+C01904,Anan A.,Consumer,North,Chiang Rai,2021-10-17,Prefer not to say,18-24,Yes
+C01905,Prasert A.,SMB,Northeast,Khon Kaen,2023-08-15,Male,18-24,Yes
+C01906,Lucas T.,Consumer,Central,Chonburi,2023-09-06,Prefer not to say,45-54,No
+C01907,Priya P.,Consumer,Northeast,Udon Thani,2023-05-05,Prefer not to say,25-34,Yes
+C01908,Malee H.,Consumer,Northeast,Udon Thani,2022-02-13,Male,18-24,Yes
+C01909,Somchai D.,Consumer,Northeast,Khon Kaen,2022-08-12,Male,35-44,No
+C01910,Lucas A.,Corporate,Central,Ayutthaya,2021-09-07,Prefer not to say,25-34,Yes
+C01911,Suda L.,Consumer,Northeast,Udon Thani,2023-05-16,Male,25-34,Yes
+C01912,Priya P.,Consumer,Northeast,Udon Thani,2022-05-16,Female,55+,No
+C01913,Noon T.,SMB,Bangkok,Bangkok,2022-03-28,Female,18-24,No
+C01914,Fah H.,SMB,Bangkok,Pathum Thani,2022-08-07,Prefer not to say,55+,Yes
+C01915,Wichai B.,Consumer,Northeast,Ubon Ratchathani,2023-05-14,Female,35-44,Yes
+C01916,Emily P.,Consumer,Central,Nakhon Pathom,2022-06-12,Male,45-54,No
+C01917,Yuki V.,Consumer,Bangkok,Pathum Thani,2023-01-06,Prefer not to say,35-44,No
+C01918,Chai C.,Consumer,South,Phuket,2022-09-10,Prefer not to say,25-34,No
+C01919,Pim N.,Consumer,Central,Ayutthaya,2022-07-27,Female,45-54,Yes
+C01920,Ahmed K.,Corporate,South,Surat Thani,2022-10-02,Female,35-44,Yes
+C01921,Anan W.,SMB,North,Phitsanulok,2021-11-08,Female,45-54,No
+C01922,Nok D.,SMB,North,Chiang Rai,2023-03-30,Male,45-54,No
+C01923,Ploy J.,Corporate,South,Phuket,2021-09-06,Prefer not to say,25-34,No
+C01924,Emily W.,SMB,Northeast,Ubon Ratchathani,2022-02-19,Prefer not to say,18-24,Yes
+C01925,Wichai J.,Corporate,Central,Chonburi,2021-10-14,Prefer not to say,55+,Yes
+C01926,Boon D.,Consumer,Northeast,Udon Thani,2023-03-15,Female,35-44,Yes
+C01927,Ploy W.,Consumer,Bangkok,Nonthaburi,2022-06-01,Prefer not to say,18-24,Yes
+C01928,Tanawat B.,SMB,Northeast,Ubon Ratchathani,2022-10-14,Female,35-44,No
+C01929,Priya A.,Consumer,Central,Rayong,2022-01-07,Prefer not to say,45-54,No
+C01930,Kanya H.,Corporate,Bangkok,Samut Prakan,2023-11-26,Male,25-34,Yes
+C01931,Lucas K.,Consumer,Bangkok,Nonthaburi,2023-09-28,Prefer not to say,18-24,No
+C01932,Omar G.,Consumer,Bangkok,Samut Prakan,2021-11-09,Male,35-44,No
+C01933,Lucas F.,Consumer,Central,Chonburi,2021-08-24,Male,45-54,Yes
+C01934,Priya J.,Consumer,Central,Rayong,2022-10-17,Female,25-34,No
+C01935,Suda W.,SMB,Bangkok,Nonthaburi,2023-09-30,Prefer not to say,25-34,No
+C01936,Wei J.,SMB,Northeast,Ubon Ratchathani,2021-12-02,Male,45-54,Yes
+C01937,Wei P.,SMB,Central,Rayong,2022-06-07,Male,35-44,No
+C01938,Ton D.,Consumer,Bangkok,Samut Prakan,2022-02-22,Male,25-34,Yes
+C01939,Ploy K.,Corporate,South,Songkhla,2022-08-08,Male,55+,No
+C01940,Omar S.,Corporate,Central,Nakhon Pathom,2023-11-02,Female,25-34,No
+C01941,Sofia D.,Consumer,Central,Chonburi,2023-11-01,Prefer not to say,45-54,No
+C01942,Ahmed H.,Consumer,North,Chiang Mai,2023-09-28,Male,18-24,Yes
+C01943,Mint T.,SMB,Bangkok,Nonthaburi,2022-08-02,Prefer not to say,18-24,Yes
+C01944,Malee A.,Corporate,South,Phuket,2022-08-31,Female,18-24,Yes
+C01945,Prasert H.,Consumer,North,Chiang Mai,2021-08-11,Male,45-54,Yes
+C01946,Lucas W.,Consumer,Northeast,Udon Thani,2023-03-12,Male,55+,No
+C01947,Ahmed F.,Consumer,Northeast,Khon Kaen,2023-04-09,Male,18-24,Yes
+C01948,Malee A.,Consumer,Central,Rayong,2023-06-28,Prefer not to say,45-54,No
+C01949,Krit W.,Consumer,Bangkok,Pathum Thani,2021-10-19,Female,45-54,Yes
+C01950,Pim A.,Consumer,Bangkok,Samut Prakan,2023-01-09,Female,25-34,Yes
+C01951,Krit S.,Consumer,Northeast,Udon Thani,2021-07-21,Prefer not to say,35-44,No
+C01952,Mint R.,Consumer,Central,Ayutthaya,2023-11-09,Prefer not to say,18-24,Yes
+C01953,Fah R.,SMB,North,Lampang,2021-10-29,Prefer not to say,25-34,No
+C01954,Suda A.,Consumer,North,Lampang,2023-04-21,Male,45-54,Yes
+C01955,Bee A.,Consumer,North,Phitsanulok,2021-08-03,Prefer not to say,45-54,No
+C01956,Ploy J.,SMB,Northeast,Ubon Ratchathani,2022-08-10,Female,45-54,No
+C01957,Priya C.,SMB,Bangkok,Pathum Thani,2023-02-12,Male,55+,No
+C01958,Anan V.,SMB,Northeast,Ubon Ratchathani,2023-05-01,Female,55+,Yes
+C01959,Yuki F.,SMB,Bangkok,Bangkok,2023-07-01,Female,55+,Yes
+C01960,Anan R.,Consumer,South,Surat Thani,2023-05-28,Prefer not to say,25-34,Yes
+C01961,James R.,Corporate,Central,Rayong,2022-01-30,Male,55+,No
+C01962,Ploy W.,Corporate,North,Phitsanulok,2023-02-16,Male,25-34,No
+C01963,Ahmed H.,Consumer,Central,Nakhon Pathom,2021-11-16,Male,18-24,Yes
+C01964,Prasert T.,Corporate,South,Krabi,2021-08-22,Prefer not to say,35-44,Yes
+C01965,Noon M.,Consumer,North,Phitsanulok,2022-08-05,Male,45-54,No
+C01966,Malee L.,Consumer,South,Krabi,2023-10-26,Male,25-34,Yes
+C01967,Pim V.,Consumer,North,Chiang Mai,2023-01-17,Prefer not to say,18-24,Yes
+C01968,Nok E.,Consumer,Northeast,Ubon Ratchathani,2023-04-15,Prefer not to say,45-54,No
+C01969,James M.,SMB,North,Chiang Rai,2023-01-10,Prefer not to say,45-54,No
+C01970,Yuki H.,Consumer,Northeast,Khon Kaen,2023-11-01,Prefer not to say,35-44,No
+C01971,Somchai J.,SMB,Northeast,Khon Kaen,2023-09-04,Female,35-44,No
+C01972,Prasert T.,Consumer,Northeast,Khon Kaen,2023-08-10,Prefer not to say,35-44,No
+C01973,Omar R.,Consumer,South,Songkhla,2021-09-12,Prefer not to say,45-54,No
+C01974,Somchai D.,Consumer,South,Phuket,2021-07-15,Female,35-44,Yes
+C01975,Noon E.,Consumer,North,Chiang Rai,2023-01-11,Prefer not to say,45-54,Yes
+C01976,Malee P.,Corporate,Bangkok,Pathum Thani,2022-02-15,Female,45-54,Yes
+C01977,Kanya A.,SMB,Northeast,Ubon Ratchathani,2021-10-29,Prefer not to say,55+,No
+C01978,Priya D.,Consumer,South,Phuket,2023-07-10,Prefer not to say,18-24,Yes
+C01979,Bee R.,Consumer,Northeast,Nakhon Ratchasima,2023-02-08,Female,45-54,No
+C01980,Anan K.,Consumer,Central,Rayong,2022-01-09,Female,25-34,No
+C01981,Ahmed V.,Consumer,South,Krabi,2021-07-29,Male,35-44,Yes
+C01982,Mint T.,Consumer,South,Surat Thani,2023-12-16,Prefer not to say,45-54,Yes
+C01983,Aek C.,SMB,Northeast,Udon Thani,2022-08-09,Female,45-54,Yes
+C01984,Emily M.,Consumer,North,Chiang Mai,2022-08-30,Prefer not to say,25-34,No
+C01985,Ton M.,Corporate,Central,Nakhon Pathom,2022-04-28,Male,45-54,Yes
+C01986,Noon S.,Consumer,Bangkok,Nonthaburi,2022-07-02,Female,45-54,Yes
+C01987,Ton F.,Consumer,South,Surat Thani,2022-10-11,Prefer not to say,18-24,Yes
+C01988,Bee A.,Corporate,Central,Nakhon Pathom,2022-12-20,Female,35-44,No
+C01989,Boon P.,Corporate,Northeast,Nakhon Ratchasima,2022-08-06,Prefer not to say,25-34,No
+C01990,Mei L.,Consumer,Northeast,Nakhon Ratchasima,2021-10-23,Male,55+,No
+C01991,Sofia B.,SMB,Central,Ayutthaya,2021-07-28,Male,18-24,Yes
+C01992,Ploy C.,SMB,Central,Nakhon Pathom,2022-12-01,Prefer not to say,35-44,No
+C01993,Somchai N.,Consumer,Northeast,Khon Kaen,2023-10-01,Prefer not to say,25-34,Yes
+C01994,Ploy J.,Consumer,North,Lampang,2023-09-13,Prefer not to say,35-44,Yes
+C01995,Suda L.,Consumer,South,Krabi,2022-10-22,Female,45-54,No
+C01996,Somchai G.,Corporate,North,Chiang Rai,2023-05-12,Female,25-34,No
+C01997,Somchai J.,Corporate,South,Phuket,2022-10-06,Female,35-44,No
+C01998,Bee T.,Consumer,Central,Chonburi,2022-01-11,Male,18-24,No
+C01999,Suda T.,Consumer,North,Phitsanulok,2023-08-02,Male,45-54,No
+C02000,Somchai L.,Consumer,Central,Ayutthaya,2021-10-14,Female,55+,Yes
