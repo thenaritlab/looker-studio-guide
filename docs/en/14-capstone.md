@@ -4,6 +4,10 @@
 
 > ⏱ **Estimated time:** 4 × 60 min · 📅 **Roadmap day:** Week 6 · Day 26–29 · 🎯 **Level:** Capstone
 
+> [!NOTE]
+> "Siam Goods Co." is a **fictional company**; all data is randomly generated mock-up for learning purposes only.
+
+
 **In this chapter**
 - [The brief](#1-the-brief)
 - [Requirements and KPI definitions](#2-requirements-and-kpi-definitions)
