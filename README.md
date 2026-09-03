@@ -2,13 +2,13 @@
   <img src="assets/logo/thenaritlab-logo.svg" alt="The Narit Lab" width="420">
 </p>
 
-<h1 align="center">Google Looker Studio — จากพื้นฐานสู่ขั้นสูง<br/><sub>คู่มือเรียนรู้ฉบับสมบูรณ์ โดย The Narit Lab</sub></h1>
+<h1 align="center">📊 Google Looker Studio — จากพื้นฐานสู่ขั้นสูง<br/><sub>คู่มือเรียนรู้ฉบับสมบูรณ์ โดย The Narit Lab</sub></h1>
 
 <p align="center">
   <a href="LICENSE"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
   <img alt="Languages: TH / EN" src="https://img.shields.io/badge/Languages-TH%20%7C%20EN-blue.svg">
-  <img alt="Chapters" src="https://img.shields.io/badge/Chapters-16-informational.svg">
-  <img alt="Labs" src="https://img.shields.io/badge/Labs-13-informational.svg">
+  <img alt="Chapters" src="https://img.shields.io/badge/%E0%B8%9A%E0%B8%97%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99-16-informational.svg">
+  <img alt="Labs" src="https://img.shields.io/badge/Lab-13-informational.svg">
   <img alt="Made by The Narit Lab" src="https://img.shields.io/badge/Made%20by-The%20Narit%20Lab-0F5AA6.svg">
 </p>
 
@@ -16,66 +16,113 @@
 
 ---
 
-คู่มือเรียนรู้ **Google Looker Studio** สองภาษา (ไทย / อังกฤษ) ตั้งแต่สร้างรายงานแรกจนถึงแนวปฏิบัติระดับองค์กร พร้อม **Lab ปฏิบัติ 13 บท**, **dataset สังเคราะห์ 6 ชุด** และ **แผนการเรียน 6 สัปดาห์ (~30 ชั่วโมง)** ที่เริ่มวันไหนก็ได้ — แผนนับเป็น Week 1–6 / Day 1–30 ไม่ผูกกับปฏิทิน เปิดด้วยการเปรียบเทียบเครื่องมือ self-service BI (Tableau · Power BI · Looker Studio · Looker) และปิดด้วยภาพรวม **Looker** (LookML, semantic layer) รวมถึงขั้นตอนการเผยแพร่ผลงานของคุณขึ้น GitHub
+## 👋 คู่มือนี้คืออะไร
 
-**เหมาะกับ:** นักวิเคราะห์ ผู้ใช้ธุรกิจ และที่ปรึกษาที่มาจาก Excel หรือเครื่องมือ BI อื่น
+คู่มือสอนใช้ **Google Looker Studio** ตั้งแต่ศูนย์ — ไม่เคยทำ Dashboard มาก่อนก็เรียนได้ เพราะเราพาไปทีละขั้น ตั้งแต่เปิดโปรแกรมครั้งแรก จนสร้าง Dashboard 3 หน้าเป็นผลงานของตัวเอง
 
-**สิ่งที่ต้องมี:** Google account ฟรี, Google Cloud project ที่เปิด BigQuery sandbox (ไม่ต้องใช้บัตรเครดิต) และเวลาประมาณ 1 ชั่วโมงต่อวัน
+| | สิ่งที่จะได้ |
+|---|---|
+| 📖 | **บทเรียน 16 บท** เรียงจากง่ายไปยาก อ่านจบได้ในราว 1 ชั่วโมงต่อบท |
+| 🧪 | **Lab ลงมือทำ 13 บท** ทำตามได้ทันที มีบอกผลลัพธ์ที่ควรได้ทุกขั้น |
+| 📦 | **ข้อมูลตัวอย่าง 6 ชุด** (ยอดขาย ลูกค้า สินค้า การตลาด เว็บ HR) — ข้อมูลสมมติทั้งหมด ใช้ฝึกได้อย่างสบายใจ |
+| 🗓️ | **แผนเรียน 6 สัปดาห์** วันละ 1 ชั่วโมง เริ่มวันไหนก็ได้ ไม่ผูกกับปฏิทิน |
+| 🏆 | **Capstone** — Dashboard ธุรกิจ 3 หน้า เอาใส่ Portfolio ได้เลย |
 
-### เริ่มต้นอย่างรวดเร็ว
+> [!NOTE]
+> ทุกบทมี 2 ภาษา — [ภาษาไทย](docs/th/00-toc.md) และ [English](docs/en/00-toc.md) — เนื้อหาเดียวกัน สลับอ่านได้ทุกหน้า
 
-1. อ่าน [docs/th/00-toc.md](docs/th/00-toc.md) (15 นาที)
-2. ทำตาม [ROADMAP.md](ROADMAP.md) — วันละ 1 บทหรือ 1 lab
-3. โหลด dataset จาก [`datasets/`](datasets/README.md) เข้า Google Sheets / BigQuery ใน [Lab 03](labs/lab03-data-sources/README.md)
-4. จบด้วย [Capstone](docs/th/14-capstone.md) และเผยแพร่ตาม [บทที่ 99](docs/th/99-publish-to-github.md)
+## 🙋 เหมาะกับใคร
+
+- คนทำงานที่ทำรายงานด้วย Excel แล้วอยากอัปเกรดเป็น Dashboard
+- นักการตลาด / เจ้าของธุรกิจ ที่อยากเห็นตัวเลขของตัวเองแบบอัปเดตอัตโนมัติ
+- นักศึกษาหรือคนเปลี่ยนสายงาน ที่อยากมีผลงานด้าน Data ชิ้นแรก
+- คนใช้ Tableau หรือ Power BI อยู่แล้ว ที่อยากเพิ่มเครื่องมือใหม่
+
+## 🎒 ต้องมีอะไรบ้าง
+
+| สิ่งที่ต้องมี | หมายเหตุ |
+|---|---|
+| ✅ Google account | แบบฟรีที่ใช้อยู่ทุกวันนั่นแหละ |
+| ✅ เวลาวันละ ~1 ชั่วโมง | สัปดาห์ละ 5 วัน รวม 6 สัปดาห์ |
+| ⬜ BigQuery sandbox | ใช้ในบทกลาง ๆ เป็นต้นไป — สมัครฟรี **ไม่ต้องใช้บัตรเครดิต** (มีสอนในบทที่ 3) |
+
+> [!TIP]
+> ไม่ต้องติดตั้งโปรแกรมอะไรเลย — Looker Studio ทำงานบนเบราว์เซอร์ทั้งหมด
+
+## 🚀 เริ่มยังไง (4 ขั้น)
+
+1. 📖 อ่าน [สารบัญและวิธีใช้คู่มือ](docs/th/00-toc.md) — ใช้เวลา 15 นาที
+2. 🗓️ เปิด [แผนเรียน 6 สัปดาห์](ROADMAP.md) แล้วเริ่ม **Day 1** ได้เลย
+3. 📦 พอถึง [Lab 03](labs/lab03-data-sources/README.md) จะได้โหลด[ข้อมูลตัวอย่าง](datasets/README.md)เข้า Google Sheets / BigQuery
+4. 🏆 จบที่ [Capstone](docs/th/14-capstone.md) แล้วเผยแพร่ผลงานตาม[บทที่ 99](docs/th/99-publish-to-github.md)
+
+> [!IMPORTANT]
+> ถ้าเรียนไม่ทัน **ข้าม Stretch goal ได้ แต่อย่าข้าม Lab** — ทักษะเกิดจากการลงมือทำ
+
+## 📚 สารบัญ
 
 <details open>
-<summary><b>📚 สารบัญ (ภาษาไทย)</b></summary>
+<summary><b>คลิกเพื่อพับ / คลี่สารบัญ</b></summary>
 
-| # | บท | ระดับ | Lab |
-|---|---|---|---|
+| # | บทเรียน | ระดับ | Lab |
+|---|---|:---:|:---:|
 | 00 | [สารบัญและวิธีใช้คู่มือนี้](docs/th/00-toc.md) | — | — |
-| 01 | [ภาพรวม Self-Service BI: Tableau · Power BI · Looker Studio · Looker](docs/th/01-bi-landscape.md) | Intro | — |
-| 02 | [เริ่มต้นใช้งาน: บัญชี ทัวร์ UI รายงานแรกใน 15 นาที](docs/th/02-getting-started.md) | Basic | [Lab 02](labs/lab02-getting-started/README.md) |
-| 03 | [Data Source และ Connector (Sheets, CSV, BigQuery)](docs/th/03-data-sources.md) | Basic | [Lab 03](labs/lab03-data-sources/README.md) |
-| 04 | [Chart และ Table หลัก การจัดรูปแบบ Theme](docs/th/04-charts-tables.md) | Basic | [Lab 04](labs/lab04-charts-tables/README.md) |
-| 05 | [Filter, Control, Date Range และ Interaction](docs/th/05-filters-controls.md) | Basic | [Lab 05](labs/lab05-filters-controls/README.md) |
-| 06 | [Calculated Field และฟังก์ชัน](docs/th/06-calculated-fields.md) | Intermediate | [Lab 06](labs/lab06-calculated-fields/README.md) |
-| 07 | [Data Blending และ Join](docs/th/07-blending.md) | Intermediate | [Lab 07](labs/lab07-blending/README.md) |
-| 08 | [Parameter และรายงานแบบ Dynamic](docs/th/08-parameters.md) | Intermediate | [Lab 08](labs/lab08-parameters/README.md) |
-| 09 | [หลักการออกแบบ Dashboard](docs/th/09-dashboard-design.md) | Intermediate | [Lab 09](labs/lab09-dashboard-design/README.md) |
-| 10 | [ประสิทธิภาพ, Extract Data และ Best Practice ของ BigQuery](docs/th/10-performance.md) | Advanced | [Lab 10](labs/lab10-performance/README.md) |
-| 11 | [การแชร์, ตั้งเวลาส่ง, Embed, การควบคุมสิทธิ์, Looker Studio Pro](docs/th/11-sharing-pro.md) | Advanced | [Lab 11](labs/lab11-sharing-pro/README.md) |
-| 12 | [Community Visualization และการปรับแต่งขั้นสูง](docs/th/12-community-viz.md) | Advanced | [Lab 12](labs/lab12-community-viz/README.md) |
-| 13 | [ภาพรวม Looker (Enterprise): LookML, Semantic Layer, Migration](docs/th/13-looker-overview.md) | Advanced | [Lab 13](labs/lab13-looker-overview/README.md) |
-| 14 | [Capstone: Dashboard ยอดขายและการตลาดครบวงจร](docs/th/14-capstone.md) | Capstone | [Lab 14](labs/lab14-capstone/README.md) |
-| 99 | [เผยแพร่ repo นี้ขึ้น GitHub](docs/th/99-publish-to-github.md) | ภาคผนวก | — |
+| 01 | [รู้จักโลก Self-Service BI: Tableau · Power BI · Looker Studio · Looker](docs/th/01-bi-landscape.md) | 🌱 | — |
+| 02 | [เริ่มต้นใช้งาน: สร้างรายงานแรกใน 15 นาที](docs/th/02-getting-started.md) | 🌱 | [🧪 02](labs/lab02-getting-started/README.md) |
+| 03 | [เชื่อมต่อข้อมูล: Sheets, CSV, BigQuery](docs/th/03-data-sources.md) | 🌱 | [🧪 03](labs/lab03-data-sources/README.md) |
+| 04 | [Chart และ Table พื้นฐาน + การจัด Theme](docs/th/04-charts-tables.md) | 🌱 | [🧪 04](labs/lab04-charts-tables/README.md) |
+| 05 | [Filter, Control และ Interaction](docs/th/05-filters-controls.md) | 🌱 | [🧪 05](labs/lab05-filters-controls/README.md) |
+| 06 | [Calculated Field — เขียนสูตรคำนวณเอง](docs/th/06-calculated-fields.md) | 🌿 | [🧪 06](labs/lab06-calculated-fields/README.md) |
+| 07 | [Data Blending — รวมข้อมูลหลายตาราง](docs/th/07-blending.md) | 🌿 | [🧪 07](labs/lab07-blending/README.md) |
+| 08 | [Parameter — รายงานแบบ What-if](docs/th/08-parameters.md) | 🌿 | [🧪 08](labs/lab08-parameters/README.md) |
+| 09 | [หลักการออกแบบ Dashboard ให้สวยและสื่อสาร](docs/th/09-dashboard-design.md) | 🌿 | [🧪 09](labs/lab09-dashboard-design/README.md) |
+| 10 | [ปรับความเร็ว: Extract Data และ BigQuery](docs/th/10-performance.md) | 🌳 | [🧪 10](labs/lab10-performance/README.md) |
+| 11 | [แชร์ ตั้งเวลาส่ง Embed และ Looker Studio Pro](docs/th/11-sharing-pro.md) | 🌳 | [🧪 11](labs/lab11-sharing-pro/README.md) |
+| 12 | [Community Visualization และการปรับแต่งขั้นสูง](docs/th/12-community-viz.md) | 🌳 | [🧪 12](labs/lab12-community-viz/README.md) |
+| 13 | [รู้จัก Looker (Enterprise): LookML และ Semantic Layer](docs/th/13-looker-overview.md) | 🌳 | [🧪 13](labs/lab13-looker-overview/README.md) |
+| 14 | [Capstone: Dashboard ยอดขายและการตลาดครบวงจร](docs/th/14-capstone.md) | 🏆 | [🧪 14](labs/lab14-capstone/README.md) |
+| 99 | [เผยแพร่ผลงานขึ้น GitHub](docs/th/99-publish-to-github.md) | 📎 | — |
 
-**Dataset:** [sales_orders](datasets/sales_orders.csv) · [customers](datasets/customers.csv) · [products](datasets/products.csv) · [marketing_campaigns](datasets/marketing_campaigns.csv) · [web_traffic](datasets/web_traffic.csv) · [hr_headcount](datasets/hr_headcount.csv) · [Data dictionary](datasets/README.md)
+**ระดับ:** 🌱 เริ่มต้น · 🌿 กลาง · 🌳 สูง · 🏆 Capstone · 📎 ภาคผนวก
 
 </details>
 
-### โครงสร้าง repository
+## 📦 ข้อมูลตัวอย่าง
+
+ข้อมูลสมมติจากบริษัทค้าปลีกในจินตนาการ ครอบคลุมโจทย์ที่เจอจริงในงาน:
+
+| ไฟล์ | เรื่อง | ใช้ฝึก |
+|---|---|---|
+| [sales_orders](datasets/sales_orders.csv) | คำสั่งซื้อ ~19,600 แถว | ยอดขาย กำไร เทรนด์ |
+| [customers](datasets/customers.csv) | ลูกค้า | Segment ภูมิภาค |
+| [products](datasets/products.csv) | สินค้า | หมวดหมู่ แบรนด์ |
+| [marketing_campaigns](datasets/marketing_campaigns.csv) | แคมเปญโฆษณา | ROI, Funnel |
+| [web_traffic](datasets/web_traffic.csv) | ทราฟฟิกเว็บ | Session, Conversion |
+| [hr_headcount](datasets/hr_headcount.csv) | พนักงาน (ข้อมูล "สกปรก" ตั้งใจ) | ฝึก Clean ข้อมูล |
+
+รายละเอียดทุกคอลัมน์อยู่ใน [Data dictionary](datasets/README.md)
+
+## 🗂️ โครงสร้าง repository
 
 ```
 looker-studio-guide/
-├── README.md (ไทย) · README.en.md (English) · LICENSE · CREDITS.md · ROADMAP.md · CONTRIBUTING.md
-├── assets/logo/        โลโก้ The Narit Lab (SVG) + icon
-├── assets/images/      screenshot placeholder + README อธิบายแต่ละรูป
-├── docs/STYLE-GUIDE.md
-├── docs/th/            00-toc … 99-publish-to-github  (ภาษาไทย)
-├── docs/en/            00-toc … 99-publish-to-github  (English)
-├── labs/               lab02 … lab14, README สองภาษาต่อ lab
-├── datasets/           CSV สังเคราะห์ 6 ชุด + generate_datasets.py + data dictionary
-└── scripts/            check_links.py
+├── README.md (ไทย) · README.en.md (English)
+├── LICENSE · CREDITS.md · ROADMAP.md · CONTRIBUTING.md
+├── assets/logo/        โลโก้ The Narit Lab (SVG)
+├── assets/images/      รูปประกอบบทเรียน
+├── docs/th/            บทเรียนภาษาไทย 00–99
+├── docs/en/            บทเรียน English 00–99
+├── labs/               Lab 02–14 (สองภาษาในไฟล์เดียว)
+├── datasets/           ข้อมูลตัวอย่าง 6 ชุด + สคริปต์สร้างข้อมูล
+└── scripts/            เครื่องมือตรวจลิงก์
 ```
 
 ---
 
-## สัญญาอนุญาต
+## 📜 สัญญาอนุญาต
 
-เนื้อหา โค้ด และ dataset สังเคราะห์: **MIT License** © 2026 The Narit Lab — ดู [LICENSE](LICENSE) และ [CREDITS.md](CREDITS.md) ส่วน public dataset ที่อ้างถึงใน lab ใช้สัญญาอนุญาตต้นทางของแต่ละชุด
+เนื้อหา โค้ด และข้อมูลตัวอย่าง: **MIT License** © 2026 The Narit Lab — ใช้เรียน ใช้สอนต่อ หรือดัดแปลงได้อิสระ เพียงให้เครดิต ดู [LICENSE](LICENSE) และ [CREDITS.md](CREDITS.md)
 
 Google Looker Studio, Looker และ BigQuery เป็นเครื่องหมายการค้าของ Google LLC — โปรเจกต์นี้เป็นสื่อการเรียนรู้อิสระ ไม่มีส่วนเกี่ยวข้องกับ Google
 
-<p align="center"><sub>Made by <b>The Narit Lab</b> · MIT License · <a href="docs/th/00-toc.md">กลับสารบัญ</a> · <a href="README.en.md">English README</a></sub></p>
+<p align="center"><sub>Made by <b>The Narit Lab</b> · MIT License · <a href="docs/th/00-toc.md">📖 เริ่มเรียนเลย</a> · <a href="README.en.md">🌐 English README</a></sub></p>
