@@ -2,7 +2,7 @@
 
 # 05 · Filters, Controls, Date Ranges, Interactions
 
-> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 2 · Day 7–8 (Tue 15 – Wed 16 Sep 2026) · 🎯 **Level:** Basic
+> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 2 · Day 7–8 · 🎯 **Level:** Basic
 
 **In this chapter**
 - [Three ways to filter](#1-three-ways-to-filter)

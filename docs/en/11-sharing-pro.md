@@ -2,7 +2,7 @@
 
 # 11 · Sharing, Scheduling, Embedding, Access Control, Looker Studio Pro
 
-> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 4 · Day 20 (Fri 2 Oct 2026) + Lab Week 5 · Day 21 · 🎯 **Level:** Advanced
+> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 4 · Day 20 + Lab Week 5 · Day 21 · 🎯 **Level:** Advanced
 
 **In this chapter**
 - [Sharing a report](#1-sharing-a-report)

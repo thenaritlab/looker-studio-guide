@@ -67,4 +67,7 @@
 **Stretch goal:** เพิ่ม `web_traffic` เป็นตารางที่ 4 ใน Blend B ด้วย `month` แล้วคำนวณ `Sessions per Conversion`
 
 ---
-<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [Back to TOC](../../docs/en/00-toc.md) · [กลับสารบัญ](../../docs/th/00-toc.md)</sub>
+
+← [ก่อนหน้า / Previous: Lab 06 — Calculated Fields](../lab06-calculated-fields/README.md) | 📖 [บทเรียนของ Lab นี้ / Chapter: TH](../../docs/th/07-blending.md) · [EN](../../docs/en/07-blending.md) | [ถัดไป / Next: Lab 08 — Parameters](../lab08-parameters/README.md) →
+
+<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [กลับสารบัญ](../../docs/th/00-toc.md) · [Back to TOC](../../docs/en/00-toc.md)</sub>

@@ -2,7 +2,7 @@
 
 # 04 · Core Charts & Tables, Formatting, Themes
 
-> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 1 · Day 5 (Fri 11 Sep 2026) + Lab Week 2 · Day 6 · 🎯 **Level:** Basic
+> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 1 · Day 5 + Lab Week 2 · Day 6 · 🎯 **Level:** Basic
 
 **In this chapter**
 - [How a chart is defined](#1-how-a-chart-is-defined)

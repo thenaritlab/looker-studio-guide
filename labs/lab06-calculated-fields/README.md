@@ -73,4 +73,7 @@
 **Stretch goal:** เพิ่ม `Sales Rank` ด้วย **Running calculation → Rank** ระดับ chart และ `% of Total` ด้วย *Percent of total*; อธิบายว่าทำไมสองตัวนี้เป็น field ระดับ data source ไม่ได้
 
 ---
-<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [Back to TOC](../../docs/en/00-toc.md) · [กลับสารบัญ](../../docs/th/00-toc.md)</sub>
+
+← [ก่อนหน้า / Previous: Lab 05 — Filters & Controls](../lab05-filters-controls/README.md) | 📖 [บทเรียนของ Lab นี้ / Chapter: TH](../../docs/th/06-calculated-fields.md) · [EN](../../docs/en/06-calculated-fields.md) | [ถัดไป / Next: Lab 07 — Blending](../lab07-blending/README.md) →
+
+<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [กลับสารบัญ](../../docs/th/00-toc.md) · [Back to TOC](../../docs/en/00-toc.md)</sub>

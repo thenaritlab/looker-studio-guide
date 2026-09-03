@@ -105,4 +105,7 @@
 **Stretch goal:** ตั้งเวลา rollup ด้วย BigQuery scheduled query (รายวัน 06:00 Asia/Bangkok) แล้วสลับหน้า overview ของ Lab 09 ไปใช้มัน
 
 ---
-<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [Back to TOC](../../docs/en/00-toc.md) · [กลับสารบัญ](../../docs/th/00-toc.md)</sub>
+
+← [ก่อนหน้า / Previous: Lab 09 — Dashboard Design](../lab09-dashboard-design/README.md) | 📖 [บทเรียนของ Lab นี้ / Chapter: TH](../../docs/th/10-performance.md) · [EN](../../docs/en/10-performance.md) | [ถัดไป / Next: Lab 11 — Sharing & Pro](../lab11-sharing-pro/README.md) →
+
+<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [กลับสารบัญ](../../docs/th/00-toc.md) · [Back to TOC](../../docs/en/00-toc.md)</sub>

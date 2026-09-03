@@ -83,4 +83,7 @@
 **Stretch goal:** Query dataset สาธารณะ `bigquery-public-data.google_trends.top_terms` สำหรับประเทศไทยด้วย custom query แล้วเชื่อมเป็น source ที่ 7
 
 ---
-<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [Back to TOC](../../docs/en/00-toc.md) · [กลับสารบัญ](../../docs/th/00-toc.md)</sub>
+
+← [ก่อนหน้า / Previous: Lab 02 — Getting Started](../lab02-getting-started/README.md) | 📖 [บทเรียนของ Lab นี้ / Chapter: TH](../../docs/th/03-data-sources.md) · [EN](../../docs/en/03-data-sources.md) | [ถัดไป / Next: Lab 04 — Charts & Tables](../lab04-charts-tables/README.md) →
+
+<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [กลับสารบัญ](../../docs/th/00-toc.md) · [Back to TOC](../../docs/en/00-toc.md)</sub>

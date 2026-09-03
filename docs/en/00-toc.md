@@ -2,7 +2,7 @@
 
 # 00 · Table of Contents & How to Use This Guide
 
-> ⏱ **Estimated time:** 15 min · 📅 **Roadmap day:** Week 1 · Day 1 (Mon 7 Sep 2026) · 🎯 **Level:** —
+> ⏱ **Estimated time:** 15 min · 📅 **Roadmap day:** Week 1 · Day 1 · 🎯 **Level:** —
 
 **In this chapter**
 - [Who this guide is for](#1-who-this-guide-is-for)

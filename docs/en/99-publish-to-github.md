@@ -2,7 +2,7 @@
 
 # 99 · Publishing This Repo to GitHub — Step-by-Step Commands
 
-> ⏱ **Estimated time:** 45 min · 📅 **Roadmap day:** Week 6 · Day 30 (Fri 16 Oct 2026) · 🎯 **Level:** Appendix
+> ⏱ **Estimated time:** 45 min · 📅 **Roadmap day:** Week 6 · Day 30 · 🎯 **Level:** Appendix
 
 **In this chapter**
 - [Prerequisites](#1-prerequisites)

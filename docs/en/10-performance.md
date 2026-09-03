@@ -2,7 +2,7 @@
 
 # 10 · Performance, Extract Data, BigQuery Best Practices
 
-> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 4 · Day 18–19 (Wed 30 Sep – Thu 1 Oct 2026) · 🎯 **Level:** Advanced
+> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 4 · Day 18–19 · 🎯 **Level:** Advanced
 
 **In this chapter**
 - [How Looker Studio runs queries](#1-how-looker-studio-runs-queries)

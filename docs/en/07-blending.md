@@ -2,7 +2,7 @@
 
 # 07 · Data Blending & Joins
 
-> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 3 · Day 12–13 (Tue 22 – Wed 23 Sep 2026) · 🎯 **Level:** Intermediate
+> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 3 · Day 12–13 · 🎯 **Level:** Intermediate
 
 **In this chapter**
 - [What a blend is (and is not)](#1-what-a-blend-is-and-is-not)

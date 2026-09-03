@@ -2,7 +2,7 @@
 
 # 14 · Capstone Project: End-to-End Sales & Marketing Dashboard
 
-> ⏱ **Estimated time:** 4 × 60 min · 📅 **Roadmap day:** Week 6 · Day 26–29 (Mon 12 – Thu 15 Oct 2026) · 🎯 **Level:** Capstone
+> ⏱ **Estimated time:** 4 × 60 min · 📅 **Roadmap day:** Week 6 · Day 26–29 · 🎯 **Level:** Capstone
 
 **In this chapter**
 - [The brief](#1-the-brief)

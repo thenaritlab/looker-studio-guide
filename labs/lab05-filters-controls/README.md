@@ -69,4 +69,7 @@
 **Stretch goal:** เพิ่มหน้าที่สองที่มีแถบ KPI เดียวกันแล้วยืนยันว่า control ระดับ report ติดไปด้วย; จากนั้นทำให้ KPI หนึ่งตัว *ไม่* ตอบสนอง date control (Custom date range) และอธิบายว่ามีประโยชน์เมื่อไร
 
 ---
-<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [Back to TOC](../../docs/en/00-toc.md) · [กลับสารบัญ](../../docs/th/00-toc.md)</sub>
+
+← [ก่อนหน้า / Previous: Lab 04 — Charts & Tables](../lab04-charts-tables/README.md) | 📖 [บทเรียนของ Lab นี้ / Chapter: TH](../../docs/th/05-filters-controls.md) · [EN](../../docs/en/05-filters-controls.md) | [ถัดไป / Next: Lab 06 — Calculated Fields](../lab06-calculated-fields/README.md) →
+
+<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [กลับสารบัญ](../../docs/th/00-toc.md) · [Back to TOC](../../docs/en/00-toc.md)</sub>

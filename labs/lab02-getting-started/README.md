@@ -77,4 +77,7 @@
 **Stretch goal:** เพิ่ม scorecard ที่สองสำหรับ `profit` แล้วใส่ **Comparison date range → Previous period** ให้ทั้งสอง scorecard และอธิบายความหมายของลูกศร
 
 ---
-<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [Back to TOC](../../docs/en/00-toc.md) · [กลับสารบัญ](../../docs/th/00-toc.md)</sub>
+
+← [ก่อนหน้า / Previous: บท 02 / Chapter 02](../../docs/th/02-getting-started.md) | 📖 [บทเรียนของ Lab นี้ / Chapter: TH](../../docs/th/02-getting-started.md) · [EN](../../docs/en/02-getting-started.md) | [ถัดไป / Next: Lab 03 — Data Sources](../lab03-data-sources/README.md) →
+
+<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [กลับสารบัญ](../../docs/th/00-toc.md) · [Back to TOC](../../docs/en/00-toc.md)</sub>

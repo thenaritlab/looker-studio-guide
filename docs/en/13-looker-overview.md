@@ -2,7 +2,7 @@
 
 # 13 · Looker (Enterprise) Overview: LookML, Semantic Layer, Migration Path
 
-> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 5 · Day 24–25 (Thu 8 – Fri 9 Oct 2026) · 🎯 **Level:** Advanced
+> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 5 · Day 24–25 · 🎯 **Level:** Advanced
 
 **In this chapter**
 - [Looker in one picture](#1-looker-in-one-picture)

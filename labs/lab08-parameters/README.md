@@ -85,4 +85,7 @@
 **Stretch goal:** เพิ่ม `@DS_USER_EMAIL` ใน custom query โดย join กับตาราง mapping เล็ก ๆ `rep_email → sales_rep` ที่คุณอัปโหลด เพื่อให้ผู้อ่านแต่ละคนเห็นเฉพาะแถวของตัวเอง
 
 ---
-<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [Back to TOC](../../docs/en/00-toc.md) · [กลับสารบัญ](../../docs/th/00-toc.md)</sub>
+
+← [ก่อนหน้า / Previous: Lab 07 — Blending](../lab07-blending/README.md) | 📖 [บทเรียนของ Lab นี้ / Chapter: TH](../../docs/th/08-parameters.md) · [EN](../../docs/en/08-parameters.md) | [ถัดไป / Next: Lab 09 — Dashboard Design](../lab09-dashboard-design/README.md) →
+
+<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [กลับสารบัญ](../../docs/th/00-toc.md) · [Back to TOC](../../docs/en/00-toc.md)</sub>

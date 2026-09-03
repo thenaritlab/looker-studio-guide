@@ -2,7 +2,7 @@
 
 # 08 · Parameters & Dynamic Reports
 
-> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 3 · Day 14–15 (Thu 24 – Fri 25 Sep 2026) · 🎯 **Level:** Intermediate
+> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 3 · Day 14–15 · 🎯 **Level:** Intermediate
 
 **In this chapter**
 - [What a parameter is](#1-what-a-parameter-is)

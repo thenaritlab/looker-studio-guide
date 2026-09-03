@@ -69,4 +69,7 @@
 **Stretch goal:** ทำ RLS แบบเดียวกันใน BigQuery ด้วย `CREATE ROW ACCESS POLICY` และ viewer credentials; เปรียบเทียบพฤติกรรมกับ email filter
 
 ---
-<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [Back to TOC](../../docs/en/00-toc.md) · [กลับสารบัญ](../../docs/th/00-toc.md)</sub>
+
+← [ก่อนหน้า / Previous: Lab 10 — Performance](../lab10-performance/README.md) | 📖 [บทเรียนของ Lab นี้ / Chapter: TH](../../docs/th/11-sharing-pro.md) · [EN](../../docs/en/11-sharing-pro.md) | [ถัดไป / Next: Lab 12 — Community Viz](../lab12-community-viz/README.md) →
+
+<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [กลับสารบัญ](../../docs/th/00-toc.md) · [Back to TOC](../../docs/en/00-toc.md)</sub>

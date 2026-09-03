@@ -73,4 +73,7 @@
 **Stretch goal:** สร้างหน้ามือถือ 400 × 1400 ที่มี KPI ซ้อนกันและหนึ่ง chart ต่อแถว; ลิงก์ด้วย Button ที่เห็นเฉพาะหน้าหลัก
 
 ---
-<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [Back to TOC](../../docs/en/00-toc.md) · [กลับสารบัญ](../../docs/th/00-toc.md)</sub>
+
+← [ก่อนหน้า / Previous: Lab 08 — Parameters](../lab08-parameters/README.md) | 📖 [บทเรียนของ Lab นี้ / Chapter: TH](../../docs/th/09-dashboard-design.md) · [EN](../../docs/en/09-dashboard-design.md) | [ถัดไป / Next: Lab 10 — Performance](../lab10-performance/README.md) →
+
+<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [กลับสารบัญ](../../docs/th/00-toc.md) · [Back to TOC](../../docs/en/00-toc.md)</sub>

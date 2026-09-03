@@ -2,7 +2,7 @@
 
 # 12 · Community Visualizations & Advanced Customization
 
-> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 5 · Day 22–23 (Tue 6 – Wed 7 Oct 2026) · 🎯 **Level:** Advanced
+> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 5 · Day 22–23 · 🎯 **Level:** Advanced
 
 **In this chapter**
 - [What community visualizations are](#1-what-community-visualizations-are)

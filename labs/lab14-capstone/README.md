@@ -103,4 +103,7 @@
 **Stretch goal:** แทน blend รายเดือนด้วย BigQuery view `v_monthly_kpi` แล้วเทียบเวลาโหลด; เพิ่มสรุปจาก Gemini (Pro) หรือข้อความ "สัปดาห์นี้ใน 3 ข้อ" ที่เขียนเอง
 
 ---
-<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [Back to TOC](../../docs/en/00-toc.md) · [กลับสารบัญ](../../docs/th/00-toc.md)</sub>
+
+← [ก่อนหน้า / Previous: Lab 13 — Looker Overview](../lab13-looker-overview/README.md) | 📖 [บทเรียนของ Lab นี้ / Chapter: TH](../../docs/th/14-capstone.md) · [EN](../../docs/en/14-capstone.md) | [ถัดไป / Next: บท 99 เผยแพร่ขึ้น GitHub / Ch 99 Publish](../../docs/th/99-publish-to-github.md) →
+
+<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [กลับสารบัญ](../../docs/th/00-toc.md) · [Back to TOC](../../docs/en/00-toc.md)</sub>

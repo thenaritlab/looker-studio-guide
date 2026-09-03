@@ -2,7 +2,7 @@
 
 # 06 · Calculated Fields & Functions (Text, Date, CASE, REGEXP)
 
-> ⏱ **Estimated time:** 2 × 60 min · 📅 **Roadmap day:** Week 2 · Day 9–10 (Thu 17 – Fri 18 Sep 2026) + Lab Week 3 · Day 11 · 🎯 **Level:** Intermediate
+> ⏱ **Estimated time:** 2 × 60 min · 📅 **Roadmap day:** Week 2 · Day 9–10 + Lab Week 3 · Day 11 · 🎯 **Level:** Intermediate
 
 **In this chapter**
 - [Where calculated fields live](#1-where-calculated-fields-live)

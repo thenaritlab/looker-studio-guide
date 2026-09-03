@@ -2,7 +2,7 @@
 
 # 01 · Self-Service BI Landscape: Tableau vs Power BI vs Looker Studio vs Looker
 
-> ⏱ **Estimated time:** 45 min · 📅 **Roadmap day:** Week 1 · Day 1 (Mon 7 Sep 2026) · 🎯 **Level:** Intro
+> ⏱ **Estimated time:** 45 min · 📅 **Roadmap day:** Week 1 · Day 1 · 🎯 **Level:** Intro
 
 **In this chapter**
 - [Four tools, two families](#1-four-tools-two-families)

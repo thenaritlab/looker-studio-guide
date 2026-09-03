@@ -2,7 +2,7 @@
 
 # 03 · Data Sources & Connectors (Sheets, CSV, BigQuery)
 
-> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 1 · Day 3–4 (Wed 9 – Thu 10 Sep 2026) · 🎯 **Level:** Basic
+> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 1 · Day 3–4 · 🎯 **Level:** Basic
 
 **In this chapter**
 - [Connector types](#1-connector-types)

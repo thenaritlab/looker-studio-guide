@@ -69,4 +69,7 @@
 **Stretch goal:** เพิ่ม aggregate table ผ่าน `aggregate_table` ใน explore สำหรับ month × channel และอธิบายว่า aggregate awareness จะเลือกใช้ rollup จาก Lab 10 อัตโนมัติอย่างไร
 
 ---
-<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [Back to TOC](../../docs/en/00-toc.md) · [กลับสารบัญ](../../docs/th/00-toc.md)</sub>
+
+← [ก่อนหน้า / Previous: Lab 12 — Community Viz](../lab12-community-viz/README.md) | 📖 [บทเรียนของ Lab นี้ / Chapter: TH](../../docs/th/13-looker-overview.md) · [EN](../../docs/en/13-looker-overview.md) | [ถัดไป / Next: Lab 14 — Capstone](../lab14-capstone/README.md) →
+
+<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [กลับสารบัญ](../../docs/th/00-toc.md) · [Back to TOC](../../docs/en/00-toc.md)</sub>

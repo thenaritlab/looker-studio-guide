@@ -2,7 +2,7 @@
 
 # 02 · Getting Started: Account, UI Tour, First Report in 15 Minutes
 
-> ⏱ **Estimated time:** 45 min (+ Lab 45 min) · 📅 **Roadmap day:** Week 1 · Day 2 (Tue 8 Sep 2026) · 🎯 **Level:** Basic
+> ⏱ **Estimated time:** 45 min (+ Lab 45 min) · 📅 **Roadmap day:** Week 1 · Day 2 · 🎯 **Level:** Basic
 
 **In this chapter**
 - [Sign in and the home page](#1-sign-in-and-the-home-page)

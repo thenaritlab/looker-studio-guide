@@ -81,4 +81,7 @@
 **Stretch goal:** เผยแพร่ custom viz ไป bucket สาธารณะ แชร์พาธ manifest ให้เพื่อน แล้วให้เขาใช้ในรายงานของเขา
 
 ---
-<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [Back to TOC](../../docs/en/00-toc.md) · [กลับสารบัญ](../../docs/th/00-toc.md)</sub>
+
+← [ก่อนหน้า / Previous: Lab 11 — Sharing & Pro](../lab11-sharing-pro/README.md) | 📖 [บทเรียนของ Lab นี้ / Chapter: TH](../../docs/th/12-community-viz.md) · [EN](../../docs/en/12-community-viz.md) | [ถัดไป / Next: Lab 13 — Looker Overview](../lab13-looker-overview/README.md) →
+
+<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [กลับสารบัญ](../../docs/th/00-toc.md) · [Back to TOC](../../docs/en/00-toc.md)</sub>

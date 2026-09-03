@@ -71,4 +71,7 @@
 **Stretch goal:** เพิ่ม **drill-down** บน bar chart: `sales_channel → payment_method` และ **optional metric** สลับระหว่างยอดขายกับกำไร
 
 ---
-<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [Back to TOC](../../docs/en/00-toc.md) · [กลับสารบัญ](../../docs/th/00-toc.md)</sub>
+
+← [ก่อนหน้า / Previous: Lab 03 — Data Sources](../lab03-data-sources/README.md) | 📖 [บทเรียนของ Lab นี้ / Chapter: TH](../../docs/th/04-charts-tables.md) · [EN](../../docs/en/04-charts-tables.md) | [ถัดไป / Next: Lab 05 — Filters & Controls](../lab05-filters-controls/README.md) →
+
+<sub>Made by **The Narit Lab** · [MIT License](../../LICENSE) · [กลับสารบัญ](../../docs/th/00-toc.md) · [Back to TOC](../../docs/en/00-toc.md)</sub>

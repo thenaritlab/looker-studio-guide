@@ -2,7 +2,7 @@
 
 # 09 · Dashboard Design Principles (Layout, Color, Storytelling)
 
-> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 4 · Day 16–17 (Mon 28 – Tue 29 Sep 2026) · 🎯 **Level:** Intermediate
+> ⏱ **Estimated time:** 60 min · 📅 **Roadmap day:** Week 4 · Day 16–17 · 🎯 **Level:** Intermediate
 
 **In this chapter**
 - [Start with the audience and the decision](#1-start-with-the-audience-and-the-decision)
