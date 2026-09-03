@@ -25,8 +25,6 @@
 | แท็บ **Manage access** | เจ้าของสั่ง *prevent editors from changing access*, *disable downloading, printing and copying for viewers* ได้ |
 | **Transfer ownership** | ย้ายให้ service/shared account ก่อนที่คนจะลาออก |
 
-![Share dialog](../../assets/images/ch11-01.png)
-
 ผู้อ่านต้องมี **สองอย่าง**: สิทธิ์เข้าถึง *รายงาน* และ (ขึ้นกับ credential) สิทธิ์เข้าถึง *ข้อมูล* ticket ส่วนใหญ่มาจากอย่างที่สอง
 
 ## 2. การแชร์ data source และผลของ credential
@@ -55,8 +53,6 @@
 - ส่งเป็น **PDF** (พร้อมลิงก์) จับสถานะ filter/control ได้: ตั้ง control ก่อน แล้วตั้งเวลา → *include current filter state*
 - Free tier: อีเมลเท่านั้น **🔒 Pro เท่านั้น:** ส่งไป **Google Chat space**, จำนวน schedule ต่อรายงานมากขึ้น, schedule เป็นของ workspace (อยู่รอดแม้พนักงานลาออก)
 
-![Schedule delivery](../../assets/images/ch11-02.png)
-
 ## 5. Embedding
 
 **File → Embed report** (หรือ Share → Embed)
@@ -65,8 +61,6 @@
 3. วางในเว็บไซต์ Google Sites, Notion, Confluence หรือพอร์ทัล
 
 กติกาสิทธิ์ยังใช้อยู่: ผู้อ่านต้องล็อกอิน Google account ที่มีสิทธิ์ เว้นแต่ลิงก์เป็น *Anyone with the link* ส่ง filter/parameter ใน embed URL (บทที่ 08 §8) เพื่อปรับเฉพาะหน้า
-
-![Embed dialog](../../assets/images/ch11-03.png)
 
 > **🔁 มาจาก Tableau/Power BI?** Looker Studio ไม่มี embed SDK หรือ JS API สำหรับ filter/event; embedding คือ iframe + URL parameter ถ้าต้องการ embedding ระดับแอปให้ใช้ Looker (บทที่ 13)
 
@@ -91,8 +85,6 @@ Pro เป็น subscription แบบจ่ายต่อผู้ใช้�
 | **Gemini in Looker Studio** (สร้าง chart ช่วยเขียน calculated field สร้าง slide/summary) | จำกัด/ทยอยเปิด | ✔ |
 | Admin control: audit log ปิดการแชร์สาธารณะระดับองค์กร | พื้นฐาน | ✔ |
 | Data governance ระดับ enterprise ผ่าน Looker | — | ✔ |
-
-![Team workspace](../../assets/images/ch11-04.png)
 
 ควรซื้อเมื่อ: ทีม >5 คนดูแลรายงาน เอเจนซีที่ทำงานให้ลูกค้า หรือองค์กรที่เคยเจอ "เจ้าของลาออกแล้วรายงานพัง" สักครั้ง ไม่ต้องซื้อเมื่อ: นักวิเคราะห์คนเดียวและธุรกิจเล็กที่ใช้ Sheets
 

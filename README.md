@@ -109,7 +109,7 @@ looker-studio-guide/
 ├── README.md (ไทย) · README.en.md (English)
 ├── LICENSE · CREDITS.md · ROADMAP.md · CONTRIBUTING.md
 ├── assets/logo/        โลโก้ The Narit Lab (SVG)
-├── assets/images/      รูปประกอบบทเรียน
+├── assets/images/      รายการภาพสำหรับฉบับมีภาพประกอบ (อนาคต)
 ├── docs/th/            บทเรียนภาษาไทย 00–99
 ├── docs/en/            บทเรียน English 00–99
 ├── labs/               Lab 02–14 (สองภาษาในไฟล์เดียว)

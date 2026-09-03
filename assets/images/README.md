@@ -1,8 +1,8 @@
 # Screenshot placeholders / รายการภาพประกอบ
 
-Chapters reference images as `../../assets/images/chXX-YY.png`. The files are **not** included yet — this list tells contributors exactly what each screenshot should show. Capture at 1600 px wide, light theme, English UI, no personal data visible.
+The current edition is **text-first and ships without screenshots**. This shot-list is kept for a future illustrated edition — it tells contributors exactly what each image should show. Capture at 1600 px wide, light theme, English UI, no personal data visible, and embed as `../../assets/images/chXX-YY.png`.
 
-บทเรียนอ้างอิงรูปในชื่อ `chXX-YY.png` รายการด้านล่างบอกว่าแต่ละรูปควรเป็นภาพอะไร (ความกว้าง 1600 px, ธีมสว่าง, UI ภาษาอังกฤษ, ไม่มีข้อมูลส่วนตัว)
+ฉบับปัจจุบันเป็นคู่มือแบบเน้นตัวหนังสือ ยังไม่มีภาพหน้าจอ — รายการด้านล่างเก็บไว้สำหรับฉบับมีภาพประกอบในอนาคต ว่าแต่ละรูปควรเป็นภาพอะไร (กว้าง 1600 px, ธีมสว่าง, UI ภาษาอังกฤษ, ไม่มีข้อมูลส่วนตัว)
 
 | File | What it should show / ภาพควรแสดง |
 |---|---|

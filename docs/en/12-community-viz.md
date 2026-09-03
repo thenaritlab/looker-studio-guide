@@ -22,8 +22,6 @@ Two kinds:
 - **Gallery** visualizations — published by Google partners and the community, one click to use.
 - **Custom** visualizations — hosted in your own Google Cloud Storage bucket, private to your organisation.
 
-![Gallery](../../assets/images/ch12-01.png)
-
 ## 2. Using one from the gallery
 
 1. **Add a chart → Community visualizations and components → Explore more**.
@@ -99,8 +97,6 @@ dscc.subscribeToData(draw, {transform: dscc.objectTransform});
 5. **Use in Looker Studio**: Add a chart → Community visualizations → **Build your own** → paste the manifest path `gs://your-bucket/dev` → **Submit** → add the component.
 
 6. **Publish** (optional): `npm run build:prod && npm run push:prod`; make the bucket objects publicly readable if colleagues outside your project need it; submit to the gallery if you want it public.
-
-![Custom viz manifest in GCS](../../assets/images/ch12-02.png)
 
 > **💡 Tip** Support **theme** colors (`data.theme`) and **interactions** (`dscc.sendInteraction` for cross-filtering) to make your viz feel native.
 

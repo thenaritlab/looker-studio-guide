@@ -18,8 +18,6 @@
 
 Every chart in Looker Studio is: **data source + dimensions + metrics + date range + sort + filters + style**. The **Setup** tab holds the first six; **Style** holds the last. When a chart looks wrong, check Setup first — 80% of problems are an aggregation or a date range.
 
-![Add a chart menu](../../assets/images/ch04-01.png)
-
 ## 2. Chart type guide
 
 | Question you are answering | Use | Avoid |
@@ -51,8 +49,6 @@ Every chart in Looker Studio is: **data source + dimensions + metrics + date ran
 - Totals per row/column; **Show totals** can be set separately.
 - Limit: 500k cells rendered; keep column dimensions low-cardinality (months, regions), not order IDs.
 
-![Table with heatmap and bars](../../assets/images/ch04-02.png)
-
 ## 4. Scorecards and comparisons
 
 A scorecard shows one aggregated metric. Two features turn it into a KPI tile:
@@ -64,8 +60,6 @@ Common patterns:
 - Sales this month vs last month: Default date range *This month*, comparison *Previous period*.
 - YTD vs last YTD: *Year to date*, comparison *Previous year*.
 - Profit margin: metric = calculated field `SUM(profit) / SUM(sales_amount)` formatted as Percent (chapter 06).
-
-![Scorecard with comparison](../../assets/images/ch04-04.png)
 
 > **💡 Tip** Put 3–5 scorecards in a row at the top of a page — the *KPI strip*. Readers expect it.
 
@@ -97,8 +91,6 @@ Common patterns:
 
 - **Theme**: pick from built-in themes, or **Extract theme from image** (upload a logo, it builds a palette). **Customize** to set fonts, chart colors, background, border radius. Theme settings apply report-wide; per-chart Style overrides them.
 - **Layout**: canvas size (default 1200 × 900; use 1600 wide for TVs), **Has margin**, **Grid settings** (snap to grid, 10 px is a good default), **Display mode** (Fit to width vs Actual size), navigation type (Left, Tab, Top).
-
-![Theme and layout](../../assets/images/ch04-03.png)
 
 > **💡 Tip** Set the theme *before* building 30 charts. Changing theme later is fine, but per-chart overrides you made will stick and look inconsistent.
 

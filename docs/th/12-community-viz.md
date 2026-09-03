@@ -22,8 +22,6 @@
 - **Gallery** — เผยแพร่โดยพาร์ทเนอร์ของ Google และชุมชน คลิกเดียวใช้ได้
 - **Custom** — โฮสต์ใน Google Cloud Storage bucket ของคุณเอง ส่วนตัวสำหรับองค์กร
 
-![Gallery](../../assets/images/ch12-01.png)
-
 ## 2. ใช้จาก gallery
 
 1. **Add a chart → Community visualizations and components → Explore more**
@@ -99,8 +97,6 @@ dscc.subscribeToData(draw, {transform: dscc.objectTransform});
 5. **ใช้ใน Looker Studio**: Add a chart → Community visualizations → **Build your own** → วางพาธ manifest `gs://your-bucket/dev` → **Submit** → เพิ่ม component
 
 6. **เผยแพร่** (ไม่บังคับ): `npm run build:prod && npm run push:prod`; ตั้ง object ใน bucket ให้อ่านได้สาธารณะถ้าเพื่อนร่วมงานนอก project ต้องใช้; ส่งเข้า gallery ถ้าอยากให้เป็นสาธารณะ
-
-![Custom viz manifest in GCS](../../assets/images/ch12-02.png)
 
 > **💡 Tip** รองรับสี **theme** (`data.theme`) และ **interaction** (`dscc.sendInteraction` สำหรับ cross-filtering) เพื่อให้ viz ดูเหมือนของแท้
 

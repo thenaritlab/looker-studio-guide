@@ -87,16 +87,12 @@ explore: sales_orders {
 
 Notice what this buys you compared with chapter 07's blend: joins declared once with cardinality (`relationship`) so Looker avoids fan-out double counting, symmetric aggregates, reusable measures with formats, and RLS in one line.
 
-![LookML view](../../assets/images/ch13-02.png)
-
 ## 4. Explores, Looks, dashboards and boards
 
 - **Explore**: pick dimensions/measures from the field picker → Looker writes SQL → table + visualization. Filters, pivots, table calculations (yes, Looker has them), and **drill** to row detail defined in LookML.
 - **Look**: save an Explore query. **Dashboard**: tiles, cross-filtering, dashboard filters mapped to fields, scheduling and alerts (`when total_sales < 1M`).
 - **Boards** curate dashboards for a team.
 - **Gemini in Looker**: natural-language Explore, formula/LookML assistance, dashboard summaries.
-
-![Explore UI](../../assets/images/ch13-01.png)
 
 ## 5. Governance features that Looker Studio lacks
 
@@ -118,8 +114,6 @@ The **Looker connector** in Looker Studio lets you build Looker Studio reports o
 
 - **Looker**: modelling, governance, embedded analytics, alerts.
 - **Looker Studio (Pro)**: fast self-service reporting for business users and external sharing.
-
-![Looker Studio connected to a Looker Explore](../../assets/images/ch13-03.png)
 
 ## 7. Choosing: Looker Studio → Pro → Looker
 

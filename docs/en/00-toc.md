@@ -40,7 +40,7 @@ flowchart LR
 - Each chapter starts with **⏱ Estimated time** and **📅 Roadmap day** so you know where you are in the 6-week plan.
 - Callouts: 💡 Tip · ⚠️ Warning · 🧪 Lab · 🔒 Pro only · 🔁 Coming from Tableau/Power BI?
 - Every lab ends with **checkpoint questions**. If you cannot answer them, re-read the section — the labs build on each other.
-- Screenshots are referenced as placeholders (`assets/images/chXX-YY.png`) so the guide stays accurate even when the UI changes slightly. The text always describes the exact click path.
+- The guide is text-first: every step describes the exact click path, so it stays accurate even when the UI changes slightly.
 
 ## 4. Full table of contents
 

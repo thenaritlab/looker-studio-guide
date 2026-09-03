@@ -27,8 +27,6 @@ Google confusingly sells both under the "Looker" name:
 | **Looker Studio Pro** | — | Paid add-on: team workspaces, Google Cloud support, SLA, scheduled delivery to Chat, mobile app, Gemini features, Looker-linked personal reports |
 | **Looker** (a.k.a. Looker Core) | Looker (acquired 2020) | Enterprise platform with **LookML** semantic layer, governed Explores, embedded analytics, API-first |
 
-![Four home screens](../../assets/images/ch01-01.png)
-
 ## 2. Feature comparison matrix
 
 | Criterion | Tableau | Power BI | Looker Studio | Looker |

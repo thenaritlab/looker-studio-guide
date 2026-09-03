@@ -18,8 +18,6 @@
 2. ครั้งแรกจะให้ยอมรับข้อกำหนด เลือกประเทศและการรับข่าวสาร (เปลี่ยนภายหลังได้ที่ **Settings**)
 3. จะเข้าสู่หน้า **Home** แถบซ้ายมี **Reports**, **Data sources**, **Explorer**, **Templates** ด้านบนมีปุ่ม **Create** และช่องค้นหา
 
-![หน้า Home](../../assets/images/ch02-01.png)
-
 > **💡 Tip** ถ้าองค์กรใช้ Google Workspace แล้วขึ้นว่า "You don't have access" แปลว่าผู้ดูแลระบบปิดบริการ Looker Studio ไว้ ให้ขอ IT เปิดบริการใน Admin console แทนการเอาข้อมูลบริษัทไปใช้กับบัญชีส่วนตัว
 
 ## 2. Report, Data source, Explorer — 3 วัตถุหลัก
@@ -35,8 +33,6 @@ Data source มีได้ 2 แบบ คือ **embedded** (อยู่ใ�
 ## 3. ทัวร์หน้าจอ Report editor
 
 คลิก **Create → Report** แล้วเพิ่ม data source ใดก็ได้เพื่อเปิด editor จะเห็น 4 โซน
-
-![โซนใน editor](../../assets/images/ch02-02.png)
 
 1. **Toolbar** (บน): undo/redo, **Add page**, **Add data**, **Add a chart**, **Add a control**, ข้อความ/รูป/รูปทรง, **Theme and layout**, สลับ **View / Edit**, **Share**
 2. **Canvas** (กลาง): ตัวหน้ารายงาน ขนาดเริ่มต้น 1200 × 900 px เปลี่ยนได้ที่ **Theme and layout → Layout**
@@ -62,8 +58,6 @@ Data source มีได้ 2 แบบ คือ **embedded** (อยู่ใ�
 8. คลิก **Theme and layout** แล้วเลือก theme ใดก็ได้ ทั้งหน้าจะเปลี่ยนสไตล์ตาม
 9. เปลี่ยนชื่อรายงาน (มุมซ้ายบน) เป็น *Sales Overview — Lab 02*
 10. คลิก **View** เพื่อดูแบบผู้อ่าน ลองเปลี่ยนช่วงวันที่แล้วดู chart ทั้ง 3 เปลี่ยนตาม
-
-![รายงานแรก](../../assets/images/ch02-04.png)
 
 > **🧪 Lab** [Lab 02](../../labs/lab02-getting-started/README.md) ทำซ้ำขั้นตอนนี้พร้อม checkpoint และเพิ่มหน้าที่ 2
 

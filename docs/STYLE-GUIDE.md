@@ -56,7 +56,7 @@ This guide keeps all 16 chapters × 2 languages consistent. Follow it for any ne
 
 ## 6. Screenshots
 
-`![alt text](../../assets/images/chNN-YY.png)` — YY is a two-digit sequence within the chapter. Add the description to `assets/images/README.md`.
+(Optional, for future editions) `![alt text](../../assets/images/chNN-YY.png)` — YY is a two-digit sequence within the chapter. Add the description to `assets/images/README.md`. The current edition is text-first and ships without screenshots.
 
 ## 7. Language rules
 

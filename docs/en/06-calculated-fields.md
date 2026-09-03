@@ -22,8 +22,6 @@
 | **Data source** | Data source editor → **Add a field** | Every report using the source | Business logic everyone needs (margin, order bucket) |
 | **Chart** | Chart Setup → **Add metric/dimension → Create field** | One chart | Quick experiments, chart-specific labels |
 
-![Add a field](../../assets/images/ch06-01.png)
-
 The editor validates as you type: green check = OK; red = error with a message. Field names are case-sensitive and appear as `field_name`; text literals use `"double"` or `'single'` quotes.
 
 > **💡 Tip** Chart-level fields cannot be reused. Once a formula works, recreate it at data-source level and delete the chart copy.
@@ -182,8 +180,6 @@ Notes:
 - Escape backslashes twice in the editor: `\\d`, `\\w`, `\\s`.
 - `REGEXP_MATCH` must match the **entire** string; wrap with `.*…*.` for "contains" or use `REGEXP_CONTAINS`.
 - Regex filters are also available in controls and editor filters (operator *RegExp Match / RegExp Contains*).
-
-![REGEXP formula](../../assets/images/ch06-02.png)
 
 Marketing example — channel family from `channel`:
 

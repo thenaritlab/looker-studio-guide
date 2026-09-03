@@ -47,8 +47,6 @@ sequenceDiagram
 - สำหรับ BigQuery เปิด **BigQuery → Job history** (หรือ `INFORMATION_SCHEMA.JOBS`) แล้วกรองด้วย label `requestor:looker_studio` เพื่อดูแต่ละ query ระยะเวลา และ **bytes billed**
 - ทำ benchmark เร็ว ๆ: chart เดียวกันบน Sheets vs Extract vs BigQuery ตารางดิบ vs BigQuery ตาราง aggregate — Lab 10 ทำสิ่งนี้พอดี
 
-![BigQuery job history](../../assets/images/ch10-01.png)
-
 ## 3. Extract Data connector
 
 **Add data → Extract Data** ถ่ายภาพส่วนหนึ่งของ data source ที่มีอยู่ไปเก็บใน storage ของ Looker Studio เอง
@@ -64,8 +62,6 @@ sequenceDiagram
 | Pre-aggregate ที่ grain ของ extract | field ใหม่ต้อง extract ใหม่ |
 
 เหมาะกับ: dashboard บน GA4/Ads/Sheets ที่ไม่ต้อง real time; สรุปผู้บริหาร; อะไรก็ตามที่มี API quota
-
-![Extract Data](../../assets/images/ch10-02.png)
 
 ## 4. BigQuery: partition, cluster และค่าใช้จ่าย
 

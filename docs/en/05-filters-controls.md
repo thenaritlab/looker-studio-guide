@@ -59,8 +59,6 @@ flowchart TD
 | **Button** | Navigate to page/URL, or reset filters | Navigation, "Clear filters" |
 | **Presentation controls** (Pro/2025+) | Tabbed/segmented containers | App-like reports |
 
-![Drop-down control](../../assets/images/ch05-01.png)
-
 Control setup options worth knowing:
 - **Default selection**: pre-select values (e.g. `Completed`).
 - **Order**: by dimension name or metric value.
@@ -76,8 +74,6 @@ A report has three layers of date logic:
 2. **Date range control** — the viewer's choice. Set its **Default date range** (e.g. *Last 90 days*, *This year to date*, *Advanced* like *Today minus 1 month to Today*).
 3. **Date range dimension** — which date field the control filters (Setup → Date range dimension). Sales charts use `order_date`; a shipping chart may use `ship_date`.
 
-![Date range control](../../assets/images/ch05-02.png)
-
 > **⚠️ Warning** If a chart's date range dimension is blank (e.g. a lookup table with no date), the date control is ignored for that chart silently.
 
 Comparison in controls: viewers cannot set comparison ranges in the control itself; set **Comparison date range** per chart (chapter 04).
@@ -89,8 +85,6 @@ Setup → **Filter → Add a filter**:
 - Build with **Include/Exclude**, field, operator (equals, contains, in, regex match, is null, between…). Combine clauses with **AND**; add a second condition with **OR**.
 - Filters can be applied at chart, group, page, or report level (Page/Report settings).
 
-![Filter editor](../../assets/images/ch05-03.png)
-
 ## 6. Cross-filtering and chart interactions
 
 **Chart interactions** (Setup → bottom) enable **Cross-filtering**: clicking a bar/row/slice filters other charts on the page that share the data source. Ctrl/⌘-click for multi-select; click again to clear.
@@ -98,8 +92,6 @@ Setup → **Filter → Add a filter**:
 - Enable on category charts (bar, pie, table, map), disable on time series unless you want date-brushing (drag on a time series to filter a date range — supported).
 - Cross-filtering respects the same scope rules as controls (page by default; group if grouped).
 - Viewers see a small funnel icon in the chart header when a cross-filter is active.
-
-![Cross-filtering](../../assets/images/ch05-04.png)
 
 ## 7. Filter bar and control behaviour
 

@@ -59,8 +59,6 @@ flowchart TD
 | **Button** | ไปหน้า/URL อื่น หรือรีเซ็ต filter | นำทาง, ปุ่ม "ล้าง filter" |
 | **Presentation controls** (Pro/2025+) | container แบบแท็บ/segment | รายงานที่ดูเหมือนแอป |
 
-![Drop-down control](../../assets/images/ch05-01.png)
-
 ตัวเลือกใน Setup ของ control ที่ควรรู้
 - **Default selection**: เลือกค่าไว้ล่วงหน้า (เช่น `Completed`)
 - **Order**: เรียงตามชื่อ dimension หรือค่าของ metric
@@ -76,8 +74,6 @@ flowchart TD
 2. **Date range control** — ตัวเลือกของผู้อ่าน ตั้ง **Default date range** ได้ (เช่น *Last 90 days*, *This year to date*, *Advanced* อย่าง *Today minus 1 month ถึง Today*)
 3. **Date range dimension** — control จะกรอง field วันที่ไหน (Setup → Date range dimension) chart ยอดขายใช้ `order_date` ส่วน chart การจัดส่งอาจใช้ `ship_date`
 
-![Date range control](../../assets/images/ch05-02.png)
-
 > **⚠️ Warning** ถ้า date range dimension ของ chart ว่าง (เช่น ตาราง lookup ที่ไม่มีวันที่) date control จะถูกเมินสำหรับ chart นั้นแบบเงียบ ๆ
 
 การเปรียบเทียบใน control: ผู้อ่านตั้งช่วงเปรียบเทียบเองใน control ไม่ได้ ต้องตั้ง **Comparison date range** รายอันที่ chart (บทที่ 04)
@@ -89,8 +85,6 @@ Setup → **Filter → Add a filter**
 - สร้างด้วย **Include/Exclude**, field, operator (equals, contains, in, regex match, is null, between…) เงื่อนไขในบรรทัดเดียวกันเชื่อมด้วย **AND** เพิ่มบรรทัด **OR** ได้
 - ใช้ได้ที่ระดับ chart, group, page หรือ report (ที่ Page/Report settings)
 
-![Filter editor](../../assets/images/ch05-03.png)
-
 ## 6. Cross-filtering และ chart interaction
 
 **Chart interactions** (ล่างสุดของ Setup) เปิด **Cross-filtering**: คลิกแท่ง/แถว/ชิ้นเพื่อกรอง chart อื่นในหน้าที่ใช้ data source เดียวกัน กด Ctrl/⌘ ค้างเพื่อเลือกหลายค่า คลิกซ้ำเพื่อล้าง
@@ -98,8 +92,6 @@ Setup → **Filter → Add a filter**
 - เปิดกับ chart ประเภทหมวดหมู่ (bar, pie, table, map) ปิดกับ time series เว้นแต่ต้องการลากเลือกช่วงวันที่ (date brushing ทำได้)
 - Cross-filtering ใช้กติกาขอบเขตเดียวกับ control (ระดับ page โดยปริยาย; group ถ้าจัดกลุ่มไว้)
 - ผู้อ่านจะเห็นไอคอนกรวยเล็ก ๆ ที่ header ของ chart เมื่อ cross-filter ทำงานอยู่
-
-![Cross-filtering](../../assets/images/ch05-04.png)
 
 ## 7. Filter bar และพฤติกรรมของ control
 

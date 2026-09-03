@@ -114,11 +114,7 @@ flowchart TD
 
 ## 9. ตัวอย่างก่อน / หลัง
 
-![Before/after](../../assets/images/ch09-01.png)
-
 "ก่อน" แบบที่เจอบ่อย: 14 chart, pie 4 อัน, 3 พาเลต, filter อยู่ 3 มุม, ไม่มีชื่อ "หลัง": แถบ KPI, trend หนึ่งตัว, sorted bar 2 ตัว, ตาราง 1 ตาราง, พาเลตเดียว, filter บนขวา, ข้อความ insight
-
-![Grid-aligned dashboard](../../assets/images/ch09-02.png)
 
 > **🧪 Lab** Lab 09 ให้หน้า "ก่อน" มาและให้คุณสร้างใหม่
 

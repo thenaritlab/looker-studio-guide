@@ -27,8 +27,6 @@ Google ใช้ชื่อ "Looker" กับทั้งสองอย่า
 | **Looker Studio Pro** | — | ส่วนเสริมแบบเสียเงิน: Team workspace, Google Cloud support, SLA, ส่งรายงานเข้า Chat, แอปมือถือ, ฟีเจอร์ Gemini, รายงานที่ผูกกับ Looker แบบ personal link |
 | **Looker** (หรือ Looker Core) | Looker (Google ซื้อกิจการปี 2020) | แพลตฟอร์มระดับองค์กร มี semantic layer ด้วย **LookML**, Explore ที่ควบคุมนิยาม, embedded analytics, API-first |
 
-![หน้าจอเครื่องมือทั้ง 4](../../assets/images/ch01-01.png)
-
 ## 2. ตารางเปรียบเทียบฟีเจอร์
 
 | หัวข้อ | Tableau | Power BI | Looker Studio | Looker |

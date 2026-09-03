@@ -47,8 +47,6 @@ Implications:
 - For BigQuery, open **BigQuery → Job history** (or `INFORMATION_SCHEMA.JOBS`) and filter by label `requestor:looker_studio` to see each query, its duration and **bytes billed**.
 - Build a quick benchmark: same chart on Sheets vs Extract vs BigQuery raw vs BigQuery aggregate table. Lab 10 does exactly this.
 
-![BigQuery job history](../../assets/images/ch10-01.png)
-
 ## 3. Extract Data connector
 
 **Add data → Extract Data** snapshots a subset of an existing data source into Looker Studio's own storage:
@@ -64,8 +62,6 @@ Implications:
 | Pre-aggregated at extract grain | New fields require re-extract |
 
 Best for: dashboards on GA4/Ads/Sheets that do not need real time; executive summaries; anything with API quotas.
-
-![Extract Data](../../assets/images/ch10-02.png)
 
 ## 4. BigQuery: partitioning, clustering and cost
 

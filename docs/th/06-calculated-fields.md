@@ -22,8 +22,6 @@
 | **Data source** | Data source editor → **Add a field** | ทุก report ที่ใช้ source นี้ | ตรรกะธุรกิจที่ทุกคนต้องใช้ (margin, กลุ่มขนาดออเดอร์) |
 | **Chart** | Chart Setup → **Add metric/dimension → Create field** | chart เดียว | ทดลองเร็ว ๆ, label เฉพาะ chart |
 
-![Add a field](../../assets/images/ch06-01.png)
-
 Editor ตรวจสูตรขณะพิมพ์: เครื่องหมายถูกสีเขียว = ผ่าน; สีแดง = มีข้อผิดพลาดพร้อมข้อความ ชื่อ field แยกตัวพิมพ์เล็ก-ใหญ่และแสดงเป็น `field_name`; ข้อความใช้เครื่องหมายคำพูด `"double"` หรือ `'single'`
 
 > **💡 Tip** Field ระดับ chart ใช้ซ้ำไม่ได้ พอสูตรทำงานแล้วให้สร้างใหม่ที่ระดับ data source แล้วลบสำเนาใน chart
@@ -182,8 +180,6 @@ REGEXP_REPLACE(customer_name, "\\s+\\w\\.$", "")        -- ตัด " A." ท�
 - escape backslash สองครั้งใน editor: `\\d`, `\\w`, `\\s`
 - `REGEXP_MATCH` ต้อง match **ทั้ง** สตริง; ครอบด้วย `.*…*.` เพื่อให้เป็น "contains" หรือใช้ `REGEXP_CONTAINS`
 - ใช้ regex ใน control และ editor filter ได้ด้วย (operator *RegExp Match / RegExp Contains*)
-
-![REGEXP formula](../../assets/images/ch06-02.png)
 
 ตัวอย่างการตลาด — กลุ่มช่องทางจาก `channel`
 

@@ -42,8 +42,6 @@ flowchart LR
 5. ทำซ้ำได้ถึง 5 ตาราง แต่ละตาราง join กับตารางที่อยู่ติดกันทางซ้าย
 6. ตั้งชื่อ blend (มุมซ้ายบน) แล้ว **Save** จะเห็นใน data source picker ของ chart และใน Manage blends
 
-![Blend editor](../../assets/images/ch07-01.png)
-
 ตัวเลือกต่อตาราง
 - **Date range dimension** — ต้องตั้ง เพื่อให้ date control กรองตารางนี้ได้
 - **Filters** — editor filter เฉพาะตารางภายใน blend
@@ -57,8 +55,6 @@ flowchart LR
 | **Inner** | เฉพาะที่ตรงกัน | อยากตัดแถวที่ไม่ match เช่น เฉพาะสินค้าที่ active |
 | **Full outer** | ทุกแถวจากทั้งสองฝั่ง | ตาราง fact สองตารางที่ฝั่งใดฝั่งหนึ่งอาจไม่มีข้อมูล (ยอดขาย vs เป้ารายเดือน) |
 | **Cross** | ผลคูณคาร์ทีเซียน ไม่มี key | รวมตาราง parameter/target ที่มีแถวเดียวเข้ากับทุกอย่าง |
-
-![Join types](../../assets/images/ch07-02.png)
 
 > **⚠️ Warning** Full outer join ให้ key เป็น NULL ฝั่งหนึ่ง ใช้ `COALESCE(table1.month, table2.month)` ใน calculated field เพื่อให้ได้ dimension ที่สะอาด
 
@@ -82,8 +78,6 @@ Chart: bar ของ `SUM(sales_amount)` ตาม `segment` breakdown ด้ว
 - ตาราง 2 `marketing_campaigns`: dim `start_date` ตัดเป็นเดือนชื่อ `month`; metric `spend`, `leads`, `conversions`
 - join **full outer** ด้วย `month = month`
 - Blend metric: `SUM(sales_amount) / SUM(spend)` = รายได้ต่อ 1 บาทที่ใช้จ่าย
-
-![Blended ROI chart](../../assets/images/ch07-03.png)
 
 ## 6. Pattern 3: self-blend เพื่อทำค่ารวมแบบ "LOD"
 

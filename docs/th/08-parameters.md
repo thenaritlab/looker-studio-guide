@@ -34,8 +34,6 @@ Parameter อยู่ได้ที่ **ระดับ data source** (ใช
 2. ตั้งชื่อ (`Target Growth`), ID (อัตโนมัติ เช่น `target_growth`), ชนิดข้อมูล, ค่าที่อนุญาต (any / list of values / range), ค่าเริ่มต้น
 3. Save parameter จะแสดงในแผง Data เป็นสีม่วง
 
-![Create parameter](../../assets/images/ch08-01.png)
-
 ## 3. ผูก control เข้ากับ parameter
 
 Control ที่ขับ parameter ได้: **Input box**, **Slider**, **Drop-down list**, **Fixed-size list**, **Checkbox**, **Button** เพิ่ม control แล้วใน Setup เลือก parameter เป็น **Control field** ตัวเลือกใน control จะมาจากค่าที่อนุญาตของ parameter
@@ -55,8 +53,6 @@ SUM(sales_amount) * (1 + growth_rate)
 3. Time series: `SUM(sales_amount)` และ field เป้าหมายเป็น 2 เส้น เลื่อน slider แล้วเส้นเป้าจะวาดใหม่ทันที
 
 ต่อยอดด้วย `target_margin` และเน้นเดือนที่ `SUM(profit)/SUM(sales_amount) < target_margin` ด้วย conditional formatting
-
-![Parameter in calculated field](../../assets/images/ch08-02.png)
 
 ## 5. Use case 2: สลับ dimension / metric แบบ dynamic
 
@@ -106,8 +102,6 @@ GROUP BY 1, 2
 - Parameter ของเราต้องสร้างใน data source และส่งเป็นค่าที่มีชนิดข้อมูล List parameter มาเป็น array — ใช้ `IN UNNEST(@param)`
 
 รูปแบบนี้ผลักการกรองเข้า BigQuery **ก่อน** aggregate: สแกน byte น้อยลง chart เร็วขึ้น
-
-![BigQuery custom query with parameter](../../assets/images/ch08-03.png)
 
 > **⚠️ Warning** อย่าต่อ parameter เข้าไปในสตริง SQL (ไม่จำเป็น — BigQuery bind ค่าให้อย่างปลอดภัย) Custom query ที่มี parameter จะ cache ข้ามค่าที่ต่างกันไม่ได้ ทุกครั้งที่เปลี่ยนค่าคือ query ใหม่
 

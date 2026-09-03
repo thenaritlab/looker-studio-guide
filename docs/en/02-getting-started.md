@@ -18,8 +18,6 @@
 2. Accept the terms on first use. Country and marketing preferences can be changed later under **Settings**.
 3. You land on the **Home** page. The left rail shows **Reports**, **Data sources**, **Explorer**, and **Templates**; the top has **Create** and the search box.
 
-![Home page](../../assets/images/ch02-01.png)
-
 > **💡 Tip** If your company uses Google Workspace, an admin may have turned Looker Studio off. If you see "You don't have access", ask IT to enable the *Looker Studio* service in the Admin console rather than using a personal account with company data.
 
 ## 2. Reports, data sources, explorer — the three objects
@@ -35,8 +33,6 @@ A data source can be **embedded** (lives only inside one report) or **reusable**
 ## 3. UI tour of the report editor
 
 Click **Create → Report** and add any data source to open the editor. Four zones:
-
-![Editor zones](../../assets/images/ch02-02.png)
 
 1. **Toolbar** (top): undo/redo, **Add page**, **Add data**, **Add a chart**, **Add a control**, text/image/shape, **Theme and layout**, **View / Edit** toggle, **Share**.
 2. **Canvas** (center): the page. Default size 1200 × 900 px; change under **Theme and layout → Layout**.
@@ -62,8 +58,6 @@ We will use `sales_orders.csv`. Load it into a Google Sheet first (see [datasets
 8. Click **Theme and layout** and pick any theme; the whole page restyles.
 9. Rename the report (top-left title) to *Sales Overview — Lab 02*.
 10. Click **View** to see it as a reader would. Change the date range and watch all three charts update.
-
-![First report](../../assets/images/ch02-04.png)
 
 > **🧪 Lab** [Lab 02](../../labs/lab02-getting-started/README.md) repeats these steps with checkpoints and adds a second page.
 

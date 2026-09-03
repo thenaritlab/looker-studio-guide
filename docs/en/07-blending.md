@@ -42,8 +42,6 @@ It is **not** a database join at row level. If you include only `region` from `s
 5. Repeat for up to 5 tables. Each table joins to the one immediately to its left.
 6. Name the blend (top-left) and **Save**. It appears in the chart's data source picker and under Manage blends.
 
-![Blend editor](../../assets/images/ch07-01.png)
-
 Options per table:
 - **Date range dimension** — needed so the date control can filter this table.
 - **Filters** — table-specific editor filters inside the blend.
@@ -57,8 +55,6 @@ Options per table:
 | **Inner** | Only matches | You want to drop unmatched rows, e.g. active products only |
 | **Full outer** | All rows from both | Two fact tables where either side may be missing (sales vs targets by month) |
 | **Cross** | Cartesian product, no keys | Combine a one-row parameter/targets table with everything |
-
-![Join types](../../assets/images/ch07-02.png)
 
 > **⚠️ Warning** Full outer joins produce NULL keys on one side. Use `COALESCE(table1.month, table2.month)` in a calculated field for a clean dimension.
 
@@ -82,8 +78,6 @@ Goal: **Marketing ROI** — monthly sales vs monthly marketing spend.
 - Table 2 `marketing_campaigns`: dim `start_date` truncated to month as `month`; metrics `spend`, `leads`, `conversions`.
 - Join **full outer** on `month = month`.
 - Blend metric: `SUM(sales_amount) / SUM(spend)` = revenue per baht of spend.
-
-![Blended ROI chart](../../assets/images/ch07-03.png)
 
 ## 6. Pattern 3: self-blend for "LOD" style aggregates
 

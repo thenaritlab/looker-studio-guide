@@ -25,8 +25,6 @@ Click **Share** (top-right):
 | **Manage access** tab | Owner can *prevent editors from changing access*, *disable downloading, printing and copying for viewers* |
 | **Transfer ownership** | To a service/shared account before someone leaves |
 
-![Share dialog](../../assets/images/ch11-01.png)
-
 Viewers need **two** things: access to the *report* and (depending on credentials) access to the *data*. Most support tickets are the second one.
 
 ## 2. Sharing data sources and credential implications
@@ -55,8 +53,6 @@ Viewers need **two** things: access to the *report* and (depending on credential
 - Delivers a **PDF** (and link). Report filter/control state can be captured: set controls first, then schedule → *include current filter state*.
 - Free tier: email only. **🔒 Pro only:** deliver to **Google Chat spaces**, more schedules per report, and schedules owned by the workspace (survive employee departure).
 
-![Schedule delivery](../../assets/images/ch11-02.png)
-
 ## 5. Embedding
 
 **File → Embed report** (or Share → Embed):
@@ -65,8 +61,6 @@ Viewers need **two** things: access to the *report* and (depending on credential
 3. Paste into your website, Google Sites, Notion, Confluence, or a portal.
 
 Access rules still apply: viewers must be signed in to a Google account that has access, unless the link is *Anyone with the link*. Pass filters/parameters in the embed URL (chapter 08 §8) to personalise per page.
-
-![Embed dialog](../../assets/images/ch11-03.png)
 
 > **🔁 Coming from Tableau/Power BI?** There is no embed SDK or JS API for filters/events in Looker Studio; embedding is iframe + URL parameters. For app-grade embedding use Looker (chapter 13).
 
@@ -91,8 +85,6 @@ Pro is a paid subscription per user per Google Cloud project (billed via Google 
 | **Gemini in Looker Studio** (chart generation, calculated-field help, slide/summary generation) | Limited/rolling out | ✔ |
 | Admin controls: audit logs, disable public sharing at org level | Basic | ✔ |
 | Enterprise-grade data governance via Looker | — | ✔ |
-
-![Team workspace](../../assets/images/ch11-04.png)
 
 When to buy: any team of >5 people maintaining reports, any client-facing agency, or any org where "the owner left and the report broke" has happened once. When not: solo analysts and small businesses on Sheets.
 

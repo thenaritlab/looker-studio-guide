@@ -94,10 +94,6 @@ LEFT JOIN `looker_guide.products`  p USING (product_id);
 
 **หน้า 4 — About**: คำนิยาม แหล่งข้อมูล การ refresh เจ้าของ วิธีใช้ filter
 
-![Page 1](../../assets/images/ch14-01.png)
-![Page 2](../../assets/images/ch14-02.png)
-![Page 3](../../assets/images/ch14-03.png)
-
 ## 5. แผนสร้าง (4 session)
 
 | Session | วันที่ | ทำอะไร | บทที่ใช้ |

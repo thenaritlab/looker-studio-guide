@@ -94,10 +94,6 @@ Sheets alternative: use a blend (Lab 07 pattern 1) and accept slower charts.
 
 **Page 4 — About**: definitions, data sources, refresh, owner, how to use filters.
 
-![Page 1](../../assets/images/ch14-01.png)
-![Page 2](../../assets/images/ch14-02.png)
-![Page 3](../../assets/images/ch14-03.png)
-
 ## 5. Build plan (4 sessions)
 
 | Session | Date | Do | Chapters used |

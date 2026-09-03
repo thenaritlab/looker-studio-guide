@@ -24,8 +24,6 @@
 | **Google connectors** | Google Sheets, BigQuery, File upload, Google Analytics (GA4), Google Ads, Search Console, YouTube Analytics, Cloud SQL for MySQL/PostgreSQL, MySQL, PostgreSQL, Microsoft SQL Server, Extract Data, Looker, Google Cloud Storage | Built and supported by Google |
 | **Partner connectors** | Supermetrics, Funnel, Windsor.ai, Power My Analytics, plus hundreds more for Meta Ads, TikTok, Shopify, HubSpot, LINE Ads… | Third party; many are paid |
 
-![Connector gallery](../../assets/images/ch03-01.png)
-
 > **💡 Tip** Before paying for a partner connector, check whether the platform can export to BigQuery or Google Sheets natively (Meta, Shopify, HubSpot all can). Then use the free Google connector.
 
 ## 2. Anatomy of a data source
@@ -38,8 +36,6 @@ A data source = **connection** + **schema**. Open one (Data sources list → nam
 - **Description** — shows as a tooltip for editors.
 - **Add a field** / **Add a parameter** — data-source-level calculated fields (chapter 06).
 - **Data credentials**, **Data freshness**, **Community visualizations access** (top bar).
-
-![Data source editor](../../assets/images/ch03-02.png)
 
 ## 3. Google Sheets connector
 
@@ -77,8 +73,6 @@ Four ways to connect:
 | **Shared projects** | Someone shared a project ID with you |
 | **Custom query** | You want SQL (aggregations, joins, parameters). Supports `@parameter` placeholders (chapter 08) |
 | **Public datasets** | Learning and demos, e.g. `bigquery-public-data.thelook_ecommerce` |
-
-![BigQuery connector](../../assets/images/ch03-03.png)
 
 Setting up the free sandbox:
 1. Go to **https://console.cloud.google.com** → create a project (e.g. `looker-guide-2026`).
@@ -122,8 +116,6 @@ Looker Studio caches query results. **Data freshness** (data source top bar) set
 | File upload | Static until re-uploaded |
 
 Viewers can force a refresh with **↻ Refresh data** (top-right in view mode). Every refresh re-runs queries, so a 1-minute freshness on BigQuery can cost real money on a busy report.
-
-![Data freshness](../../assets/images/ch03-04.png)
 
 ## 9. Reusable vs embedded, and swapping sources
 

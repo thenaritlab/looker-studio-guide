@@ -24,8 +24,6 @@
 | **Google connectors** | Google Sheets, BigQuery, File upload, Google Analytics (GA4), Google Ads, Search Console, YouTube Analytics, Cloud SQL for MySQL/PostgreSQL, MySQL, PostgreSQL, Microsoft SQL Server, Extract Data, Looker, Google Cloud Storage | Google สร้างและซัพพอร์ตเอง |
 | **Partner connectors** | Supermetrics, Funnel, Windsor.ai, Power My Analytics และอีกหลายร้อยตัวสำหรับ Meta Ads, TikTok, Shopify, HubSpot, LINE Ads ฯลฯ | บริษัทภายนอก หลายตัวมีค่าใช้จ่าย |
 
-![แกลเลอรี connector](../../assets/images/ch03-01.png)
-
 > **💡 Tip** ก่อนจ่ายเงินซื้อ partner connector ให้เช็กก่อนว่าแพลตฟอร์มนั้น export ไป BigQuery หรือ Google Sheets ได้เองไหม (Meta, Shopify, HubSpot ทำได้หมด) แล้วใช้ Google connector ฟรีแทน
 
 ## 2. องค์ประกอบของ data source
@@ -38,8 +36,6 @@ Data source = **การเชื่อมต่อ** + **schema** เปิด
 - **Description** — แสดงเป็น tooltip ให้ผู้แก้ไข
 - **Add a field** / **Add a parameter** — calculated field ระดับ data source (บทที่ 06)
 - **Data credentials**, **Data freshness**, **Community visualizations access** (แถบด้านบน)
-
-![Data source editor](../../assets/images/ch03-02.png)
 
 ## 3. Google Sheets connector
 
@@ -77,8 +73,6 @@ Data source = **การเชื่อมต่อ** + **schema** เปิด
 | **Shared projects** | มีคนแชร์ project ID มาให้ |
 | **Custom query** | อยากเขียน SQL (aggregate, join, parameter) รองรับ `@parameter` (บทที่ 08) |
 | **Public datasets** | ใช้เรียนและเดโม เช่น `bigquery-public-data.thelook_ecommerce` |
-
-![BigQuery connector](../../assets/images/ch03-03.png)
 
 ตั้งค่า sandbox ฟรี
 1. ไปที่ **https://console.cloud.google.com** → สร้างโปรเจกต์ (เช่น `looker-guide-2026`)
@@ -122,8 +116,6 @@ Looker Studio cache ผลลัพธ์ของ query **Data freshness** (แ
 | File upload | คงที่จนกว่าจะอัปโหลดใหม่ |
 
 ผู้อ่านสั่ง refresh เองได้ด้วยปุ่ม **↻ Refresh data** (มุมขวาบนใน view mode) ทุกครั้งที่ refresh คือรัน query ใหม่ ดังนั้น freshness 1 นาทีบน BigQuery กับรายงานที่คนเปิดเยอะอาจมีค่าใช้จ่ายจริง
-
-![Data freshness](../../assets/images/ch03-04.png)
 
 ## 9. Reusable กับ embedded และการสลับ data source
 

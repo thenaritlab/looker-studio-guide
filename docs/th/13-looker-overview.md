@@ -87,16 +87,12 @@ explore: sales_orders {
 
 สังเกตว่าได้อะไรเทียบกับ blend ในบทที่ 07: join ประกาศครั้งเดียวพร้อม cardinality (`relationship`) Looker จึงเลี่ยงการนับซ้ำจาก fan-out ได้, symmetric aggregate, measure ที่ใช้ซ้ำได้พร้อม format, และ RLS ในบรรทัดเดียว
 
-![LookML view](../../assets/images/ch13-02.png)
-
 ## 4. Explore, Look, dashboard และ board
 
 - **Explore**: เลือก dimension/measure จาก field picker → Looker เขียน SQL → ตาราง + visualization มี filter, pivot, table calculation (ใช่ Looker มี) และ **drill** ไปรายละเอียดแถวที่กำหนดใน LookML
 - **Look**: บันทึก query จาก Explore **Dashboard**: tile, cross-filtering, dashboard filter ที่ map กับ field, scheduling และ alert (`when total_sales < 1M`)
 - **Board** รวบรวม dashboard สำหรับทีม
 - **Gemini in Looker**: Explore ด้วยภาษาธรรมชาติ ช่วยเขียนสูตร/LookML สรุป dashboard
-
-![Explore UI](../../assets/images/ch13-01.png)
 
 ## 5. ฟีเจอร์ governance ที่ Looker Studio ไม่มี
 
@@ -118,8 +114,6 @@ explore: sales_orders {
 
 - **Looker**: modelling, governance, embedded analytics, alert
 - **Looker Studio (Pro)**: รายงาน self-service ที่รวดเร็วสำหรับผู้ใช้ธุรกิจและการแชร์ภายนอก
-
-![Looker Studio connected to a Looker Explore](../../assets/images/ch13-03.png)
 
 ## 7. เลือกอย่างไร: Looker Studio → Pro → Looker
 

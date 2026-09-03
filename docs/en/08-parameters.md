@@ -34,8 +34,6 @@ Parameters live at **data source level** (usable in that source's calculated fie
 2. Name (`Target Growth`), ID (auto, e.g. `target_growth`), data type, permitted values (any / list of values / range), default value.
 3. Save. The parameter appears in the Data panel in purple.
 
-![Create parameter](../../assets/images/ch08-01.png)
-
 ## 3. Binding a control to a parameter
 
 Any of these controls can drive a parameter: **Input box**, **Slider**, **Drop-down list**, **Fixed-size list**, **Checkbox**, **Button**. Add the control, then in Setup choose the parameter as its **Control field**. The control's options come from the parameter's permitted values.
@@ -55,8 +53,6 @@ SUM(sales_amount) * (1 + growth_rate)
 3. Time series: `SUM(sales_amount)` and the target field as two lines. Moving the slider redraws the target line instantly.
 
 Extend with `target_margin` and highlight months where `SUM(profit)/SUM(sales_amount) < target_margin` via conditional formatting.
-
-![Parameter in calculated field](../../assets/images/ch08-02.png)
 
 ## 5. Use case 2: dynamic dimension / metric switching
 
@@ -106,8 +102,6 @@ GROUP BY 1, 2
 - Your own parameters must be created in the data source and are passed as typed values. List parameters arrive as arrays — use `IN UNNEST(@param)`.
 
 This pattern pushes filtering into BigQuery **before** aggregation: fewer bytes scanned, faster charts.
-
-![BigQuery custom query with parameter](../../assets/images/ch08-03.png)
 
 > **⚠️ Warning** Do not concatenate parameters into SQL strings (there is no need — BigQuery binds them safely). Custom queries with parameters cannot be cached across different parameter values, so each change is a new query.
 

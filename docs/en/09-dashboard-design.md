@@ -114,11 +114,7 @@ flowchart TD
 
 ## 9. Before / after example
 
-![Before/after](../../assets/images/ch09-01.png)
-
 Typical "before": 14 charts, 4 pies, 3 palettes, filters in three corners, no titles. "After": KPI strip, one trend, two sorted bars, one table, single palette, filters top-right, insight text.
-
-![Grid-aligned dashboard](../../assets/images/ch09-02.png)
 
 > **🧪 Lab** Lab 09 gives you the "before" page and asks you to rebuild it.
 

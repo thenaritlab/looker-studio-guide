@@ -18,8 +18,6 @@
 
 ทุก chart ใน Looker Studio คือ **data source + dimension + metric + date range + sort + filter + style** แท็บ **Setup** ดูแล 6 อย่างแรก แท็บ **Style** ดูแลอย่างสุดท้าย เวลา chart ดูผิดปกติให้เช็ก Setup ก่อน — 80% ของปัญหามาจาก aggregation หรือ date range
 
-![เมนู Add a chart](../../assets/images/ch04-01.png)
-
 ## 2. คู่มือเลือกชนิด chart
 
 | คำถามที่ต้องการตอบ | ใช้ | หลีกเลี่ยง |
@@ -51,8 +49,6 @@
 - ผลรวมแยกแถว/คอลัมน์ได้ (**Show totals**)
 - จำกัดที่ 500k เซลล์ที่แสดง; column dimension ควรมีค่าไม่มาก (เดือน ภูมิภาค) ไม่ใช่ order ID
 
-![Table พร้อม heatmap และ bar](../../assets/images/ch04-02.png)
-
 ## 4. Scorecard และการเปรียบเทียบ
 
 Scorecard แสดง metric ที่ aggregate แล้ว 1 ค่า ฟีเจอร์ 2 อย่างที่ทำให้กลายเป็น KPI tile
@@ -64,8 +60,6 @@ Scorecard แสดง metric ที่ aggregate แล้ว 1 ค่า ฟ�
 - ยอดขายเดือนนี้เทียบเดือนก่อน: date range เริ่มต้น *This month*, comparison *Previous period*
 - YTD เทียบ YTD ปีก่อน: *Year to date*, comparison *Previous year*
 - อัตรากำไร: metric = calculated field `SUM(profit) / SUM(sales_amount)` จัดรูปแบบเป็น Percent (บทที่ 06)
-
-![Scorecard พร้อม comparison](../../assets/images/ch04-04.png)
 
 > **💡 Tip** วาง scorecard 3–5 ใบเรียงเป็นแถวบนสุดของหน้า — เรียกว่า *KPI strip* ผู้อ่านคาดหวังแบบนี้
 
@@ -97,8 +91,6 @@ Scorecard แสดง metric ที่ aggregate แล้ว 1 ค่า ฟ�
 
 - **Theme**: เลือก theme สำเร็จรูป หรือ **Extract theme from image** (อัปโหลดโลโก้แล้วระบบสร้างชุดสีให้) กด **Customize** เพื่อตั้งฟอนต์ สีกราฟ พื้นหลัง มุมโค้ง theme มีผลทั้งรายงาน ส่วน Style ของแต่ละ chart จะ override
 - **Layout**: ขนาด canvas (เริ่มต้น 1200 × 900; ใช้กว้าง 1600 สำหรับจอทีวี), **Has margin**, **Grid settings** (snap to grid, 10 px กำลังดี), **Display mode** (Fit to width กับ Actual size), ชนิด navigation (Left, Tab, Top)
-
-![Theme และ layout](../../assets/images/ch04-03.png)
 
 > **💡 Tip** ตั้ง theme *ก่อน* สร้าง chart 30 อัน เปลี่ยนทีหลังก็ได้ แต่ style ที่ override ไว้รายอันจะยังอยู่และดูไม่เข้ากัน
 

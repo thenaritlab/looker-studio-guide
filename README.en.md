@@ -109,7 +109,7 @@ looker-studio-guide/
 ├── README.md (Thai) · README.en.md (English)
 ├── LICENSE · CREDITS.md · ROADMAP.md · CONTRIBUTING.md
 ├── assets/logo/        The Narit Lab logo (SVG)
-├── assets/images/      chapter illustrations
+├── assets/images/      shot-list for a future illustrated edition
 ├── docs/th/            Thai chapters 00–99
 ├── docs/en/            English chapters 00–99
 ├── labs/               Labs 02–14 (bilingual, one file each)

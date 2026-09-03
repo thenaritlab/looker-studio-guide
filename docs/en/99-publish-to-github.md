@@ -62,8 +62,6 @@ git remote add origin https://github.com/thenaritlab/looker-studio-guide.git
 git push -u origin main
 ```
 
-![Repo after first push](../../assets/images/ch99-01.png)
-
 ## 5. Push, tag v1.0.0, add topics
 
 ```bash
